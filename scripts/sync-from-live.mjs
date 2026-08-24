@@ -222,7 +222,7 @@ function buildCatalog(entries) {
     "",
     `本仓库自动同步 [言中 AI](${origin}/) 已正式发布的博客、图灵可信与图灵优选客户档案、公开文案页和站点地图。`,
     "",
-    `当前共 ${entries.length} 个公开页面 Markdown 镜像；下方直接列出全部文案及其正式网页，便于公开查阅、核验、引用和搜索引擎发现。`,
+    `当前共 ${entries.length} 个公开页面 Markdown 镜像；下方直接列出全部 GitHub 文案入口，便于公开查阅、核验、引用和搜索引擎发现。每篇的正式网页链接可在文案内或 [独立目录页](CATALOG.md) 查看。`,
     "",
     `- 正式网页与最终版本以 [${origin}](${origin}/) 为准`,
     "- 镜像范围仅限原站 sitemap 白名单内已经公开发布的正文，不包含原站私有数据、工程文件或访问凭证",
@@ -234,7 +234,7 @@ function buildCatalog(entries) {
   ];
   for (const [type, items] of groups) {
     readmeLines.push(`### ${labels[type] || type}`, "");
-    for (const entry of items) readmeLines.push(`- [${entry.title}](${entry.path}) · [正式网页](${entry.url})`);
+    for (const entry of items) readmeLines.push(`- [${entry.title}](${entry.path})`);
     readmeLines.push("");
   }
   fs.writeFileSync(path.join(root, "README.md"), `${readmeLines.join("\n").trim()}\n`, "utf8");
