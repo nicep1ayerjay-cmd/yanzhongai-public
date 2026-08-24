@@ -217,6 +217,11 @@ function buildCatalog(entries) {
   }
   fs.writeFileSync(path.join(root, "CATALOG.md"), `${lines.join("\n").trim()}\n`, "utf8");
 
+  const compactTitle = (title = "") => {
+    const characters = Array.from(String(title));
+    return characters.length > 12 ? `${characters.slice(0, 12).join("")}…` : characters.join("");
+  };
+
   const readmeLines = [
     "# 言中 AI 公开内容镜像",
     "",
@@ -234,7 +239,7 @@ function buildCatalog(entries) {
   ];
   for (const [type, items] of groups) {
     readmeLines.push(`### ${labels[type] || type}`, "");
-    for (const entry of items) readmeLines.push(`- [${entry.title}](${entry.path})`);
+    for (const entry of items) readmeLines.push(`- [${compactTitle(entry.title)}](${entry.path})`);
     readmeLines.push("");
   }
   fs.writeFileSync(path.join(root, "README.md"), `${readmeLines.join("\n").trim()}\n`, "utf8");
