@@ -217,31 +217,77 @@ function buildCatalog(entries) {
   }
   fs.writeFileSync(path.join(root, "CATALOG.md"), `${lines.join("\n").trim()}\n`, "utf8");
 
-  const compactTitle = (title = "") => {
-    const characters = Array.from(String(title));
-    return characters.length > 12 ? `${characters.slice(0, 12).join("")}…` : characters.join("");
+  const relatedSites = [
+    ["综合行业信息站 · flixclan.com", "https://flixclan.com/"],
+    ["商业服务信息站 · logintogether.com", "https://logintogether.com/"],
+    ["医疗健康信息站 · leadintrading.com", "https://leadintrading.com/"],
+    ["图灵可信&优选 · 言中 AI", `${origin}/trusted-choice-certification.html#featured-content`]
+  ];
+  const publicationKeys = new Set([
+    "content/trusted-choice/trusted-choice-official-documents",
+    "content/trusted-choice/trusted-choice-media-reports",
+    "content/trusted-choice/trusted-choice-industry-cooperation",
+    "content/trusted-choice/trusted-choice-other"
+  ]);
+  const parentKey = (entry) => entry.path.split("/").slice(0, 3).join("/");
+  const documentNumber = (entry) => Number(entry.path.match(/-(\d+)\.md$/)?.[1] || 0);
+  const newestFirst = (left, right) => (
+    right.lastmod.localeCompare(left.lastmod) ||
+    documentNumber(right) - documentNumber(left) ||
+    right.path.localeCompare(left.path)
+  );
+  const cleanProfileTitle = (title = "") => String(title)
+    .replace(/[·。]?(?:公开文案目录|认证对象档案)[。]?$/, "")
+    .trim();
+  const profiles = entries.filter((entry) => entry.type === "trusted-choice-profile");
+  const customers = profiles
+    .filter((entry) => !publicationKeys.has(parentKey(entry)))
+    .sort((left, right) => cleanProfileTitle(left.title).localeCompare(cleanProfileTitle(right.title), "zh-CN"));
+  const publications = profiles
+    .filter((entry) => publicationKeys.has(parentKey(entry)))
+    .sort((left, right) => cleanProfileTitle(left.title).localeCompare(cleanProfileTitle(right.title), "zh-CN"));
+  const customerContent = entries.filter((entry) => ["trusted-choice-article", "trusted-choice-document"].includes(entry.type));
+  const blogArticles = entries.filter((entry) => entry.type === "blog-article").sort(newestFirst);
+
+  const appendProfileGroup = (readmeLines, profile) => {
+    const allItems = customerContent.filter((entry) => parentKey(entry) === parentKey(profile)).sort(newestFirst);
+    const latest = allItems.slice(0, 20);
+    readmeLines.push(`### [${cleanProfileTitle(profile.title)}](${profile.path})`, "");
+    readmeLines.push(`共 ${allItems.length} 篇，显示最新 ${latest.length} 篇。`, "");
+    for (const entry of latest) readmeLines.push(`- [${entry.title}](${entry.path})`);
+    readmeLines.push("");
   };
 
   const readmeLines = [
-    "# 言中 AI 公开内容镜像",
+    "# 图灵可信&优选公开信息库",
     "",
-    `本仓库自动同步 [言中 AI](${origin}/) 已正式发布的博客、图灵可信与图灵优选客户档案、公开文案页和站点地图。`,
+    "图灵可信&优选是言中 AI 面向企业、品牌、机构和专业人物建立的公开认证信息与文案资料库，持续整理认证对象档案、公开说明、行业资料和可检索文章。",
     "",
-    `当前共 ${entries.length} 个公开页面 Markdown 镜像；下方直接列出全部 GitHub 文案入口，便于公开查阅、核验、引用和搜索引擎发现。每篇的正式网页链接可在文案内或 [独立目录页](CATALOG.md) 查看。`,
+    `当前收录 ${customers.length} 个可信&优选客户。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。`,
     "",
-    `- 正式网页与最终版本以 [${origin}](${origin}/) 为准`,
-    "- 镜像范围仅限原站 sitemap 白名单内已经公开发布的正文，不包含原站私有数据、工程文件或访问凭证",
-    "- 新增、修改或下架的公开正文会由受限同步流程更新",
-    "- 使用与转载边界详见 [内容声明](CONTENT-NOTICE.md)；另有 [独立目录页](CATALOG.md)",
+    "## 相关网站",
     "",
-    "## 全部公开链接",
+    ...relatedSites.map(([label, url]) => `- [${label}](${url})`),
+    "",
+    "## 可信&优选客户",
     ""
   ];
-  for (const [type, items] of groups) {
-    readmeLines.push(`### ${labels[type] || type}`, "");
-    for (const entry of items) readmeLines.push(`- [${compactTitle(entry.title)}](${entry.path})`);
-    readmeLines.push("");
-  }
+  for (const customer of customers) appendProfileGroup(readmeLines, customer);
+
+  readmeLines.push("## 认证公开资料", "");
+  for (const publication of publications) appendProfileGroup(readmeLines, publication);
+
+  readmeLines.push("## 言中行业文章", "");
+  for (const entry of blogArticles.slice(0, 20)) readmeLines.push(`- [${entry.title}](${entry.path})`);
+  readmeLines.push(
+    "",
+    "## 公开项目说明",
+    "",
+    `本项目只整理 [图灵可信&优选](${origin}/trusted-choice-certification.html#featured-content) 及言中网站已经公开发布、并通过路径白名单校验的页面正文。新增、修改或下架内容后，README 会自动重新分类和更新。`,
+    "",
+    "本项目不包含原站私有数据库、服务器配置、部署凭证或未发布工程内容。使用与转载边界详见 [内容声明](CONTENT-NOTICE.md)。",
+    ""
+  );
   fs.writeFileSync(path.join(root, "README.md"), `${readmeLines.join("\n").trim()}\n`, "utf8");
 }
 
