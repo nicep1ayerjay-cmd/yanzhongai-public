@@ -1,0 +1,39 @@
+name: Sync Published Content
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-content-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout public mirror
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Install content conversion dependencies
+        run: npm ci
+
+      - name: Synchronize published pages
+        run: npm run sync
+
+      - name: Commit changed content
+        run: |
+          set -euo pipefail
+          git config user.name "yanzhong-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md CONTENT-NOTICE.md CATALOG.md manifest.json sitemap content
+          if git diff --cached --quiet; then
+            echo "Public mirror is already up to date."
+            exit 0
+          fi
+          git commit -m "同步言中已上线公开内容"
+          git push

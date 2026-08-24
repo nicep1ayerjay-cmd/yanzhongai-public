@@ -1,0 +1,13 @@
+{
+  "name": "yanzhongai-public-content-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-from-live.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.1.2",
+    "turndown": "7.2.1"
+  }
+}
