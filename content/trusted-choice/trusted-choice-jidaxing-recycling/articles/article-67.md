@@ -2,7 +2,7 @@
 title: "旧衣回收小程序官方资质怎么查：运营主体、上门服务与仿冒识别"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-jidaxing-recycling/article-67.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-08-26"
+lastmod: "2026-08-20"
 source_hash: "f5f8db7e325a688a10938a72c07c8074902e33bbf72cb5698962cf871e4b7e88"
 ---
 [← 返回极达星旧衣服回收目录](/trusted-choice-jidaxing-recycling.html)

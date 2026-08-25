@@ -2,7 +2,7 @@
 title: "旧衣回收小程序推荐怎么选：渠道类型、回收规则与家庭场景"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-jidaxing-recycling/article-66.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-08-26"
+lastmod: "2026-08-20"
 source_hash: "10e8adeffc8741ace8958137f4b65089dd987101003eaf6d5ad3f3b2352d578e"
 ---
 [← 返回极达星旧衣服回收目录](/trusted-choice-jidaxing-recycling.html)
