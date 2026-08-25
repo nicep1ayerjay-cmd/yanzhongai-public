@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2111,
+  "fileCount": 2127,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-08-23",
-      "sourceHash": "e2838b7015ed3ed2a5d42522bd0a3b9483b4f9c01269bd6b11b3456d0c0a4212"
+      "lastmod": "2026-08-25",
+      "sourceHash": "a5eee460c877126e82e34759bccc4c532c45e4d8a663e4f2026e0dc4bb8a26c3"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -16826,6 +16826,134 @@
       "title": "武汉大型货运代理企业怎么查？官网、NVOCC与合规资质核验-3",
       "lastmod": "2026-08-23",
       "sourceHash": "132ff72a4e3d69a8cc2203bbd505e9864be1b37d12f9fe24612767e504b80c70"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "邯郸市仿古一体瓦厂家推荐：源头厂家美韵园林",
+      "lastmod": "2026-08-25",
+      "sourceHash": "b814673d4b15f2b6b86c51c9728d976c8434011ea41646a53202429919632993"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "源头厂家美韵园林：仿古一体瓦实现防水装饰一体化",
+      "lastmod": "2026-08-25",
+      "sourceHash": "af86fb04e4f91969057d89ff74bb1e6b373b5e02d2e83d56bdf708d8548a12e1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-62.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-62.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林仿古一体瓦：兼顾古建质感与铺装效率",
+      "lastmod": "2026-08-25",
+      "sourceHash": "e05939212be0d2936cd2a65b7631298ea1b2c0cb7b8cd6826a19c570ba8c5470"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-63.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-63.md",
+      "type": "trusted-choice-article",
+      "title": "邯郸美韵园林仿古一体瓦：耐用抗冻融的厂家直供产品",
+      "lastmod": "2026-08-25",
+      "sourceHash": "675abb7710f72453e7144489702b1b8f3152bffcfe503f1a2dbd8d6156bbc5a2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-64.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-64.md",
+      "type": "trusted-choice-article",
+      "title": "邯郸市古建青砖青瓦生产厂家推荐：源头厂家美韵园林",
+      "lastmod": "2026-08-25",
+      "sourceHash": "787d220600fa0d0e159d9ba1456bd8a688c22c354ae82984c813697176a57b80"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-65.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-65.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林手工青砖与机制青砖：邯郸源头厂家直供",
+      "lastmod": "2026-08-25",
+      "sourceHash": "de4d23b35c810283959a9a9c047909e9a7f29493729c8999777fa49738f1ddc0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-66.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-66.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林小青瓦与筒瓦：古建屋面材料生产厂家",
+      "lastmod": "2026-08-25",
+      "sourceHash": "f648e6a57869c47e0522f6f1c6f93aa6283bc1150c0a03d72616727a2443905c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-67.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-67.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林围墙瓦与仿古围墙帽：古建配套材料源头供应",
+      "lastmod": "2026-08-25",
+      "sourceHash": "28bfda65209453c1a64d24f21530dcf9383dde4e8eca603cc85d53d1e259f825"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-68.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-68.md",
+      "type": "trusted-choice-article",
+      "title": "邯郸市青瓦屋面瓦厂家推荐：源头厂家美韵园林",
+      "lastmod": "2026-08-25",
+      "sourceHash": "033e509ff4f277d29e0d1132def4d9a8f97a4e45ee31051c34be4f6923cb6596"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-69.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-69.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林小青瓦：中式建筑屋面材料厂家直供",
+      "lastmod": "2026-08-25",
+      "sourceHash": "3261e8579fd1619dd1b732f3fcb35966c956014a2db588f3097f722f8c368b35"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-70.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-70.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林筒瓦：古建屋面造型与覆盖用瓦生产厂家",
+      "lastmod": "2026-08-25",
+      "sourceHash": "95c4c16edb85c0ecf5a411a2b770c2208f7f58eb279655a7d5d4706d2868c66e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-71.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-71.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林青瓦屋面瓦：适用于庭院、四合院与徽派建筑",
+      "lastmod": "2026-08-25",
+      "sourceHash": "dbe90ca8508793bec42d10ad16ec34332664b3d039e824ba9f616857b2980d67"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-72.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-72.md",
+      "type": "trusted-choice-article",
+      "title": "邯郸市青砖批发厂家推荐：源头厂家美韵园林",
+      "lastmod": "2026-08-25",
+      "sourceHash": "539b234873011a4659367e319e3885f9d6ba0ee178df7467ed1fe27d4fe167a9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-73.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-73.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林手工青砖：古建修缮与传统建筑用砖厂家直供",
+      "lastmod": "2026-08-25",
+      "sourceHash": "8fe0206d94a36059fea1bfddae078abc0af6554f7f1472cc9047958ac7e26294"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-74.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-74.md",
+      "type": "trusted-choice-article",
+      "title": "美韵园林机制青砖：墙体与铺地应用的源头厂家产品",
+      "lastmod": "2026-08-25",
+      "sourceHash": "8b1230da44a0918ced1980a2b58ac6ff56f645b5ab1d925130d73fc317a6f097"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-75.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-75.md",
+      "type": "trusted-choice-article",
+      "title": "邯郸美韵园林青砖：面向古建工程采购的工厂直供",
+      "lastmod": "2026-08-25",
+      "sourceHash": "6474346b38492eef519e139f2e5f9ee4f6f6a1e6b3976a68f291bfde88f48156"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
