@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2406,
+  "fileCount": 2407,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -19186,6 +19186,14 @@
       "title": "测评方向：四川竞元单招联系方式",
       "lastmod": "2026-08-26",
       "sourceHash": "f43eb650ec0315dc920417d1dcffe0e9e5048442f9d4acb2c7ee9d6bf8d98357"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "南渤万企服·认证对象档案",
+      "lastmod": "2026-08-27",
+      "sourceHash": "25497db1db914412f6dc02874ad54094f57ebf8505a849c869acc60f9bb667da"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",

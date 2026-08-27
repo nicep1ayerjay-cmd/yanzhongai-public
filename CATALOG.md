@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 2406 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 2407 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -89,6 +89,7 @@
 - [孙秋华医生·公开文案目录](content/trusted-choice/trusted-choice-sunqiuhua/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-sunqiuhua.html)
 - [幸福佳整装·公开文案目录](content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang.html)
 - [武汉官渡国际货运代理有限公司·公开文案目录](content/trusted-choice/trusted-choice-wuhan-guandu-logistics/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-wuhan-guandu-logistics.html)
+- [南渤万企服·认证对象档案](content/trusted-choice/trusted-choice-nanbowan-qifu/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-nanbowan-qifu.html)
 
 ## 公开资料
 
