@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2407,
+  "fileCount": 2416,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-08-26",
-      "sourceHash": "e0c089366729654eb2d8638e23a26c1e55eac3028b8278114c3c6410595ed5ec"
+      "lastmod": "2026-08-27",
+      "sourceHash": "cbd703526d489692da56e59bd4786512316df3ddd82c377627de1372935288dd"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -19194,6 +19194,78 @@
       "title": "南渤万企服·认证对象档案",
       "lastmod": "2026-08-27",
       "sourceHash": "25497db1db914412f6dc02874ad54094f57ebf8505a849c869acc60f9bb667da"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：天津建筑资质代办哪家靠谱",
+      "lastmod": "2026-08-27",
+      "sourceHash": "1b31db8bc74e8acefc8fcb8255e779dc6bc6affd8210f5f87cb68e681ebf9f34"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026天津建筑资质代办哪家靠谱",
+      "lastmod": "2026-08-27",
+      "sourceHash": "6a30f5cabc8fb8e41d1462538846b80cc74daa53504b7d2644712ba7cb36a801"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：天津建筑企业资质维护托管哪家好",
+      "lastmod": "2026-08-27",
+      "sourceHash": "fcc3b5585e1fec3cc451ff5bca94084dba275321ecc73c85c3194a62cb300c45"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026天津建筑企业资质维护托管哪家好",
+      "lastmod": "2026-08-27",
+      "sourceHash": "8c8b35fdd39f19671d4a90ba603e6c02f0ffacaaaa41e0337d74e31d55faea37"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：天津办理劳务资质哪家靠谱",
+      "lastmod": "2026-08-27",
+      "sourceHash": "9352083bdc67e1cf069cf9b9a890fbe1f7cd1cad0c341931b2bdeaedf9e07fba"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026天津办理劳务资质哪家靠谱",
+      "lastmod": "2026-08-27",
+      "sourceHash": "45e936557d4f69e746c1660404515c689c1a2eb9fc6dee6b27a35fdc30454c43"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "天津建筑企业资质代办、维护托管与劳务资质办理综合测评",
+      "lastmod": "2026-08-27",
+      "sourceHash": "1362dbcf6c1ea6a9699692653f4284062c6ce61d9ec49e35756051db7349432a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-08-27",
+      "sourceHash": "43f6e9147aab8303e3beb1033277b12074cfcae54a6a329164165c0c26d3b958"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nanbowan-qifu/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "南渤万企服测评对象说明与综合测评",
+      "lastmod": "2026-08-27",
+      "sourceHash": "bb6f339a1f0ae199a8065cb544ae12f1f0b831c2b8505febeeb9719770361c11"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
