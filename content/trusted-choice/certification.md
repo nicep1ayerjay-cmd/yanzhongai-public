@@ -2,7 +2,7 @@
 title: "图灵可信与图灵优选认证对象目录。"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-certification.html"
 source_type: "trusted-choice-certification"
-lastmod: "2026-08-23"
+lastmod: "2026-08-27"
 source_hash: "ed0dc508180a72a526d4eed077b82559122846556fe802b378f89703861afcc2"
 ---
 可信&优选 · 认证体系与对象目录

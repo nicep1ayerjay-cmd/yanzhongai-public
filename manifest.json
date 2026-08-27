@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2416,
+  "fileCount": 2417,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -144,7 +144,7 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-08-23",
+      "lastmod": "2026-08-27",
       "sourceHash": "ed0dc508180a72a526d4eed077b82559122846556fe802b378f89703861afcc2"
     },
     {
@@ -19266,6 +19266,14 @@
       "title": "南渤万企服测评对象说明与综合测评",
       "lastmod": "2026-08-27",
       "sourceHash": "bb6f339a1f0ae199a8065cb544ae12f1f0b831c2b8505febeeb9719770361c11"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qihe-jiangshuiping-decoration.html",
+      "path": "content/trusted-choice/trusted-choice-qihe-jiangshuiping-decoration/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "齐河江水平装修·认证对象档案",
+      "lastmod": "2026-08-27",
+      "sourceHash": "4f5e6d4de95456a88a5f65721baad5dd94474e940d6423cde93abc19b2bb04a6"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
