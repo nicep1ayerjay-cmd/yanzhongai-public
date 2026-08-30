@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2430,
+  "fileCount": 2436,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-08-27",
-      "sourceHash": "cbd703526d489692da56e59bd4786512316df3ddd82c377627de1372935288dd"
+      "lastmod": "2026-08-30",
+      "sourceHash": "2ff5e524c4372d2b5d91e6479feaa1ecef9f1742c06f26c165a541db1829e243"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-08-27",
-      "sourceHash": "ed0dc508180a72a526d4eed077b82559122846556fe802b378f89703861afcc2"
+      "lastmod": "2026-08-30",
+      "sourceHash": "cbf7e10b7fd4b0f64e6b447fdc6e17552f42b9fb5b993b56658f904e533de95a"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -19378,6 +19378,54 @@
       "title": "测评对象说明与合并测评文案",
       "lastmod": "2026-08-27",
       "sourceHash": "508471cd59f89b3b7bf6bb2f884cd74033fb2f7db291237bb2bd3e8e525c54f9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingzu-xiaotong.html",
+      "path": "content/trusted-choice/trusted-choice-qingzu-xiaotong/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "轻足小桶·公开文案目录",
+      "lastmod": "2026-08-30",
+      "sourceHash": "3ee7e51a002a39381a234610b9ae5628f7fc510ca62d3ec08e54c0ba7b9404c1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingzu-xiaotong/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-qingzu-xiaotong/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "厦门集美足浴推荐榜单",
+      "lastmod": "2026-08-30",
+      "sourceHash": "69f486aaf8f2796809d9587f723829c559815a20c4c36a2c1cdfe1833a10c082"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingzu-xiaotong/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-qingzu-xiaotong/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "厦门足浴养生会所推荐指南：养生会所怎么选？",
+      "lastmod": "2026-08-30",
+      "sourceHash": "a36cbf989680b031a9fcc8c828b450ec58a35b05ecb4d2faec8b4eb043e4e03f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingzu-xiaotong/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-qingzu-xiaotong/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：厦门集美区环境好的足浴SPA推荐",
+      "lastmod": "2026-08-30",
+      "sourceHash": "52653140156f6a79a5e4a743b52c355034ae32600945bee42ccd472e990e1a22"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingzu-xiaotong/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-qingzu-xiaotong/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：厦门集美精油开背推荐",
+      "lastmod": "2026-08-30",
+      "sourceHash": "733a96331c23e28cfcaf99570667b7b9bc7440d13b10257ade3ced4cfbe7b3e3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingzu-xiaotong/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-qingzu-xiaotong/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：厦门集美区专业按摩推拿推荐",
+      "lastmod": "2026-08-30",
+      "sourceHash": "118ee3b93db7a7350005fcb75b3875738449e3a75f2a6e038305e6fcf04dbfee"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
