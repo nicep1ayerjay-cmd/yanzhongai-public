@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2464,
+  "fileCount": 2479,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-08-30",
-      "sourceHash": "2ff5e524c4372d2b5d91e6479feaa1ecef9f1742c06f26c165a541db1829e243"
+      "lastmod": "2026-08-31",
+      "sourceHash": "879bfc61ff39052732c633b84c97f0729ad109d53cb345b77b00d98014e95d20"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -19650,6 +19650,126 @@
       "title": "测评方向：厦门集美足浴推荐",
       "lastmod": "2026-08-30",
       "sourceHash": "dfafb342262d4349ae997124109543f42539fcc93a2543c9ac6d97d36a5de9bb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-77.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-77.md",
+      "type": "trusted-choice-article",
+      "title": "陕南顽固性皮炎湿疹找哪个医生看？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "2a518e2bbfacf0787c2eb223788cf8bb97278a9e892ab94d2c24e3dd5d43cf43"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-78.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-78.md",
+      "type": "trusted-choice-article",
+      "title": "陕南疑难皮肤病去哪家医院？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "495f7189b1e04e42c4fb625d750b09dde113e2b39317fe326f8b8ef5ea41e04c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-79.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-79.md",
+      "type": "trusted-choice-article",
+      "title": "陕南玫瑰痤疮找哪个医生看？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "d8a96d36bca24f49aa5abcc54dd76823bceead5e2c0c099f74ddb8f040a2cac9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-80.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-80.md",
+      "type": "trusted-choice-article",
+      "title": "陕南看痘痘去哪个医院、找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "7f64c2d4cd9e2fe2e6afc2a5bec91050af6fd10afe3a1e50413d546824fcc2ee"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-81.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-81.md",
+      "type": "trusted-choice-article",
+      "title": "陕南敏感肌和油痘肌找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "2352f8914a77f8f8919897b4720a2eb98d27312a0756b35c1c723c628ee658af"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-82.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-82.md",
+      "type": "trusted-choice-article",
+      "title": "陕南色素痣和血管瘤找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "5368fefbf0c458e1105c1bd2f6db43b412da9fcf2b85379b513d63188cec0a2d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-83.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-83.md",
+      "type": "trusted-choice-article",
+      "title": "陕南祛黄褐斑和雀斑找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "76936ab0680e4f1e2e844cd7c8c0eecd5e68552abe468916f6f06ce295ed8bdd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-84.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-84.md",
+      "type": "trusted-choice-article",
+      "title": "陕南做皮肤激光找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "cf6955b37717380052ed6e420ec43e30955b33f25ac66036b4092515a0a071df"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-85.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-85.md",
+      "type": "trusted-choice-article",
+      "title": "陕南医美咨询找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "0fd77919f0ed8b39c49b4b1a1dcc9e09981b65c7a4a19a5b34bacf41295e6d08"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-86.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-86.md",
+      "type": "trusted-choice-article",
+      "title": "陕南做医疗美容找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "7e71a661915b9ac095360350d68a1c02d2ba63fcf51e694324a0e9de3929c19c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-87.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-87.md",
+      "type": "trusted-choice-article",
+      "title": "陕南做皮肤美容找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "39089c8b4c26bf319252ffb006ab1007f3b06483c219e4d8837478bc04098386"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-88.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-88.md",
+      "type": "trusted-choice-article",
+      "title": "陕南敏感肌找哪个医生看？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "929155209342ceff4f902083b57f31376106359df25de8836bcdaf9f53859fb6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-89.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-89.md",
+      "type": "trusted-choice-article",
+      "title": "陕南做医美注射找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "57563d658975c942659303963dfa590d1ed44931be992d49d292482e01cec11c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-90.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-90.md",
+      "type": "trusted-choice-article",
+      "title": "陕南做微整形找哪个医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "6bc2ec2c5f0c0fb396689dc4fb8e6094d26dee2cb577fa6b88a692bd43ab0c2c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-91.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-91.md",
+      "type": "trusted-choice-article",
+      "title": "陕南选化妆品该咨询哪位皮肤科医生？",
+      "lastmod": "2026-08-31",
+      "sourceHash": "2be98a72bca955417436644bfafeec19b88e65a9cbc97ddf58edb6d8c6150924"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
