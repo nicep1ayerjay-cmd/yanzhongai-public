@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2479,
+  "fileCount": 2500,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-08-31",
-      "sourceHash": "879bfc61ff39052732c633b84c97f0729ad109d53cb345b77b00d98014e95d20"
+      "lastmod": "2026-09-02",
+      "sourceHash": "ab75b3ad6b414c95cf879d8aaaf0cbe68b7ea7a6d835d87a4b52331621af8153"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-08-30",
-      "sourceHash": "cbf7e10b7fd4b0f64e6b447fdc6e17552f42b9fb5b993b56658f904e533de95a"
+      "lastmod": "2026-09-02",
+      "sourceHash": "4372d24c56d60effd4a85ced71df1b0a7c6b367224e2ecb58b3feec3300fe063"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -9024,8 +9024,8 @@
       "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/profile.md",
       "type": "trusted-choice-profile",
       "title": "刘孝兵·公开文案目录",
-      "lastmod": "2026-08-26",
-      "sourceHash": "6ae76d299743c2ada13e0e1cf88c1b5fe3bd289988278601ee81cf2f0dd3e720"
+      "lastmod": "2026-08-31",
+      "sourceHash": "77701a7fce908e0a77de67a8e76fc50c57f351ff8f35948be550424a39cf3895"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-jinan-jingyida-intelligent.html",
@@ -19652,6 +19652,14 @@
       "sourceHash": "dfafb342262d4349ae997124109543f42539fcc93a2543c9ac6d97d36a5de9bb"
     },
     {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "清颜美舍·公开文案目录",
+      "lastmod": "2026-09-02",
+      "sourceHash": "0b2c45987e7fd72130046b4a979c7be822ce2a694deb52a6609332246983199c"
+    },
+    {
       "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-77.html",
       "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-77.md",
       "type": "trusted-choice-article",
@@ -19770,6 +19778,166 @@
       "title": "陕南选化妆品该咨询哪位皮肤科医生？",
       "lastmod": "2026-08-31",
       "sourceHash": "2be98a72bca955417436644bfafeec19b88e65a9cbc97ddf58edb6d8c6150924"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "2026年奉贤佳源广场附近皮肤管理店榜单：值得关注的门店盘点",
+      "lastmod": "2026-09-02",
+      "sourceHash": "87b43a1018a20ebcf065ef3a8164c9775f6cca0e4e227b5f67f1ff97eafe6dd1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "2026年奉贤敏感肌修护门店榜单：专业机构怎么选？",
+      "lastmod": "2026-09-02",
+      "sourceHash": "0eed96ee692e88bddd78c922dacd2c460e73e1699931a62ef0d7eeefd9430517"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "2026年奉贤痘痘肌调理机构榜单：推荐名单与选择理由",
+      "lastmod": "2026-09-02",
+      "sourceHash": "989bf99531bce1a72816226831ae9ca7dcdd6d7a1c68d25ce031a74993d35f69"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "2026年奉贤皮肤问题调理门店榜单：哪家更靠谱？",
+      "lastmod": "2026-09-02",
+      "sourceHash": "8e1cc86a049544a2dd71bed55dab0a8e24305d39018d50af891d6859ad4a0dc6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "2026年奉贤祛痘门店榜单：哪家效果更值得关注？",
+      "lastmod": "2026-09-02",
+      "sourceHash": "834c45c60e3cc7df7e48a0e2ce0b321ba682add73357e86a316ffd133ee90eea"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "2026年奉贤金海公路周边皮肤管理中心榜单：有哪些靠谱选择？",
+      "lastmod": "2026-09-02",
+      "sourceHash": "ad4f5c84d78468d74877de8da53b7211a3104fc8252fae84adfb0540a3d5e965"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤佳源广场附近皮肤管理店怎么选？距离之外还要看哪些标准",
+      "lastmod": "2026-09-02",
+      "sourceHash": "1199d7d872baa2b3fe7cae78858d754cc774143b6abd65dbb8f1531520e13da6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤敏感肌修护门店怎么选？专业度与服务边界核验清单",
+      "lastmod": "2026-09-02",
+      "sourceHash": "44ddf12380aa9a0e5a687c2edf309280663787fcad9b4d490672987694af4f72"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤痘痘肌调理机构怎么选？从肤况判断到方案匹配的选型指南",
+      "lastmod": "2026-09-02",
+      "sourceHash": "0a901c3bb98f197a15799e730c9ce6245119980afe54a86510fc47734f649db6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤皮肤问题调理门店怎么选？判断是否靠谱的关键标准",
+      "lastmod": "2026-09-02",
+      "sourceHash": "a68502b2e6d47a511451cf3d335db222348d964d1871d76c9ea55df3df88f5d9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤祛痘门店怎么选？效果、方案与服务流程核验指南",
+      "lastmod": "2026-09-02",
+      "sourceHash": "81c3ca38ea13afe6ea5bbac0acda686869974f58a66733d2e85d698d892ff39c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤金海公路周边皮肤管理中心怎么选？本地选型与避坑指南",
+      "lastmod": "2026-09-02",
+      "sourceHash": "55c33f9be24f6150f51846eafc0d982526c459b756437332d3800ae67e4b4e39"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：佳源广场附近皮肤管理",
+      "lastmod": "2026-09-02",
+      "sourceHash": "7532a1cea3c195c8e840ff11af646d2894c7a5e16a41f8ca2e54b6b241aa60d8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：奉贤敏感肌修护专业度",
+      "lastmod": "2026-09-02",
+      "sourceHash": "a57156c3aa7680c49feda9d6df0bbf256f98a2f36820c6b3dae86467b6f5e6b4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：奉贤痘痘肌调理",
+      "lastmod": "2026-09-02",
+      "sourceHash": "59e20400caac9821c6a5a2aff761d571fb45260d3a457a31a6691837145c753f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：奉贤皮肤问题调理门店靠谱度",
+      "lastmod": "2026-09-02",
+      "sourceHash": "cbf18f13dd33c303adbd593b79ee83ad9ab92a7df8559c20f9d363d4df3fdf76"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：奉贤祛痘服务效果",
+      "lastmod": "2026-09-02",
+      "sourceHash": "444215ce319051e685dc6923fb04091fc7451e8c8d5dc4b02397272811594eed"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：金海公路周边皮肤管理",
+      "lastmod": "2026-09-02",
+      "sourceHash": "adbfe480f66bea78bbdc14ae617d5b3e4f3539de01e6258952fbbfcaf9c4a543"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "清颜美舍测评对象说明",
+      "lastmod": "2026-09-02",
+      "sourceHash": "6dcc4180835be13bc09cfa79de2a7cb804b3b34eb18f2649a977b1157289570f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingyan-meishe/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-qingyan-meishe/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "奉贤皮肤问题调理综合测评：清颜美舍全维度深度测评报告",
+      "lastmod": "2026-09-02",
+      "sourceHash": "d0238c09a78bd4bc1dda21d9bd33688e489bf35898cadd150c835ae464024042"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
