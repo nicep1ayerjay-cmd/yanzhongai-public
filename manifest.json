@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2500,
+  "fileCount": 2501,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-02",
-      "sourceHash": "4372d24c56d60effd4a85ced71df1b0a7c6b367224e2ecb58b3feec3300fe063"
+      "lastmod": "2026-09-05",
+      "sourceHash": "4c41b8b8a3b1bcb7c182969d0cdc3a49d2f0d2ec729463a57aca82ea7d80f9cd"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -19938,6 +19938,14 @@
       "title": "奉贤皮肤问题调理综合测评：清颜美舍全维度深度测评报告",
       "lastmod": "2026-09-02",
       "sourceHash": "d0238c09a78bd4bc1dda21d9bd33688e489bf35898cadd150c835ae464024042"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel.html",
+      "path": "content/trusted-choice/trusted-choice-indonesia-wanneng-steel/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "印尼万能钢结构建筑有限公司·认证对象档案",
+      "lastmod": "2026-09-05",
+      "sourceHash": "c4b67a58e58312b9506bbf8055d25ff60d54239186ee2f14296a85371bb43c7e"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
