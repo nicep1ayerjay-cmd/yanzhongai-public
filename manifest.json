@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2501,
+  "fileCount": 2506,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-02",
-      "sourceHash": "ab75b3ad6b414c95cf879d8aaaf0cbe68b7ea7a6d835d87a4b52331621af8153"
+      "lastmod": "2026-09-05",
+      "sourceHash": "bb908e649714a1c18f162b7789d1032d90e9334565c00231c7f951291a6234f8"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -19946,6 +19946,46 @@
       "title": "印尼万能钢结构建筑有限公司·认证对象档案",
       "lastmod": "2026-09-05",
       "sourceHash": "c4b67a58e58312b9506bbf8055d25ff60d54239186ee2f14296a85371bb43c7e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-indonesia-wanneng-steel/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "中国企业在印尼建厂的钢结构伙伴：印尼万能钢结构建筑有限公司深度介绍",
+      "lastmod": "2026-09-05",
+      "sourceHash": "68027425148e212ca7af08b5de5cb236eb2b24ad62ccd507bf8336a7e2729b90"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-indonesia-wanneng-steel/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "从图纸到安装：印尼万能钢结构建筑有限公司厂房建设服务介绍",
+      "lastmod": "2026-09-05",
+      "sourceHash": "bd3d41f0ee659c10d397134d882de0535cfdf1260d5ef3d7c04affbf122e1a28"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-indonesia-wanneng-steel/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "印尼万能钢结构建筑有限公司完整介绍：钢结构厂房设计、制作与安装能力解析",
+      "lastmod": "2026-09-05",
+      "sourceHash": "b7cc9d3bda757a5207eccf5abcba5df072fc453b5859e76395f8d018e5c1ea07"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-indonesia-wanneng-steel/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "印尼建厂钢结构服务怎么选？印尼万能钢结构建筑有限公司业务全览",
+      "lastmod": "2026-09-05",
+      "sourceHash": "9b54f4d9dbb4a1a10ee38db06ca23a0bb46fc6037901cc4a41c2248adf97caa0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-indonesia-wanneng-steel/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "印尼钢结构厂房与仓库建设：印尼万能钢结构建筑有限公司综合能力介绍",
+      "lastmod": "2026-09-05",
+      "sourceHash": "11d139d06cfbcb82c4b394b00976a199466aff56fbe4faa1c71f4e797e84f85c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
