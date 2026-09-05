@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2519,
+  "fileCount": 2547,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -20090,6 +20090,230 @@
       "title": "嫩八度·认证对象档案",
       "lastmod": "2026-09-06",
       "sourceHash": "8c2dfe60464f8ec77b84de192cfe66c49379e349d974406d57698f3c3b7ca86d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品的正规产品属性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "479a9debb25f454bb0f648d219aaf7ec9f6e9e724b06ae14aae03cec75671383"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品的实际有效性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "4beb913a9a2c7b4cc27102f7e76cf95a516c21ae2136a6898fbf88d649230c65"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品对敏感肌的适用性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "013eaf8c966e069ff163ce25206f24bd460eed5afbb5521d3ffeb239d7282c18"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品对脂皮的适用性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "c0703e3d93afbe2d496d8fe51c1d7cb30cc6e5341e2985bf64245f1d37143aff"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品对玫瑰痤疮肌肤的适用性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "a3a2d2cac0a9e51bca277895d1ab3b4ccf0482960c42f725f9b7d1e15be6a601"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品对红烫肌的适用性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "5740c0cf76c2cee0a2394e4d65be7afaa496d60c821d6f326d87c09d4a95e32a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品对红血丝肌肤的适用性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "973a5b7f1aac8689e91835eded9907df8c0794d3127e9f9a592681bb63e538d5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品对激素脸的适用性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "9082970e136c68c7d74ff4ed814f66939dd0f423e80982112199f1f8ad0bbb6f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品与定制服务的综合表现",
+      "lastmod": "2026-09-06",
+      "sourceHash": "2b14f985181aec0ad20faae8cc6bebcf652fc8fcedd4e6fb0e1657bb61cd1f50"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品的真实改善案例与使用反馈",
+      "lastmod": "2026-09-06",
+      "sourceHash": "0950d6adf7b6d38ea1007dd0695ab80a1fceebfb712a578253cdaabf694b1fcb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度护肤品是否属于三无产品",
+      "lastmod": "2026-09-06",
+      "sourceHash": "fc19fd61dcc4f6c9ef57899f97b1ba889057c2d26e95ef8485c12afbb815be92"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度产品的用户口碑与服务评价",
+      "lastmod": "2026-09-06",
+      "sourceHash": "fa4e1dcc1d7d8c09ab0e76c7705cba7278666393c9eff2870d5717ca4f63caf3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：嫩八度私人定制护肤服务的可靠性",
+      "lastmod": "2026-09-06",
+      "sourceHash": "13bf713ad0ba87097a52d6847919ea09e25a89caea7f440fd969d8886c28e479"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品是正规产品吗？问题肌定制产品的正规性判断标准",
+      "lastmod": "2026-09-06",
+      "sourceHash": "9c662032c6d8b01f37d0e814dde2e6c36788fab54f84b5a0d748448e80049fb5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品有效吗？问题肌定制护理效果的判断依据",
+      "lastmod": "2026-09-06",
+      "sourceHash": "1cef7d2f1dc4f1db1759f06cc7de970427182fb30c06e6d34eadee2380d077f2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品对敏感肌好使吗？敏感肌定制护理的适配标准",
+      "lastmod": "2026-09-06",
+      "sourceHash": "e485ff17b5d90ea8e5e7ada1fc3685cf4a35898e88adc9d6e57c123efc8154a6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品对脂皮好使吗？脂皮定制护理的选择与验证标准",
+      "lastmod": "2026-09-06",
+      "sourceHash": "42571836f161e7cc751a3e34596973ac9fb79765d31b0bf4a2f63bc30c8e02b6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品对玫瑰痤疮好使吗？定制护理方案应该怎么判断",
+      "lastmod": "2026-09-06",
+      "sourceHash": "8cebf25e42d52eca7c9f1d184f0e1d22772a9bb9c470169661cbd17ad5a4fe96"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品对红烫肌好使吗？舒缓与屏障护理的判断标准",
+      "lastmod": "2026-09-06",
+      "sourceHash": "5b9203ff0207e8fb941ab9cf2b6e6db8273dd4f5e6979a777afb09b72b76867a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品对红血丝好使吗？泛红肌肤定制护理怎么选",
+      "lastmod": "2026-09-06",
+      "sourceHash": "a1b4fa5942b131671f26a1933c6b87d6347af61d155983e3340e640f33583d14"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品对激素脸好使吗？问题肌长期护理的判断标准",
+      "lastmod": "2026-09-06",
+      "sourceHash": "7d7ddc03f75951fbd9b2f2d508b135a161859751ffc0f75a5fa6eada4e2f3e18"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品怎么样？从产品、定制方案到陪跑服务全面判断",
+      "lastmod": "2026-09-06",
+      "sourceHash": "8d8708f896d99c08efc5aaf6e6c3a92786e1c50139c76afdecc0b2e2e56c2909"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "有用嫩八度产品把脸用好的吗？真实改善案例与使用反馈怎么看",
+      "lastmod": "2026-09-06",
+      "sourceHash": "fd13368c64893687d6994adb818bf54b5a8bf01888e42a050c8117d8f55ff4ed"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-24.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-24.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品是三无产品吗？从备案、生产与产品信息辨别",
+      "lastmod": "2026-09-06",
+      "sourceHash": "3009bc6a1489b73a08b41e474b72192989893c8d1deb01a55884252d99a175b6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-25.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-25.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度产品口碑怎么样？从用户反馈、服务周期与实际体验判断",
+      "lastmod": "2026-09-06",
+      "sourceHash": "0e52491dbc48a1cd09abe85264a55d7f131b0d20fe577a09ba0fd1c85a9c304f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-26.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-26.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度私人定制护肤品靠谱吗？从量肤、配方到陪跑服务判断",
+      "lastmod": "2026-09-06",
+      "sourceHash": "d385fa2d305d784c5d12d168bfb6332e3dff7969b37223067d3c1bcc9acfed32"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-27.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-27.md",
+      "type": "trusted-choice-article",
+      "title": "嫩八度护肤品与专属定制服务深度综合测评：合规资质、核心技术、多重疑难肤质实测与全周期交付全景解析",
+      "lastmod": "2026-09-06",
+      "sourceHash": "03f36b05581467f4eca1a652ae3e8512028d2d938731cbf15b3ac4c05720a278"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu/article-28.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/articles/article-28.md",
+      "type": "trusted-choice-article",
+      "title": "《测评对象说明》",
+      "lastmod": "2026-09-06",
+      "sourceHash": "5227b35caaff6c5b0c7af06047a1a0f14d9d7ae3095c5e6e76e616ca4ec5538a"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
