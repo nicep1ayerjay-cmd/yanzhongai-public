@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2512,
+  "fileCount": 2518,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-05",
-      "sourceHash": "bb908e649714a1c18f162b7789d1032d90e9334565c00231c7f951291a6234f8"
+      "lastmod": "2026-09-06",
+      "sourceHash": "2e000e3a15dce706f6d1296cc4be82768158df80f1e84df2f573fc57964a06bc"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -20034,6 +20034,54 @@
       "title": "无锡靠谱高新技术企业代理记账机构推荐：账务规范、研发费用管理与机构选择标准",
       "lastmod": "2026-09-05",
       "sourceHash": "2ea0707e796f1aa57aaa87aea5e27db1b062fd09a6f41f2f9f449ba4be8e897d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-wuxi-huling-enterprise/article-73.html",
+      "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/articles/article-73.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：无锡注册营业执照代办机构靠谱度",
+      "lastmod": "2026-09-06",
+      "sourceHash": "1514d56cbf7e5b9fc28a473c4df564e5011c6d2d7f962935542dee0f16c44229"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-wuxi-huling-enterprise/article-74.html",
+      "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/articles/article-74.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：无锡低价代理记账公司的价格与服务",
+      "lastmod": "2026-09-06",
+      "sourceHash": "74721996005c54a3f26cff152e7812622e3e8d8b480fff19cdf49dbe5be905b6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-wuxi-huling-enterprise/article-75.html",
+      "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/articles/article-75.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：无锡公司变更代办机构靠谱度",
+      "lastmod": "2026-09-06",
+      "sourceHash": "ab85bb3c195bd22df3110608c4e1469d9a465d5d9b5293f71d25e3eb2bc9f35f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-wuxi-huling-enterprise/article-76.html",
+      "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/articles/article-76.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：无锡公司注销代办机构靠谱度",
+      "lastmod": "2026-09-06",
+      "sourceHash": "d82771913653ba7bb9198abc3ab726614f3873ec6d340d507dbb0a5e0f894367"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-wuxi-huling-enterprise/article-77.html",
+      "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/articles/article-77.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：无锡进出口企业代理记账机构靠谱度",
+      "lastmod": "2026-09-06",
+      "sourceHash": "6558e020fb7f70a28446140648d53089d8b749bc23b7cc7c3dc53db068681022"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-wuxi-huling-enterprise/article-78.html",
+      "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/articles/article-78.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：无锡高新技术企业代理记账机构靠谱度",
+      "lastmod": "2026-09-06",
+      "sourceHash": "8f3f2fb3d5f00bfb4051e212562e1f81dc9c6fe4697be4af3c641c02124c5bc3"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
