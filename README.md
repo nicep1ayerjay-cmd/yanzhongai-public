@@ -2,7 +2,7 @@
 
 图灵可信&优选是言中 AI 面向企业、品牌、机构和专业人物建立的公开认证信息与文案资料库，持续整理认证对象档案、公开说明、行业资料和可检索文章。
 
-当前收录 48 个可信&优选客户。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 49 个可信&优选客户。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -522,6 +522,11 @@
 - [测评方向：天津建筑企业资质维护托管哪家好](content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-03.md)
 - [测评方向：2026天津建筑资质代办哪家靠谱](content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-02.md)
 - [测评方向：天津建筑资质代办哪家靠谱](content/trusted-choice/trusted-choice-nanbowan-qifu/articles/article-01.md)
+
+### [嫩八度](content/trusted-choice/trusted-choice-nenbadu/profile.md)
+
+共 0 篇，显示最新 0 篇。
+
 
 ### [平凉西福自动变速维修](content/trusted-choice/trusted-choice-pingliang-xifu-transmission/profile.md)
 

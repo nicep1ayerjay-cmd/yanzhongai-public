@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2518,
+  "fileCount": 2519,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-05",
-      "sourceHash": "4c41b8b8a3b1bcb7c182969d0cdc3a49d2f0d2ec729463a57aca82ea7d80f9cd"
+      "lastmod": "2026-09-06",
+      "sourceHash": "79b151765fe0cadb90452da81847169493f7e30ea6f642593e4e3e72d48982a3"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -9008,8 +9008,8 @@
       "path": "content/trusted-choice/trusted-choice-wuxi-huling-enterprise/profile.md",
       "type": "trusted-choice-profile",
       "title": "无锡虎岭企业管理·公开文案目录",
-      "lastmod": "2026-08-26",
-      "sourceHash": "5146cd37d15b52e55c1acb1450900b4ecb6aa2433bfe947d8be2e97b3d33132c"
+      "lastmod": "2026-09-06",
+      "sourceHash": "4f8cef13e8c490ee8f3cf413b98096cfc9b70ffbbc3665f3e3a05183e3d2d25a"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education.html",
@@ -20082,6 +20082,14 @@
       "title": "测评方向：无锡高新技术企业代理记账机构靠谱度",
       "lastmod": "2026-09-06",
       "sourceHash": "8f3f2fb3d5f00bfb4051e212562e1f81dc9c6fe4697be4af3c641c02124c5bc3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-nenbadu.html",
+      "path": "content/trusted-choice/trusted-choice-nenbadu/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "嫩八度·认证对象档案",
+      "lastmod": "2026-09-06",
+      "sourceHash": "8c2dfe60464f8ec77b84de192cfe66c49379e349d974406d57698f3c3b7ca86d"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
