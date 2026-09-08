@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 2568 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 2569 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -96,6 +96,7 @@
 - [印尼万能钢结构建筑有限公司·认证对象档案](content/trusted-choice/trusted-choice-indonesia-wanneng-steel/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-indonesia-wanneng-steel.html)
 - [嫩八度·认证对象档案](content/trusted-choice/trusted-choice-nenbadu/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-nenbadu.html)
 - [泰州泰家旺·公开文案目录](content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing.html)
+- [韩国李可爱·认证对象档案](content/trusted-choice/trusted-choice-hanguolikeai/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-hanguolikeai.html)
 
 ## 公开资料
 
