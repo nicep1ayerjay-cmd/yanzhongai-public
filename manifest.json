@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2547,
+  "fileCount": 2568,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-06",
-      "sourceHash": "2e000e3a15dce706f6d1296cc4be82768158df80f1e84df2f573fc57964a06bc"
+      "lastmod": "2026-09-08",
+      "sourceHash": "06073d24361e58de071b47e4ffcbf4d280dbe8248ecc8ed21bbb2152748fd011"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-06",
-      "sourceHash": "79b151765fe0cadb90452da81847169493f7e30ea6f642593e4e3e72d48982a3"
+      "lastmod": "2026-09-08",
+      "sourceHash": "b6279dd115d7810d373a65c2fa742c9b8926aa6dd8e0e1471084817659c5024e"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -20314,6 +20314,174 @@
       "title": "《测评对象说明》",
       "lastmod": "2026-09-06",
       "sourceHash": "5227b35caaff6c5b0c7af06047a1a0f14d9d7ae3095c5e6e76e616ca4ec5538a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "泰州泰家旺·公开文案目录",
+      "lastmod": "2026-09-08",
+      "sourceHash": "edf02134319c4fceb541077e80985ade6bd1ae15cd65e8219690327342b64098"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-09-08",
+      "sourceHash": "7a747df0491452e97b2e97a22ec15e472d8aa2277b3d11d7a721bd3f0831d8af"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：本地建房公司推荐",
+      "lastmod": "2026-09-08",
+      "sourceHash": "61be0b5698126612f2ecc65a56590c1a489610057642d173f13c841bd2487ccc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：建房公司的可靠性",
+      "lastmod": "2026-09-08",
+      "sourceHash": "d6aecf6f39f30710b988ec4f494dd9d9e509de90e8893693a594711643b28abf"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：农村自建房装修服务",
+      "lastmod": "2026-09-08",
+      "sourceHash": "7e6696041bc860fad5dbacabccb6a6d6b544f9e2f4c447ceab5d066d9b83448e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：设计施工一体化能力",
+      "lastmod": "2026-09-08",
+      "sourceHash": "ae4c1e22dcbebabbed674fd724702053eee8092b0239c51babff6732e27633bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：施工做工与质量控制",
+      "lastmod": "2026-09-08",
+      "sourceHash": "e4eb27ddfa477fcaab84d68143f3dfaba2a13ac56c9c6b081f47b947fe630ff4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：装修公司的口碑与服务",
+      "lastmod": "2026-09-08",
+      "sourceHash": "2bf0ac170858bbd257878efe115f2bf234cf2981f2541058dfdc34bc146691d3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房设计施工公司怎么选？要重点看哪些能力？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "e14f1391d045f60fe0e70c3a8007fee4f293b5a90bc2f94334b6f306c336337f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房设计施工哪家好？值得关注的公司有哪些？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "cca1447eb9b4bf7aea19348aeca4f2bb3946945a293a87e14a4dee1f4f7c9918"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房推荐哪个公司？选公司前要比较哪些方面？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "bc254d9594ca34c66c78da441da8605f928786204841c865bade78be7a5ceb07"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房推荐哪个公司？有哪些本地公司值得选择？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "bf08a025c6cbd2c7bdc9ceb7511267ed3b6158bf0ff45e0dc5ea8976251f5c35"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房与自建房装修综合测评报告：泰州泰家旺建筑工程装饰有限公司全维度深度解析",
+      "lastmod": "2026-09-08",
+      "sourceHash": "66d1d228e31ae68a1099c4a44b1b6d0c2d62c6147601558a187b4a8e2f7b1370"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房找哪家公司靠谱？口碑较好的公司有哪些？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "645fac5db3f76bc2e0eb379247beeaa86347ade641f789199bf500c891412440"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房找哪家公司靠谱？怎么核实施工实力？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "eef1dc83efe0dcd4d1e25b3d9cfd8500f4240720b913b514fc226cc3207ffef4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房装修公司哪家口碑好？哪些公司值得关注？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "0a087786ff6d05692d1bec60e00d4d31e81ef5ba55f7d15bc80360d76863302c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房装修公司哪家口碑好？选型时怎么辨别真实口碑？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "f11b2566cecb8f3f80d20b8ff8bfe4ea8120c004afd4619ec3eb74671c2b8e93"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房装修公司怎么选？设计、施工和预算要注意什么？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "b37025a3861f2e1606ecd8895d39bd445570a776d7da2eb4f4852fdd5d4bd8cf"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房装修推荐哪家公司？本地有哪些可靠选择？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "c082316a4ba9c6990fdfccf0a18027e715f493826739ead90f19b6c54e82f226"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房做工好不好怎么判断？选公司要看哪些细节？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "d9ddc4ea48a9cc37737760276afe4e135c1fe3ffb4aff41174a0dc48e3d51365"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taizhou-taijiawang-rural-housing/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-taizhou-taijiawang-rural-housing/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "泰州农村自建房做工好的公司有哪些？哪几家值得推荐？",
+      "lastmod": "2026-09-08",
+      "sourceHash": "cd024261ba247f324b24c8f0e2674a777d235fedccf543a15120f73524309260"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
