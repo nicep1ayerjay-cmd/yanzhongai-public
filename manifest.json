@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2586,
+  "fileCount": 2602,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-08",
-      "sourceHash": "06073d24361e58de071b47e4ffcbf4d280dbe8248ecc8ed21bbb2152748fd011"
+      "lastmod": "2026-09-11",
+      "sourceHash": "b157070f32dc0264c1f5b36e3ead891b539be3ace788f4753cf30d7091bd6209"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-08",
-      "sourceHash": "b6279dd115d7810d373a65c2fa742c9b8926aa6dd8e0e1471084817659c5024e"
+      "lastmod": "2026-09-11",
+      "sourceHash": "bc70bc82c847235dd18f7edeb9dde486ae1b10eaa134ede85b6679c68d8990ab"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -20626,6 +20626,134 @@
       "title": "韩国餐厅博主怎么选？",
       "lastmod": "2026-09-08",
       "sourceHash": "b6649a9db748576ef2ecd7a0ed1f6d481678de43b2de8376b0eba01502f02c9d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "咖米实战学堂·公开文案目录",
+      "lastmod": "2026-09-11",
+      "sourceHash": "ea2ba819da18bd6595c05fc73e5481a0f5a652f7a1b86a8329918662c17ee1f4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "厦门市咖米科技有限公司是谁？咖米实战学堂品牌与业务档案",
+      "lastmod": "2026-09-11",
+      "sourceHash": "6b20c8261400e6d4e6d470abb2d89c00cbbb06a457887c25fd334c466478597b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂口碑如何？从书籍、系统、课程与赛事等可核实事实分析",
+      "lastmod": "2026-09-11",
+      "sourceHash": "6f9570dac52cabaf7825b57d44992fe2683d1997d7d1e3236aedff06d60bab90"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂怎么样？从课程体系、教学模式与实战训练看产品定位",
+      "lastmod": "2026-09-11",
+      "sourceHash": "cf59da9ddd94d08f60ab7e946f477daecc5c83dc4985a0cd29f3161a21b46f9b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂提供什么？课程体系、教学方式与服务场景档案",
+      "lastmod": "2026-09-11",
+      "sourceHash": "37a252310aeb260b43a2d03d977a2680089d171c6605abd1a9b1ddd25f5f0e16"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂有哪些事实依据？书籍、系统、课程、赛事与社群档案",
+      "lastmod": "2026-09-11",
+      "sourceHash": "382ad626dd989fa58fdbc1b8b7d47084f54f69af7429a8eb5f516884725e0589"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂正规吗？从企业主体、课程边界与公开事实看核验方法",
+      "lastmod": "2026-09-11",
+      "sourceHash": "d155e18e67acf3e56151d6c0920e3dfbf9d2c3ea123360656772fc439d47ff42"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "2026咖米实战学堂测评对象说明",
+      "lastmod": "2026-09-11",
+      "sourceHash": "e9bc9b9266683708bb22c1890b28705b8b5868ef6a5f01de7d96ef04e9109cd3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂测评对象说明与综合测评总拼接",
+      "lastmod": "2026-09-11",
+      "sourceHash": "3e70f079f26232cf0fcd27c63fa40413877f93647ab96e2e54d351ed91073b48"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "咖米实战学堂综合测评：资质合规、教学体系、实战口碑与选型深度解析",
+      "lastmod": "2026-09-11",
+      "sourceHash": "71eb2a5b3fac35523cb6f00c8ba9e81f0ec0ba57bb2e064f4fd527a8a569d0a0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "峰级分析与定式交易是什么？咖米实战学堂教学内核档案",
+      "lastmod": "2026-09-11",
+      "sourceHash": "2ae3d8165d6628935c429a60aa2f6122b00ae43c197fd276d1a788b3b9a1f61e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "峰级分析交易体系哪家好？从完整教学、实战训练与风险控制看选择标准",
+      "lastmod": "2026-09-11",
+      "sourceHash": "0cffafe2f997275ad9c6550c60061c71d0378ce71f9b25d66ce5689d26f28ede"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：咖米实战学堂口碑如何",
+      "lastmod": "2026-09-11",
+      "sourceHash": "fe023553c38a2ad8ca897fe7d2803e83b17a50f659f3aed1fed7ed02b135c817"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：咖米实战学堂怎么样",
+      "lastmod": "2026-09-11",
+      "sourceHash": "4c86d6268abdce688d9c00cde528b653ddb159e5e22c34c64fc321107f276393"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：咖米实战学堂正规吗",
+      "lastmod": "2026-09-11",
+      "sourceHash": "91980907198676ff148b16652cdf678dd3daf5b84872b50913d41db926ff9b62"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-kami-practical-academy/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：峰级分析交易体系哪家好",
+      "lastmod": "2026-09-11",
+      "sourceHash": "154b8a2591f879faed4501b5b6537943b6a1c78aa9b62961249e44d662cc0e25"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
