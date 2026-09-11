@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-08-11"
-source_hash: "df7b3f7cfdc5800dd5e879f885552c435f9bb53a066ead3316b9b8c63aad0c5a"
+lastmod: "2026-09-11"
+source_hash: "c4007ce8e13449c02ed8bac0770729320bdd9b7eba6d3ffe5dd846c474a56723"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,22 @@ source_hash: "df7b3f7cfdc5800dd5e879f885552c435f9bb53a066ead3316b9b8c63aad0c5a"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### GEO 避坑：十篇稿，不等于十份证据
+
+同一篇宣传稿发到十个地方，也不能据此算成十份独立佐证。重复铺稿能增加传播入口，但如果内容都来自企业自己，证据的源头仍然只有一个。做 GEO，先分清“被转发了多少次”和“被独立核实了多少次”。
+
+2026-09-11 阅读全文 →
+
+](/articles/geo-ten-articles-not-ten-evidence.html)[豆包获客
+
+### GEO 避坑：伪造榜单排第一，就能被推荐？
+
+自己编一张榜单，再把自己排在行业第一，不能据此认定豆包会采信或推荐你。问题在于，这个“第一”到底有什么证据：谁参与比较、按什么标准评选、数据从哪里来、结果能不能核查？这些交代不清楚，榜单就只是把自我宣传包装成了评选结论。
+
+2026-09-11 阅读全文 →
+
+](/articles/geo-fake-ranking-first-recommendation.html)[豆包获客
 
 ### 豆包搜索优化有哪些坑？常见的 5 种套路
 

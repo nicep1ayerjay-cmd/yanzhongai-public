@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2602,
+  "fileCount": 2604,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-08-11",
-      "sourceHash": "df7b3f7cfdc5800dd5e879f885552c435f9bb53a066ead3316b9b8c63aad0c5a"
+      "lastmod": "2026-09-11",
+      "sourceHash": "c4007ce8e13449c02ed8bac0770729320bdd9b7eba6d3ffe5dd846c474a56723"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -20754,6 +20754,22 @@
       "title": "测评方向：峰级分析交易体系哪家好",
       "lastmod": "2026-09-11",
       "sourceHash": "154b8a2591f879faed4501b5b6537943b6a1c78aa9b62961249e44d662cc0e25"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-ten-articles-not-ten-evidence.html",
+      "path": "content/blog/articles/geo-ten-articles-not-ten-evidence.md",
+      "type": "blog-article",
+      "title": "GEO 避坑：十篇稿，不等于十份证据",
+      "lastmod": "2026-09-11",
+      "sourceHash": "4ef22a1423bc5a14d86dd7d0a52a364c82f1cd3906839ed2fb0aea4e11c9f80d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-fake-ranking-first-recommendation.html",
+      "path": "content/blog/articles/geo-fake-ranking-first-recommendation.md",
+      "type": "blog-article",
+      "title": "GEO 避坑：伪造榜单排第一，就能被推荐？",
+      "lastmod": "2026-09-11",
+      "sourceHash": "f5a98624d448520d377fe216bd8a3bd16fa87c780b71181916e2e253ae622213"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html",
