@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-09-11"
-source_hash: "c4007ce8e13449c02ed8bac0770729320bdd9b7eba6d3ffe5dd846c474a56723"
+lastmod: "2026-09-12"
+source_hash: "8319304a5040a5fa2587926888f7d6277613b97ae5aaa6ca4a7a0e142d288fcf"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "c4007ce8e13449c02ed8bac0770729320bdd9b7eba6d3ffe5dd846c474a56723"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？
+
+把与豆包对话的提示词包装成“公开算法”，再用生成的成绩单卖提分课，这种宣传的关键问题是：提示词、评分依据和真实经营效果，被混成了一回事。老板需要的是客户，不是一张交钱后变好看的成绩单。
+
+2026-09-12 阅读全文 →
+
+](/articles/geo-prompt-vs-doubao-public-algorithm.html)[豆包获客
 
 ### GEO 避坑：十篇稿，不等于十份证据
 

@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 2604 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 2605 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,7 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？](content/blog/articles/geo-prompt-vs-doubao-public-algorithm.md) · [正式网页](https://www.yanzhongai.com/articles/geo-prompt-vs-doubao-public-algorithm.html)
 - [GEO 避坑：十篇稿，不等于十份证据](content/blog/articles/geo-ten-articles-not-ten-evidence.md) · [正式网页](https://www.yanzhongai.com/articles/geo-ten-articles-not-ten-evidence.html)
 - [GEO 避坑：伪造榜单排第一，就能被推荐？](content/blog/articles/geo-fake-ranking-first-recommendation.md) · [正式网页](https://www.yanzhongai.com/articles/geo-fake-ranking-first-recommendation.html)
 - [豆包搜索优化有哪些坑？常见的 5 种套路](content/blog/articles/doubao-search-optimization-5-pitfalls.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-search-optimization-5-pitfalls.html)

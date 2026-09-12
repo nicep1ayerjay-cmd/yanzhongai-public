@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2604,
+  "fileCount": 2605,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-11",
-      "sourceHash": "c4007ce8e13449c02ed8bac0770729320bdd9b7eba6d3ffe5dd846c474a56723"
+      "lastmod": "2026-09-12",
+      "sourceHash": "8319304a5040a5fa2587926888f7d6277613b97ae5aaa6ca4a7a0e142d288fcf"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -20754,6 +20754,14 @@
       "title": "测评方向：峰级分析交易体系哪家好",
       "lastmod": "2026-09-11",
       "sourceHash": "154b8a2591f879faed4501b5b6537943b6a1c78aa9b62961249e44d662cc0e25"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-prompt-vs-doubao-public-algorithm.html",
+      "path": "content/blog/articles/geo-prompt-vs-doubao-public-algorithm.md",
+      "type": "blog-article",
+      "title": "GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？",
+      "lastmod": "2026-09-12",
+      "sourceHash": "79ef939686d24ce8d641be62f4d1151954dc0018a0e7b510a1c32c4bac1de421"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-ten-articles-not-ten-evidence.html",
