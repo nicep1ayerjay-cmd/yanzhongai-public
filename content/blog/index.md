@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-09-12"
-source_hash: "8319304a5040a5fa2587926888f7d6277613b97ae5aaa6ca4a7a0e142d288fcf"
+lastmod: "2026-09-13"
+source_hash: "558e8dacb67ca3f3a0b71245dd27b07414075fbe7b0cc3c14e0064753705b417"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,15 @@ source_hash: "8319304a5040a5fa2587926888f7d6277613b97ae5aaa6ca4a7a0e142d288fcf"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[豆包获客
+[GEO避坑
+
+### GEO 是优化方法论，哪来的“源头总代理”？
+
+把自己包装成“GEO 源头”，再宣称“我是一级，其他人都是次级、都是假的”，这套话术从前提就错了：GEO 是生成式引擎优化的方法论与实践，不是一家公司的货源，也不是一套由某个服务商统一向下分销的算法。
+
+2026-09-13 阅读全文 →
+
+](/articles/geo-source-general-agent-myth.html)[豆包获客
 
 ### GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？
 

@@ -1322,6 +1322,7 @@
 
 ## 言中行业文章
 
+- [GEO 是优化方法论，哪来的“源头总代理”？](content/blog/articles/geo-source-general-agent-myth.md)
 - [GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？](content/blog/articles/geo-prompt-vs-doubao-public-algorithm.md)
 - [GEO 避坑：十篇稿，不等于十份证据](content/blog/articles/geo-ten-articles-not-ten-evidence.md)
 - [GEO 避坑：伪造榜单排第一，就能被推荐？](content/blog/articles/geo-fake-ranking-first-recommendation.md)
@@ -1341,7 +1342,6 @@
 - [言中和单模型 AI 检测工具有什么区别？](content/blog/articles/yanzhong-vs-single-model-checkers.md)
 - [言中和普通 SEO 工具有什么区别？](content/blog/articles/yanzhong-vs-seo-tools.md)
 - [言中和普通内容代写工具有什么区别？](content/blog/articles/yanzhong-vs-content-writing-tools.md)
-- [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md)
 
 ## 公开项目说明
 

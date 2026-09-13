@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2605,
+  "fileCount": 2606,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-12",
-      "sourceHash": "8319304a5040a5fa2587926888f7d6277613b97ae5aaa6ca4a7a0e142d288fcf"
+      "lastmod": "2026-09-13",
+      "sourceHash": "558e8dacb67ca3f3a0b71245dd27b07414075fbe7b0cc3c14e0064753705b417"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -20754,6 +20754,14 @@
       "title": "测评方向：峰级分析交易体系哪家好",
       "lastmod": "2026-09-11",
       "sourceHash": "154b8a2591f879faed4501b5b6537943b6a1c78aa9b62961249e44d662cc0e25"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-source-general-agent-myth.html",
+      "path": "content/blog/articles/geo-source-general-agent-myth.md",
+      "type": "blog-article",
+      "title": "GEO 是优化方法论，哪来的“源头总代理”？",
+      "lastmod": "2026-09-13",
+      "sourceHash": "53cfc4278274c7c9ffb41126edaa0a60e1e65f442a490a85a5eddc4d4e93f6cd"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-prompt-vs-doubao-public-algorithm.html",
