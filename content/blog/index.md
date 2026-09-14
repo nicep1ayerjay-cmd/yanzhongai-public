@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-09-13"
-source_hash: "558e8dacb67ca3f3a0b71245dd27b07414075fbe7b0cc3c14e0064753705b417"
+lastmod: "2026-09-14"
+source_hash: "a436a423780f03db5622e0ebe8aff4359e0cab1b21d11b160902aa233a3b3a88"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "558e8dacb67ca3f3a0b71245dd27b07414075fbe7b0cc3c14e0064753705b417"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [GEO避坑
+
+### GEO 避坑：“AI收录一万篇”，到底收了什么？
+
+拿“AI收录几千、几万篇”当优化成绩，却不说明具体平台、统计口径和验证记录，这样的报表不能证明有效果。把发出去的文章、搜得到的网页，统统包装成“AI已经收录并会推荐”，就是在偷换概念。
+
+2026-09-14 阅读全文 →
+
+](/articles/geo-ai-indexing-ten-thousand-claims.html)[GEO避坑
 
 ### GEO 是优化方法论，哪来的“源头总代理”？
 

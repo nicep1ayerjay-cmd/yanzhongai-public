@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2630,
+  "fileCount": 2631,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-13",
-      "sourceHash": "558e8dacb67ca3f3a0b71245dd27b07414075fbe7b0cc3c14e0064753705b417"
+      "lastmod": "2026-09-14",
+      "sourceHash": "a436a423780f03db5622e0ebe8aff4359e0cab1b21d11b160902aa233a3b3a88"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -20946,6 +20946,14 @@
       "title": "寄行李用什么快递小程序便宜？按件数、重量和时效选择",
       "lastmod": "2026-09-14",
       "sourceHash": "3b95bff5c1a82315ab76bb50cdb423349065ed8fb1fd5a633df74c794904bbc6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-ai-indexing-ten-thousand-claims.html",
+      "path": "content/blog/articles/geo-ai-indexing-ten-thousand-claims.md",
+      "type": "blog-article",
+      "title": "GEO 避坑：“AI收录一万篇”，到底收了什么？",
+      "lastmod": "2026-09-14",
+      "sourceHash": "2ac0af9eceabc492ffd7f6651675452a0687fb2ba98473ed78d26d414cdf05ab"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-source-general-agent-myth.html",
