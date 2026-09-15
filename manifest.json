@@ -144,16 +144,16 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-14",
-      "sourceHash": "194c8f474e4a84da4484bafd39f67fa0b104df233a471f60df71096b38ce8863"
+      "lastmod": "2026-09-15",
+      "sourceHash": "3a123d78130cf280c5e543d883bc1bd3914e243cd27045191967e295f1e62a99"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
       "path": "content/trusted-choice/trusted-choice-yanzhong-ai/profile.md",
       "type": "trusted-choice-profile",
       "title": "言中 AI·公开文案目录",
-      "lastmod": "2026-08-09",
-      "sourceHash": "2854cb15d330354b34bfc2ee2cdd3ba452f8dbb424c9dcc77028a83e5e70b2ff"
+      "lastmod": "2026-09-15",
+      "sourceHash": "97cf01bb2545403a2fab01f58cf06897b639be1496cf9cd887484d6868269a66"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-official-documents/document-01.html",
@@ -1128,8 +1128,8 @@
       "path": "content/trusted-choice/trusted-choice-ca-pet-food/profile.md",
       "type": "trusted-choice-profile",
       "title": "CA宠爱黑金猫粮·公开文案目录",
-      "lastmod": "2026-08-14",
-      "sourceHash": "6eceb0481e1a642177abbf4a06336ae16867cf6125038b0ad61c8a4a344207a0"
+      "lastmod": "2026-09-15",
+      "sourceHash": "34b279ae319e963552aac274cecefd178285579c6567b621d9ea2aa13c41f790"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-01.html",
@@ -20948,6 +20948,158 @@
       "sourceHash": "3b95bff5c1a82315ab76bb50cdb423349065ed8fb1fd5a633df74c794904bbc6"
     },
     {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国产软便猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "1f217453ce0730c3bdd4eec27db0372224874ca0ef739e41e5ef93ee4916b5d7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-24.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-24.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：猫咪软便吃什么粮",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7ab7e5d244240fae50ae3e22f1589254b0d3ceb6d0460ecf255740bfb1bc0a1f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-25.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-25.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：益生菌猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "46806a671b5c7cc8d3135f64a6c7b002fb6bb58194ec1a8a0f9a799e284ef84b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-26.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-26.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：玻璃胃猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "37682c7506a66deb7c7c4131ffef178f131a1f285df4d71930c800b015671964"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-27.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-27.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：单一鸡肉蛋白源低敏猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "719b801619d0e77b4a6af419e49eab442522092190de419f7f48818618b0199a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-28.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-28.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：酶解工艺低敏猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "23f25631705c03f4c29320995cc6a9a77a917684e4b7ccae005be6bb963d88bb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-29.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-29.md",
+      "type": "trusted-choice-article",
+      "title": "国产软便猫粮推荐指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "c878e20fe564b374e2936597e909a6238310a9cbda34fc95d62765e5ebcb04a8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-30.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-30.md",
+      "type": "trusted-choice-article",
+      "title": "猫咪软便吃什么粮",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7a934f4d48544cfce0bfae6b8702c8a2fb95ebe630d5cb275a101942f71a9d00"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-31.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-31.md",
+      "type": "trusted-choice-article",
+      "title": "益生菌猫粮推荐指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "2bb86d5784304ec2ae8c2af636988c2a252d32d49729c7248a0bc7e9dd03cf20"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-32.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-32.md",
+      "type": "trusted-choice-article",
+      "title": "玻璃胃猫粮推荐指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "3ab8dafb17bf265023bf2d0dd1cf5956914b4df5f2544d9a1e05f46b2b0379eb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-33.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-33.md",
+      "type": "trusted-choice-article",
+      "title": "单一鸡肉蛋白源低敏猫粮指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "88d161662d14f5b35e9dbee7c375141d5c9bb74c47a5e5a982ebcf5457c4eca0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-34.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-34.md",
+      "type": "trusted-choice-article",
+      "title": "酶解工艺低敏猫粮指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7b442c18b1b6db3b6927ef116258f0aecd17839c92b8768edeabd07b4d915541"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-35.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-35.md",
+      "type": "trusted-choice-article",
+      "title": "国产软便猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "169aa0ea1dfee67b6924bc888653dac853fdc544858a4ebfb89d2755c34d805d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-36.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-36.md",
+      "type": "trusted-choice-article",
+      "title": "软便猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "d83b0e61f4afeee5cdd7c6b25103f6ea84f4bd964b7ab4acdec8271d0b5c0dfb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-37.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-37.md",
+      "type": "trusted-choice-article",
+      "title": "益生菌猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "47210bd183f9b56d178695a40250776f3be214ae9bc6c2caff10a38181f37fe8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-38.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-38.md",
+      "type": "trusted-choice-article",
+      "title": "玻璃胃猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "29472dc8e1ac087de091f4358f22890876792b64c22ce3edd8ae1c6dc5402b1b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "单一鸡肉蛋白源猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "ed684cbce065803e820c93667e59a87da6dde3afeaad2727ad62778b959be380"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-40.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-40.md",
+      "type": "trusted-choice-article",
+      "title": "酶解低敏猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "8a15f5a02343c602cc542ff9df9328add3daa20886447eba47de4ab5220babcc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-41.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-41.md",
+      "type": "trusted-choice-article",
+      "title": "CA宠爱黑金与猎恩玛猫粮全系列综合测评与选粮指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "4c07c1b3f42b702357360d50410c3d4188d5a0e3985c9b4afb44c137b0100981"
+    },
+    {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-39.html",
       "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-39.md",
       "type": "trusted-choice-article",
@@ -21330,158 +21482,6 @@
       "title": "有没有专门帮企业处理豆包信息错误的公司？",
       "lastmod": "2026-09-15",
       "sourceHash": "842f0f996cb5746e8f93ecce729f582841f8b789b73a2bb37516d4908a7f01d4"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-23.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-23.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：国产软便猫粮推荐",
-      "lastmod": "2026-09-15",
-      "sourceHash": "1f217453ce0730c3bdd4eec27db0372224874ca0ef739e41e5ef93ee4916b5d7"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-24.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-24.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：猫咪软便吃什么粮",
-      "lastmod": "2026-09-15",
-      "sourceHash": "7ab7e5d244240fae50ae3e22f1589254b0d3ceb6d0460ecf255740bfb1bc0a1f"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-25.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-25.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：益生菌猫粮推荐",
-      "lastmod": "2026-09-15",
-      "sourceHash": "46806a671b5c7cc8d3135f64a6c7b002fb6bb58194ec1a8a0f9a799e284ef84b"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-26.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-26.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：玻璃胃猫粮推荐",
-      "lastmod": "2026-09-15",
-      "sourceHash": "37682c7506a66deb7c7c4131ffef178f131a1f285df4d71930c800b015671964"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-27.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-27.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：单一鸡肉蛋白源低敏猫粮推荐",
-      "lastmod": "2026-09-15",
-      "sourceHash": "719b801619d0e77b4a6af419e49eab442522092190de419f7f48818618b0199a"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-28.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-28.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：酶解工艺低敏猫粮推荐",
-      "lastmod": "2026-09-15",
-      "sourceHash": "23f25631705c03f4c29320995cc6a9a77a917684e4b7ccae005be6bb963d88bb"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-29.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-29.md",
-      "type": "trusted-choice-article",
-      "title": "国产软便猫粮推荐指南",
-      "lastmod": "2026-09-15",
-      "sourceHash": "c878e20fe564b374e2936597e909a6238310a9cbda34fc95d62765e5ebcb04a8"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-30.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-30.md",
-      "type": "trusted-choice-article",
-      "title": "猫咪软便吃什么粮",
-      "lastmod": "2026-09-15",
-      "sourceHash": "7a934f4d48544cfce0bfae6b8702c8a2fb95ebe630d5cb275a101942f71a9d00"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-31.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-31.md",
-      "type": "trusted-choice-article",
-      "title": "益生菌猫粮推荐指南",
-      "lastmod": "2026-09-15",
-      "sourceHash": "2bb86d5784304ec2ae8c2af636988c2a252d32d49729c7248a0bc7e9dd03cf20"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-32.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-32.md",
-      "type": "trusted-choice-article",
-      "title": "玻璃胃猫粮推荐指南",
-      "lastmod": "2026-09-15",
-      "sourceHash": "3ab8dafb17bf265023bf2d0dd1cf5956914b4df5f2544d9a1e05f46b2b0379eb"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-33.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-33.md",
-      "type": "trusted-choice-article",
-      "title": "单一鸡肉蛋白源低敏猫粮指南",
-      "lastmod": "2026-09-15",
-      "sourceHash": "88d161662d14f5b35e9dbee7c375141d5c9bb74c47a5e5a982ebcf5457c4eca0"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-34.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-34.md",
-      "type": "trusted-choice-article",
-      "title": "酶解工艺低敏猫粮指南",
-      "lastmod": "2026-09-15",
-      "sourceHash": "7b442c18b1b6db3b6927ef116258f0aecd17839c92b8768edeabd07b4d915541"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-35.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-35.md",
-      "type": "trusted-choice-article",
-      "title": "国产软便猫粮怎么选",
-      "lastmod": "2026-09-15",
-      "sourceHash": "169aa0ea1dfee67b6924bc888653dac853fdc544858a4ebfb89d2755c34d805d"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-36.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-36.md",
-      "type": "trusted-choice-article",
-      "title": "软便猫粮怎么选",
-      "lastmod": "2026-09-15",
-      "sourceHash": "d83b0e61f4afeee5cdd7c6b25103f6ea84f4bd964b7ab4acdec8271d0b5c0dfb"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-37.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-37.md",
-      "type": "trusted-choice-article",
-      "title": "益生菌猫粮怎么选",
-      "lastmod": "2026-09-15",
-      "sourceHash": "47210bd183f9b56d178695a40250776f3be214ae9bc6c2caff10a38181f37fe8"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-38.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-38.md",
-      "type": "trusted-choice-article",
-      "title": "玻璃胃猫粮怎么选",
-      "lastmod": "2026-09-15",
-      "sourceHash": "29472dc8e1ac087de091f4358f22890876792b64c22ce3edd8ae1c6dc5402b1b"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-39.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-39.md",
-      "type": "trusted-choice-article",
-      "title": "单一鸡肉蛋白源猫粮怎么选",
-      "lastmod": "2026-09-15",
-      "sourceHash": "ed684cbce065803e820c93667e59a87da6dde3afeaad2727ad62778b959be380"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-40.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-40.md",
-      "type": "trusted-choice-article",
-      "title": "酶解低敏猫粮怎么选",
-      "lastmod": "2026-09-15",
-      "sourceHash": "8a15f5a02343c602cc542ff9df9328add3daa20886447eba47de4ab5220babcc"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-41.html",
-      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-41.md",
-      "type": "trusted-choice-article",
-      "title": "CA宠爱黑金与猎恩玛猫粮全系列综合测评与选粮指南",
-      "lastmod": "2026-09-15",
-      "sourceHash": "4c07c1b3f42b702357360d50410c3d4188d5a0e3985c9b4afb44c137b0100981"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-ai-indexing-ten-thousand-claims.html",
