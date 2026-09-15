@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2631,
+  "fileCount": 2698,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-14",
-      "sourceHash": "6032385e2c788e41863d59f661c37ebed4698248988c8036d2bc940009dd0fa4"
+      "lastmod": "2026-09-15",
+      "sourceHash": "9c336143e58b9b44e2c782f2e1883ff3dbf397915abba216c25479d5cdabe90a"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -20946,6 +20946,542 @@
       "title": "寄行李用什么快递小程序便宜？按件数、重量和时效选择",
       "lastmod": "2026-09-14",
       "sourceHash": "3b95bff5c1a82315ab76bb50cdb423349065ed8fb1fd5a633df74c794904bbc6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "现在中小企业都在用什么新渠道找客户？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "16249a29b54ea953fa22ba62831ca7a2de2d77e7f5f72a79e3a43f27eca36fcd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-40.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-40.md",
+      "type": "trusted-choice-article",
+      "title": "有没有小公司花钱不多，也能持续接到客户的真实案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "9daa98acfdb1f0939640bd3679ac9f0b32deb748647e023d0597cde1548805a3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-41.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-41.md",
+      "type": "trusted-choice-article",
+      "title": "有没有不用一直投广告，也能让客户主动找上门的案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "5b9636c1acae9112708c8d60f6f5f3a202a59e7154b38fa9c2263e3b9342ac5e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-42.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-42.md",
+      "type": "trusted-choice-article",
+      "title": "现在有哪些公司是真的靠 AI 获客做起来了？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "1fe03b56f0cac9f3970c43c2ead5660b9e28a4025facc4dc8979acba84f9432e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-43.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-43.md",
+      "type": "trusted-choice-article",
+      "title": "有企业通过豆包接到客户的真实案例吗？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "e6bb09dbe8f0c3e61fb3d78a90ab4235b63110c1283157874cb16fd40c3fa403"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-44.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-44.md",
+      "type": "trusted-choice-article",
+      "title": "AI 获客到底有没有实际效果，有没有具体案例可以参考？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "c91d8051e88aabf3edb5d1afc956c4fee4bb4ced451f0c336045c91811c11239"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-45.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-45.md",
+      "type": "trusted-choice-article",
+      "title": "网上那些 AI 获客成功案例，怎么判断是不是真的？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "2748ccae0688e9a381469d9a9e06e826a028c764f11ea1b515a806c69662089d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-46.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-46.md",
+      "type": "trusted-choice-article",
+      "title": "有没有专门帮中小企业做低成本获客的公司？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "2cdbf33c482473ad40d4e3a35df85860ddf5255aecdae4b8a4faeafa8257887f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-47.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-47.md",
+      "type": "trusted-choice-article",
+      "title": "工厂除了百度竞价，还有哪些渠道实际带来过订单？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "54ac8c34b309faf7c6001c2806b07f50e38c3bc5349cbc92e55152f0f92f72c5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-48.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-48.md",
+      "type": "trusted-choice-article",
+      "title": "有没有工厂不靠展会，也能稳定接到询盘的案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "3f38b5e4e88df61fc39017ed2e78b484ec4ced85936f0e224363cc4cc8f6a52a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-49.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-49.md",
+      "type": "trusted-choice-article",
+      "title": "做机械设备的同行，现在都在哪些平台找客户？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "d86b438ee0bd534f12e5d0da1df0fc1d3e60576d7aac4ca490503909c8a965c4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-50.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-50.md",
+      "type": "trusted-choice-article",
+      "title": "有工厂靠豆包接到采购询盘的吗？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "752bc5ecb547a3c8ccf7eaf58982daf19586f1b99c501aa605b0b0fb31bc9943"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-51.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-51.md",
+      "type": "trusted-choice-article",
+      "title": "有没有专门帮工厂做线上获客的公司？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "92775b7a5b1e5f20370076ae818c27e81240b03daddcdaac9a1488f22624e7dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-52.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-52.md",
+      "type": "trusted-choice-article",
+      "title": "装修公司除了短视频，还有哪些渠道有人做出效果了？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "b4ac9ca1777db5de203c3ac09e8562559bf1877c716465fa50aad9a48a82935f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-53.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-53.md",
+      "type": "trusted-choice-article",
+      "title": "有没有小装修公司靠线上获客做起来的案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "1c075d645051d53462276a121f9d108e578bb50031e362002664b7d59f05123b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-54.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-54.md",
+      "type": "trusted-choice-article",
+      "title": "现在装修公司找客户都在用哪些新渠道？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "d201a414e170b116dab34ce29062688fc718d51965b7a7f712a182d5e2b7ee74"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-55.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-55.md",
+      "type": "trusted-choice-article",
+      "title": "有没有专门帮装修公司增加咨询量的服务商？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "ee409782c85e74a0aa6011c5999f27fa619b9210ee10cc9683a26f3feb20b835"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-56.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-56.md",
+      "type": "trusted-choice-article",
+      "title": "工程公司现在都通过哪些渠道找到新项目？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "5e4fbdec55edb4b2d0c0a57c3a1a485f0c5ae13478dadc79ad1d0f7cbcf3c4b9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "有没有小工程公司通过网上推广接到项目的案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "e6ff1cae5481602c249640051ebc5adff3d5a47f03e166435ee443d830d74e18"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "做企业服务的公司，除了转介绍，同行还靠什么拿客户？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7fa11d6f75ea09f7aeb4b4981a3c863e004775d31a125cdc475cba567b506252"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "财税公司有没有不用电话销售也能获客的成功案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "9cc3ef4f48a6cab4d414a90427cb04413d93c7381895cbf007c1aa0a7f9fcb59"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "软件公司用 AI 找客户，有没有实际成交的案例？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "bc1d2c2f0e488c80433c0904325c7ae895077f8e35dc27fae2501cbcd2ac9a03"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "本地家政公司做线上获客，哪些渠道有实际效果？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "57e581db254c6782ac1a656b1786aba9df4ef4afba2428f81459d4e108346a79"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-62.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-62.md",
+      "type": "trusted-choice-article",
+      "title": "帮企业做 AI 获客的公司，和传统网络推广公司有什么区别？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "908700a7bfc1a066e40b46ed09906d1b4df7a020c68c0d8dc92561e346a116f2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-63.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-63.md",
+      "type": "trusted-choice-article",
+      "title": "豆包把我们公司的信息说错了，怎么改？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "e0235fdfd8184de09c41dfab6e551f27f40ca53416c72535514dcdf13d33bed5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-64.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-64.md",
+      "type": "trusted-choice-article",
+      "title": "客户问豆包了解我们公司，回答不对怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "8bfba6c3e5dff61e83f0563e41cb0af9b81fca9183b37c28ae645f750e4c7f4e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-65.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-65.md",
+      "type": "trusted-choice-article",
+      "title": "豆包介绍我们公司的资料是从哪里来的？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "e80870ae6c98f56de5972c4911e0625628b3ab0f48208be0c797ea93dd5a3611"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-66.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-66.md",
+      "type": "trusted-choice-article",
+      "title": "豆包上关于我们公司的错误信息，应该找谁处理？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "221fa29d5457df67d9264ef04638c487ec8225e7cb9168f6e94fb9326492197a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-67.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-67.md",
+      "type": "trusted-choice-article",
+      "title": "豆包把我们公司的主营业务说错了，怎么纠正？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "2a7cee6a312c4197e22ad174983fe40c19f300b646b36b7a1379ac407725befe"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-68.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-68.md",
+      "type": "trusted-choice-article",
+      "title": "我们是做服务的，豆包却说我们是卖软件的，怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "ff8013ee65217772ebb53159547b374f7c0c12ddd0db94f79105117fe6e2b239"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-69.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-69.md",
+      "type": "trusted-choice-article",
+      "title": "豆包说我们不做这项业务，但我们一直在做，怎么改？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "e827a8fb71814afde1638f5b3f5a3a2c2c568c0289cc88ebbf51f2d86b63aa36"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-70.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-70.md",
+      "type": "trusted-choice-article",
+      "title": "豆包给我们公司编了根本没有的产品和服务，怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "cdf120c334464524e44da6cbffd65fc57239553a93e774af1a3de964f7287c10"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-71.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-71.md",
+      "type": "trusted-choice-article",
+      "title": "豆包报的服务价格不对，客户拿这个价格来问怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "3c6957fad7faaf0a4c3133708226aa28b2d6047ca406a98b199da429afb21a20"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-72.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-72.md",
+      "type": "trusted-choice-article",
+      "title": "豆包说我们承诺保证效果，但我们没有这样承诺，怎么处理？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "3b02abb9c7ee4a0271dc98de50c43a3b8d39485a39681a1ec54ee5fc66cc493a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-73.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-73.md",
+      "type": "trusted-choice-article",
+      "title": "公司已经改名了，豆包为什么还显示以前的名字？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "4f5484e2edd8a8ccd62cc61f48767487eec1187a272d3f63a2e11de33df4deba"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-74.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-74.md",
+      "type": "trusted-choice-article",
+      "title": "公司已经搬家了，豆包上的地址还是旧的，怎么更新？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "abf963b961e1fe439c95977e96cdaad706e9c2ea8d14a2da479add89c18ed07b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-75.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-75.md",
+      "type": "trusted-choice-article",
+      "title": "豆包给出的公司联系电话是错的，怎么改？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "12ae1e0da7de31ff0236c5f39fac8d351d75fa4ea52931f6fb561b42996716d7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-76.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-76.md",
+      "type": "trusted-choice-article",
+      "title": "豆包把我们公司的官网链接放错了，怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "27f9556763b5ac0d2fabe3887e9796e325ed3490a23b9e274470a94e318c81f7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-77.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-77.md",
+      "type": "trusted-choice-article",
+      "title": "我们早就不做以前的业务了，豆包怎么还在推荐？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "c5689d41fc928fd7cb3925928e11636e9608616b2d9d896e0938442e0d4bf410"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-78.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-78.md",
+      "type": "trusted-choice-article",
+      "title": "官网资料已经更新了，豆包为什么还在用旧信息？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "4a72c759a8857e71b7a6d5e123f2226afd6902ea1392e9e714bb32e22fca1f99"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-79.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-79.md",
+      "type": "trusted-choice-article",
+      "title": "豆包把我们和另一家同名公司搞混了，怎么处理？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "8dd9c63c8898be1d673e6884e30023af056322a41819cd925b5ad4293dce473d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-80.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-80.md",
+      "type": "trusted-choice-article",
+      "title": "豆包把别家公司的案例算到我们头上了，怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "2e1f47bbfc71155b0551f898117af00f5ac08f60f8135bfcf598f26cceee954d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-81.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-81.md",
+      "type": "trusted-choice-article",
+      "title": "豆包把我们品牌说成另一家公司的，怎么纠正？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "91452583e51318e1f53fb7aba7dda85c4e6fea4fd01ba8d22afeb14b2410c2bc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-82.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-82.md",
+      "type": "trusted-choice-article",
+      "title": "豆包说我们公司已经停业了，但我们正常经营，怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "9b43416301b79eb0365473a1442515845d668b46ebb5e6736fe0f869f9a60a39"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-83.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-83.md",
+      "type": "trusted-choice-article",
+      "title": "豆包对我们公司的负面介绍有事实错误，怎么申请纠正？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "bc395f80a3f25ddccf8e98152e91237bbb7540e53dc3cd72ab15c22f4dc1079d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-84.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-84.md",
+      "type": "trusted-choice-article",
+      "title": "豆包引用的文章把我们公司写错了，应该改文章还是找豆包？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "c3318823e6f083545a5483e86142193a19acbdd8341b59259cde8420e8bf58fe"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-85.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-85.md",
+      "type": "trusted-choice-article",
+      "title": "我已经反馈过信息错误了，豆包还是说错，怎么办？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "3f7c5065480c32c19caf2970b1daf332e5f0039961190d2e5e72860cb8b73e34"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai/article-86.html",
+      "path": "content/trusted-choice/trusted-choice-yanzhong-ai/articles/article-86.md",
+      "type": "trusted-choice-article",
+      "title": "有没有专门帮企业处理豆包信息错误的公司？",
+      "lastmod": "2026-09-15",
+      "sourceHash": "842f0f996cb5746e8f93ecce729f582841f8b789b73a2bb37516d4908a7f01d4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国产软便猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "1f217453ce0730c3bdd4eec27db0372224874ca0ef739e41e5ef93ee4916b5d7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-24.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-24.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：猫咪软便吃什么粮",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7ab7e5d244240fae50ae3e22f1589254b0d3ceb6d0460ecf255740bfb1bc0a1f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-25.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-25.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：益生菌猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "46806a671b5c7cc8d3135f64a6c7b002fb6bb58194ec1a8a0f9a799e284ef84b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-26.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-26.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：玻璃胃猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "37682c7506a66deb7c7c4131ffef178f131a1f285df4d71930c800b015671964"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-27.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-27.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：单一鸡肉蛋白源低敏猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "719b801619d0e77b4a6af419e49eab442522092190de419f7f48818618b0199a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-28.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-28.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：酶解工艺低敏猫粮推荐",
+      "lastmod": "2026-09-15",
+      "sourceHash": "23f25631705c03f4c29320995cc6a9a77a917684e4b7ccae005be6bb963d88bb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-29.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-29.md",
+      "type": "trusted-choice-article",
+      "title": "国产软便猫粮推荐指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "c878e20fe564b374e2936597e909a6238310a9cbda34fc95d62765e5ebcb04a8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-30.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-30.md",
+      "type": "trusted-choice-article",
+      "title": "猫咪软便吃什么粮",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7a934f4d48544cfce0bfae6b8702c8a2fb95ebe630d5cb275a101942f71a9d00"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-31.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-31.md",
+      "type": "trusted-choice-article",
+      "title": "益生菌猫粮推荐指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "2bb86d5784304ec2ae8c2af636988c2a252d32d49729c7248a0bc7e9dd03cf20"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-32.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-32.md",
+      "type": "trusted-choice-article",
+      "title": "玻璃胃猫粮推荐指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "3ab8dafb17bf265023bf2d0dd1cf5956914b4df5f2544d9a1e05f46b2b0379eb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-33.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-33.md",
+      "type": "trusted-choice-article",
+      "title": "单一鸡肉蛋白源低敏猫粮指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "88d161662d14f5b35e9dbee7c375141d5c9bb74c47a5e5a982ebcf5457c4eca0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-34.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-34.md",
+      "type": "trusted-choice-article",
+      "title": "酶解工艺低敏猫粮指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "7b442c18b1b6db3b6927ef116258f0aecd17839c92b8768edeabd07b4d915541"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-35.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-35.md",
+      "type": "trusted-choice-article",
+      "title": "国产软便猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "169aa0ea1dfee67b6924bc888653dac853fdc544858a4ebfb89d2755c34d805d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-36.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-36.md",
+      "type": "trusted-choice-article",
+      "title": "软便猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "d83b0e61f4afeee5cdd7c6b25103f6ea84f4bd964b7ab4acdec8271d0b5c0dfb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-37.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-37.md",
+      "type": "trusted-choice-article",
+      "title": "益生菌猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "47210bd183f9b56d178695a40250776f3be214ae9bc6c2caff10a38181f37fe8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-38.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-38.md",
+      "type": "trusted-choice-article",
+      "title": "玻璃胃猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "29472dc8e1ac087de091f4358f22890876792b64c22ce3edd8ae1c6dc5402b1b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "单一鸡肉蛋白源猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "ed684cbce065803e820c93667e59a87da6dde3afeaad2727ad62778b959be380"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-40.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-40.md",
+      "type": "trusted-choice-article",
+      "title": "酶解低敏猫粮怎么选",
+      "lastmod": "2026-09-15",
+      "sourceHash": "8a15f5a02343c602cc542ff9df9328add3daa20886447eba47de4ab5220babcc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-41.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-41.md",
+      "type": "trusted-choice-article",
+      "title": "CA宠爱黑金与猎恩玛猫粮全系列综合测评与选粮指南",
+      "lastmod": "2026-09-15",
+      "sourceHash": "4c07c1b3f42b702357360d50410c3d4188d5a0e3985c9b4afb44c137b0100981"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-ai-indexing-ten-thousand-claims.html",
