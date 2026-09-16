@@ -1347,6 +1347,7 @@
 
 ## 言中行业文章
 
+- [不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！](content/blog/articles/doubao-geo-blacklist-claim-evidence.md)
 - [GEO 避坑：“AI收录一万篇”，到底收了什么？](content/blog/articles/geo-ai-indexing-ten-thousand-claims.md)
 - [GEO 是优化方法论，哪来的“源头总代理”？](content/blog/articles/geo-source-general-agent-myth.md)
 - [GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？](content/blog/articles/geo-prompt-vs-doubao-public-algorithm.md)
@@ -1366,7 +1367,6 @@
 - [豆包不知道我的公司和产品怎么办](content/blog/articles/doubao-doesnt-know-my-company.md)
 - [豆包错误介绍我的公司和产品怎么办](content/blog/articles/doubao-wrong-company-description.md)
 - [言中和单模型 AI 检测工具有什么区别？](content/blog/articles/yanzhong-vs-single-model-checkers.md)
-- [言中和普通 SEO 工具有什么区别？](content/blog/articles/yanzhong-vs-seo-tools.md)
 
 ## 公开项目说明
 

@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2698,
+  "fileCount": 2699,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-14",
-      "sourceHash": "a436a423780f03db5622e0ebe8aff4359e0cab1b21d11b160902aa233a3b3a88"
+      "lastmod": "2026-09-16",
+      "sourceHash": "311b4538caa205725fb5455a04b6992d983244692ad4ab5ed40c1043210b7ea1"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -21482,6 +21482,14 @@
       "title": "有没有专门帮企业处理豆包信息错误的公司？",
       "lastmod": "2026-09-15",
       "sourceHash": "842f0f996cb5746e8f93ecce729f582841f8b789b73a2bb37516d4908a7f01d4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-geo-blacklist-claim-evidence.html",
+      "path": "content/blog/articles/doubao-geo-blacklist-claim-evidence.md",
+      "type": "blog-article",
+      "title": "不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！",
+      "lastmod": "2026-09-16",
+      "sourceHash": "12ace968fc6b372ba109f79ffbe9ea5d622f582e3c36dae5fc595303db6145e6"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-ai-indexing-ten-thousand-claims.html",

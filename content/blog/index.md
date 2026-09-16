@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-09-14"
-source_hash: "a436a423780f03db5622e0ebe8aff4359e0cab1b21d11b160902aa233a3b3a88"
+lastmod: "2026-09-16"
+source_hash: "311b4538caa205725fb5455a04b6992d983244692ad4ab5ed40c1043210b7ea1"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,15 @@ source_hash: "a436a423780f03db5622e0ebe8aff4359e0cab1b21d11b160902aa233a3b3a88"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO避坑
+[豆包获客
+
+### 不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！
+
+有些GEO服务商，把“文案应当符合品牌事实”包装成了吓老板的理由：自己做，或者换别人做，容易写得不真实；一旦写错，品牌就会被豆包“拉黑”；只有交给他才安全。
+
+2026-09-16 阅读全文 →
+
+](/articles/doubao-geo-blacklist-claim-evidence.html)[GEO避坑
 
 ### GEO 避坑：“AI收录一万篇”，到底收了什么？
 
