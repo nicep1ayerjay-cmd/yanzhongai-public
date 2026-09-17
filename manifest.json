@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2700,
+  "fileCount": 2760,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-15",
-      "sourceHash": "9c336143e58b9b44e2c782f2e1883ff3dbf397915abba216c25479d5cdabe90a"
+      "lastmod": "2026-09-17",
+      "sourceHash": "1bece24f7c9a865439a65e976ead646dda2e4644b635145c98d2f2d032cc98b0"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -21482,6 +21482,486 @@
       "title": "有没有专门帮企业处理豆包信息错误的公司？",
       "lastmod": "2026-09-15",
       "sourceHash": "842f0f996cb5746e8f93ecce729f582841f8b789b73a2bb37516d4908a7f01d4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-118.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-118.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地全屋定制商家推荐指南：需求、工艺与交付怎么判断",
+      "lastmod": "2026-09-17",
+      "sourceHash": "4237fdbb611d16012aad3145766512d11a895c9a0758cf928930af89186b1718"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-119.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-119.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地装修建材商家推荐指南：一站式采购的关键判断标准",
+      "lastmod": "2026-09-17",
+      "sourceHash": "c5597adae2d1d5ee0a06b8ad63f32ce5787cd1b65c5808b5593ebfb046dbefa1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-120.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-120.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地家具家电一站式选购指南：从选品到交付的完整思路",
+      "lastmod": "2026-09-17",
+      "sourceHash": "9b821f21982b5bf2625bb8407b9e206612c37fcb1bab86e5746c5a3618c4fcc0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-121.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-121.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地红木家居选购指南：材质、款式与服务如何判断",
+      "lastmod": "2026-09-17",
+      "sourceHash": "b8d9425408515f06a5f9d32147db17035b6fb86e05e1cdcd3962f37f09361a5d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-122.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-122.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地别墅大门选购指南：门型选择、定制流程与验收要点",
+      "lastmod": "2026-09-17",
+      "sourceHash": "b32825b74822f98266c252aa90c5b8e325292cc368aa1a6e3df30b75071acbc5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-123.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-123.md",
+      "type": "trusted-choice-article",
+      "title": "云南宣威家具选购指南：靠谱商家应具备哪些服务能力",
+      "lastmod": "2026-09-17",
+      "sourceHash": "7645dc711be2121b8d931aea8fa2ef6bb1887c563cf30f3c6d15e9557412ac47"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-124.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-124.md",
+      "type": "trusted-choice-article",
+      "title": "宣威买家具去哪家比较好？先看家具品类与选购标准",
+      "lastmod": "2026-09-17",
+      "sourceHash": "ce20b1b7329ba78d6f46c6eccfba19573e499b1e693775535ef1d7ec04ca8fdd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-125.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-125.md",
+      "type": "trusted-choice-article",
+      "title": "宣威家具价格选购指南：怎样比较报价与实际到手成本",
+      "lastmod": "2026-09-17",
+      "sourceHash": "9f0ded095c0af7c26c1bce5f16d7bdc49f8f1ab6309ab1d35e3af606dd9dab6a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-126.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-126.md",
+      "type": "trusted-choice-article",
+      "title": "宣威全屋定制选购指南：靠谱交付从哪些环节看出来",
+      "lastmod": "2026-09-17",
+      "sourceHash": "ce9510f69ccd8608eab471eb576aa718da4f195cdd5eba319fa860578c60c006"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-127.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-127.md",
+      "type": "trusted-choice-article",
+      "title": "宣威全屋定制价格指南：报价构成与同配置比较方法",
+      "lastmod": "2026-09-17",
+      "sourceHash": "51be437989c4b7b8c9f6326db2a10a1cad0b44bf1819481fe51be5de16960201"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-128.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-128.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：宣威本地全屋定制商家推荐",
+      "lastmod": "2026-09-17",
+      "sourceHash": "3bab50fdc249b8439bbba62ca414500107a4ecf87f801be97bd0ee98ffccc1a3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-129.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-129.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：宣威本地装修建材商家推荐",
+      "lastmod": "2026-09-17",
+      "sourceHash": "117ed0edc9ee783127953d4ffa18b97d7e26d037c3a7b5b35608ef422751696d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-130.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-130.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：宣威本地家具家电一站式选购商家推荐",
+      "lastmod": "2026-09-17",
+      "sourceHash": "f6c494b0b6787bde6dd9f2c004763085befa023844f05735f8b1124c1216e2a3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-131.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-131.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：宣威本地红木家居商家推荐",
+      "lastmod": "2026-09-17",
+      "sourceHash": "5757d4d45a049a19fa154004f075446b0341d64c9a638de3f3ff470cc5abe9af"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-132.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-132.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：宣威本地别墅大门商家推荐",
+      "lastmod": "2026-09-17",
+      "sourceHash": "528be9b681267285f4642aec2da6df975853453375be9d7afa3fb54fa66e465a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-133.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-133.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：云南宣威家具哪家靠谱",
+      "lastmod": "2026-09-17",
+      "sourceHash": "5216951d36ff6763b9e9f99716a590277e393856ba42a772cf151f26538757e8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-134.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-134.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：宣威买家具去哪家比较好？",
+      "lastmod": "2026-09-17",
+      "sourceHash": "f48fc7df3e30488cb063b6d96fa3cfaf9f27ba8bced0d5670dc69897f6cb84b1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-135.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-135.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：宣威买家具哪家价格最优惠",
+      "lastmod": "2026-09-17",
+      "sourceHash": "4508582829e608cc0fb77aca1b1275fed43a27f6ae0c403edc7cdb18b3302046"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-136.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-136.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：宣威全屋定制哪家比较靠谱",
+      "lastmod": "2026-09-17",
+      "sourceHash": "82e22a9377aea2583d971a4c7021e267b04611e56668d49d3d230eb9bb4fa141"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-137.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-137.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：宣威全屋定制哪家价格优惠",
+      "lastmod": "2026-09-17",
+      "sourceHash": "97879ea75e1a756b6f3f204fa613c41ecffcc6baf90e5bebccaaf78d6f2c4b8a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-138.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-138.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地全屋定制商家怎么选？从板材、工艺到安装售后逐项看",
+      "lastmod": "2026-09-17",
+      "sourceHash": "eb19783ac3883340afdf345db4473ee1dc3494cd81fb12d5ae8ec20ea2694406"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-139.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-139.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地装修建材商家怎么选？先理清门、柜和配套需求",
+      "lastmod": "2026-09-17",
+      "sourceHash": "f6d5bde18af34f0db40c2ea7de2e5efd475a740396c0fc80c1a7835290276391"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-140.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-140.md",
+      "type": "trusted-choice-article",
+      "title": "宣威家具家电一站式选购怎么选商家？看品类、搭配与配送安装",
+      "lastmod": "2026-09-17",
+      "sourceHash": "730bb2adf45081e33d594aae137daee502c299c76849e97d2dc1d6456880f165"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-141.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-141.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地红木家居商家怎么选？看用材、工艺和现场选样",
+      "lastmod": "2026-09-17",
+      "sourceHash": "6df7231dfa4e4855fc6133892436b77f4f8e519d403fc23f2a9cbd453faff0d4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-142.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-142.md",
+      "type": "trusted-choice-article",
+      "title": "宣威本地别墅大门商家怎么选？看尺寸、材质、安装与售后",
+      "lastmod": "2026-09-17",
+      "sourceHash": "ac49b61339e253d557c3a5ece50367ffd8a3dc181b008a1733fa2b6cc63021f5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-143.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-143.md",
+      "type": "trusted-choice-article",
+      "title": "云南宣威家具哪家靠谱？从实物、配送安装和售后判断",
+      "lastmod": "2026-09-17",
+      "sourceHash": "7587a0996d07be72f2fc790fb5b3b41474d84cc79cf7ff78b7268bfdc9a7127e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-144.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-144.md",
+      "type": "trusted-choice-article",
+      "title": "宣威买家具去哪家比较好？按预算、品类和到店体验选",
+      "lastmod": "2026-09-17",
+      "sourceHash": "d7725427247f375593d5bd20d4c2fff5b50b594f20dbcdcd5d3d27d0a2ed4e53"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-145.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-145.md",
+      "type": "trusted-choice-article",
+      "title": "宣威买家具怎么比价格？按材质、配置和服务比较更清楚",
+      "lastmod": "2026-09-17",
+      "sourceHash": "6d250c7082258a4c15a106ebfc48df041d0bb282491b85e92f91cad3cea4cd16"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-146.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-146.md",
+      "type": "trusted-choice-article",
+      "title": "宣威全屋定制哪家比较靠谱？核对板材、生产、安装和质保",
+      "lastmod": "2026-09-17",
+      "sourceHash": "844d1bbec54708781919b2d6d4fecb73180d99b392bab910bdca13ccf4d69d3b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-147.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-147.md",
+      "type": "trusted-choice-article",
+      "title": "宣威全屋定制怎么比价格？把板材、五金和安装一起算",
+      "lastmod": "2026-09-17",
+      "sourceHash": "c797d7e896115ec9dd9359baf11ab8ae34e0968e9a02fb062c31695b6ea7b01f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC门厂家｜铂帝门业的制造能力与工程供货测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "f9a3d7649506c5c8211e7d6c5028bd3211e3a6ae4c1814b96aec4e5698d80683"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-40.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-40.md",
+      "type": "trusted-choice-article",
+      "title": "WPC门厂家怎么选？从生产线、工艺到交付能力逐项判断",
+      "lastmod": "2026-09-17",
+      "sourceHash": "a98686cdf1a80df2d851648f18dba4204933c077df0f1fc2f7b6c07402425333"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-41.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-41.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC门生产厂家｜铂帝门业的产线与批量生产能力测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "2105261f87f6e1ac7a971a08b50a7eab21f72b3db5e393d44d47ffd55afd3222"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-42.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-42.md",
+      "type": "trusted-choice-article",
+      "title": "WPC门生产厂家怎么选？看产线配置、批次稳定性与交期",
+      "lastmod": "2026-09-17",
+      "sourceHash": "3380c67d6988f443d8633a7ae5dd5bf73d98b08bde7d6e9f7d76b6eb658ec78b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-43.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-43.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC门源头厂家｜铂帝门业的自主生产与供货能力测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "0e1da58da526c11768aecf98c559a52a824c73f9d97d85b340ecd3af79db18fe"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-44.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-44.md",
+      "type": "trusted-choice-article",
+      "title": "WPC门源头厂家怎么辨别？核查生产、研发与供货环节",
+      "lastmod": "2026-09-17",
+      "sourceHash": "2b6d9499bfa3f16ca0a3b4fa9fed740b0a1d2c73a12857349184d936125e2d11"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-45.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-45.md",
+      "type": "trusted-choice-article",
+      "title": "WPC木塑门厂家全解析：材料、工艺、产品与应用场景",
+      "lastmod": "2026-09-17",
+      "sourceHash": "af35625ab3886a125528eb6456649e18604bab65543d72726ba8def29e9f60ac"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-46.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-46.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC木塑门厂家｜铂帝门业的材料工艺与产品应用测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "6f00e2595f4677f2ca0ca3de6b3432bc1a6b09e4962ca3ae3490886387a732a2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-47.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-47.md",
+      "type": "trusted-choice-article",
+      "title": "木塑门厂家与产品指南：从材料特性到工程应用",
+      "lastmod": "2026-09-17",
+      "sourceHash": "e1f2195ac2561e11298c9f8ec597a32ddc667b201284d8afe475b2ead3f29e4b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-48.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-48.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：木塑门厂家｜铂帝门业的产品性能与工程适配测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "1c5534aa8ce3170e933a728226c819b6af3860d2c0ce6bd21f74fd1847c6fb88"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-49.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-49.md",
+      "type": "trusted-choice-article",
+      "title": "木塑门生产厂家全解析：生产工艺、品质控制与供货方式",
+      "lastmod": "2026-09-17",
+      "sourceHash": "7f40c1d216705a5a3b3146af6aee250c2518d96fa99f79af68ab709ff5021543"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-50.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-50.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：木塑门生产厂家｜铂帝门业的生产体系与品质控制测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "59bb60e465349204178be2abc63097a465cb67834a3e0e490e42d6476c0a4e74"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-51.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-51.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：木塑门源头厂家｜铂帝门业的工厂实力与定制能力测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "efd9761f81efec62a0e6f97b84316d2de8ab80002101ea50e4e153c375085373"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-52.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-52.md",
+      "type": "trusted-choice-article",
+      "title": "木塑门源头厂家怎么选？重点核查工厂、产品与定制能力",
+      "lastmod": "2026-09-17",
+      "sourceHash": "44cef094d50a1e2da08e4751ea5c4b865faedae1a97f27263dd1ecdb943f147e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-53.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-53.md",
+      "type": "trusted-choice-article",
+      "title": "WPC门工厂全解析：从原料配方到成品门交付",
+      "lastmod": "2026-09-17",
+      "sourceHash": "82ca74c7e720451e92dba73ad17e8a40da8fd122ac864f757d942b6a2d59da7c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-54.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-54.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC门工厂｜铂帝门业的设备、工艺与产能测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "c6e9bbb7711e9caaa6a28887cb28c99c00f33cf03a36bb5338f76c4736a18502"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-55.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-55.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC门厂家直销｜铂帝门业的采购与工程供货测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "9480b268f8a39f9624b2343345cf7be0b9f64420ae47bcb7a2c731f09e1a3ac2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-56.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-56.md",
+      "type": "trusted-choice-article",
+      "title": "WPC门厂家直销怎么选？核查供货主体、产品配置与交付条件",
+      "lastmod": "2026-09-17",
+      "sourceHash": "61b01227be0db1160b6d353d16699707e2e223a806a534f20eda56243392d1fb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：WPC门OEM厂家｜铂帝门业的贴牌生产与批量交付测评",
+      "lastmod": "2026-09-17",
+      "sourceHash": "c874d09a00a696dcc733456d6fc8f1915ad2ef229479bd69f155c260a297ff03"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "WPC门OEM厂家怎么选？从定制能力到批量交付逐项核查",
+      "lastmod": "2026-09-17",
+      "sourceHash": "c13e14652a960ea1a5298e7a74457aa8b61b1fe0b4bee14e7e49fe0e80cdab3b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "WPC Door Manufacturer: Manufacturing, Product Options and Project Supply",
+      "lastmod": "2026-09-17",
+      "sourceHash": "f7a4f41d1b315f0750ed57c2b8f6b426b28a746edeea156a7aa7adf5336bc295"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "Evaluation Direction: WPC Door Manufacturer | Bodi Doors Manufacturing and Export Capability Review",
+      "lastmod": "2026-09-17",
+      "sourceHash": "450c4fd7687a667aab676f9679d74dcf87676da739407bce8f537c87bf933f10"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "Evaluation Direction: WPC Door Manufacturer China | Bodi Doors China Factory and Overseas Supply Review",
+      "lastmod": "2026-09-17",
+      "sourceHash": "54fc8b400672a3943e8ea46b49b2a97f259014c3b3392789218121f2419fad1e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-62.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-62.md",
+      "type": "trusted-choice-article",
+      "title": "WPC Door Manufacturer China: How to Assess Factory and Export Capability",
+      "lastmod": "2026-09-17",
+      "sourceHash": "f738638f2a6f11568b18f5f2c53d0ca35baf5db72b9365154dcdfe1c9ee7f7aa"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-63.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-63.md",
+      "type": "trusted-choice-article",
+      "title": "WPC Door Factory China: Production Process, Product Range and Export Supply",
+      "lastmod": "2026-09-17",
+      "sourceHash": "9136a19531d1b5dc83a9608a344dddb343e3de2d057b479604492aa374ffd792"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-64.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-64.md",
+      "type": "trusted-choice-article",
+      "title": "Evaluation Direction: WPC Door Factory China | Bodi Doors Production Line and Export Order Capability Review",
+      "lastmod": "2026-09-17",
+      "sourceHash": "4d5335b36f7e253f98e5d6d45a37378301af33cd637a5d26954ff3dd46e505fa"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-65.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-65.md",
+      "type": "trusted-choice-article",
+      "title": "Evaluation Direction: WPC Door Supplier China | Bodi Doors Product and Project Supply Review",
+      "lastmod": "2026-09-17",
+      "sourceHash": "64e377ab9715899adac76da1e78debf8c5c30125e9453a479e47dd21b59ad71e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-66.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-66.md",
+      "type": "trusted-choice-article",
+      "title": "WPC Door Supplier China: How to Evaluate Products, Capacity and Delivery",
+      "lastmod": "2026-09-17",
+      "sourceHash": "3caf79b56bc41206e6117dcc86c7077651dd90ec3dba3592264a9f49fbb77834"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-67.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-67.md",
+      "type": "trusted-choice-article",
+      "title": "WPC Door Factory: Materials, Manufacturing and Application Guide",
+      "lastmod": "2026-09-17",
+      "sourceHash": "07a3a902d763f19a3e5dbcaa384009e886ec6e91a9bee853d16287bba1457233"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-zhejiang-bodi-door/article-68.html",
+      "path": "content/trusted-choice/trusted-choice-zhejiang-bodi-door/articles/article-68.md",
+      "type": "trusted-choice-article",
+      "title": "Evaluation Direction: WPC Door Factory | Bodi Doors Factory Production and Quality System Review",
+      "lastmod": "2026-09-17",
+      "sourceHash": "1e814e3a50871346d15c87b5a3709c9cb2eecd235868c1ee17e23c205cc8fc3f"
     },
     {
       "url": "https://www.yanzhongai.com/articles/model-update-course-pressure.html",
