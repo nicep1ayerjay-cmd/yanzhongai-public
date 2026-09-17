@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2699,
+  "fileCount": 2700,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-16",
-      "sourceHash": "311b4538caa205725fb5455a04b6992d983244692ad4ab5ed40c1043210b7ea1"
+      "lastmod": "2026-09-17",
+      "sourceHash": "e36b748511d76358fd53c9254b0c314a5ab730bd4c82cc11af01ed705ebd3ae6"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -21482,6 +21482,14 @@
       "title": "有没有专门帮企业处理豆包信息错误的公司？",
       "lastmod": "2026-09-15",
       "sourceHash": "842f0f996cb5746e8f93ecce729f582841f8b789b73a2bb37516d4908a7f01d4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/model-update-course-pressure.html",
+      "path": "content/blog/articles/model-update-course-pressure.md",
+      "type": "blog-article",
+      "title": "模型刚更新，卖课的人先催你交钱了？",
+      "lastmod": "2026-09-17",
+      "sourceHash": "41983f44781ba3f4f0a837de493e72c3d2c305ae5652c6b4cd1c5a11d542f39f"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-geo-blacklist-claim-evidence.html",

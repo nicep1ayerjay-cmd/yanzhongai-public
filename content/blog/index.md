@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-09-16"
-source_hash: "311b4538caa205725fb5455a04b6992d983244692ad4ab5ed40c1043210b7ea1"
+lastmod: "2026-09-17"
+source_hash: "e36b748511d76358fd53c9254b0c314a5ab730bd4c82cc11af01ed705ebd3ae6"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "311b4538caa205725fb5455a04b6992d983244692ad4ab5ed40c1043210b7ea1"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 模型刚更新，卖课的人先催你交钱了？
+
+模型更新，不等于你的GEO全部白做，更不等于必须立刻买一门“新版算法课”。有些服务商抓住一次模型发布，就喊“豆包算法大调整、旧方法失效”，再把自己的课程当成唯一补救。真实的更新消息，不会自动证明这些营销结论。
+
+2026-09-17 阅读全文 →
+
+](/articles/model-update-course-pressure.html)[豆包获客
 
 ### 不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！
 
