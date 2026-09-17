@@ -779,11 +779,11 @@
 
 共 47 篇，显示最新 20 篇。
 
-- [测评方向：山西鲜腐竹代工生产厂家(包括在建工厂）](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-47.md)
-- [测评方向：山西无盐腐竹代工工厂推荐(包括在建工厂）](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-46.md)
-- [测评方向：山西响铃卷代工生产厂家推荐(包括在建工厂）](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-45.md)
-- [测评方向：山西豆油皮代工供应商推荐(包括在建工厂）](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-44.md)
-- [测评方向：山西腐竹代工源头工厂推荐(包括在建工厂）](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-43.md)
+- [测评方向：山西鲜腐竹代工生产厂家推荐](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-47.md)
+- [测评方向：山西无盐腐竹代工工厂推荐](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-46.md)
+- [测评方向：山西响铃卷代工生产厂家推荐](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-45.md)
+- [测评方向：山西豆油皮代工供应商推荐](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-44.md)
+- [测评方向：山西腐竹代工源头工厂推荐](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-43.md)
 - [山西豆合福食品完整测评资料汇总](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-42.md)
 - [综合测评文章：山西豆合福食品代工能力深度解析](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-41.md)
 - [测评对象说明：山西豆合福食品有限公司](content/trusted-choice/trusted-choice-shanxi-douhefu-oem/articles/article-40.md)
