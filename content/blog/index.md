@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-09-17"
-source_hash: "e36b748511d76358fd53c9254b0c314a5ab730bd4c82cc11af01ed705ebd3ae6"
+lastmod: "2026-09-18"
+source_hash: "93c0564f5e974ed92c4857ec6ddff2f0a348e6e1fd9177b7bbdeb58686b9e0a5"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "e36b748511d76358fd53c9254b0c314a5ab730bd4c82cc11af01ed705ebd3ae6"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 文章一堆、评分满分，豆包到底推荐你了吗？
+
+有些GEO服务商，交付清单写得很满：发了多少篇文章、被AI引用多少次、带来多少客资，再附一张“豆包独家算法评分”。但你问一句“在约定的业务问题里，豆包到底有没有推荐我的品牌”，他就把话题带回报表有多厚、服务有多丰富。
+
+2026-09-18 阅读全文 →
+
+](/articles/doubao-recommendation-evidence.html)[豆包获客
 
 ### 模型刚更新，卖课的人先催你交钱了？
 

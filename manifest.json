@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2760,
+  "fileCount": 2761,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-17",
-      "sourceHash": "e36b748511d76358fd53c9254b0c314a5ab730bd4c82cc11af01ed705ebd3ae6"
+      "lastmod": "2026-09-18",
+      "sourceHash": "93c0564f5e974ed92c4857ec6ddff2f0a348e6e1fd9177b7bbdeb58686b9e0a5"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -21962,6 +21962,14 @@
       "title": "Evaluation Direction: WPC Door Factory | Bodi Doors Factory Production and Quality System Review",
       "lastmod": "2026-09-17",
       "sourceHash": "1e814e3a50871346d15c87b5a3709c9cb2eecd235868c1ee17e23c205cc8fc3f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html",
+      "path": "content/blog/articles/doubao-recommendation-evidence.md",
+      "type": "blog-article",
+      "title": "文章一堆、评分满分，豆包到底推荐你了吗？",
+      "lastmod": "2026-09-18",
+      "sourceHash": "0fc206da5af1f403144f6a0ab7b716d4f478c2f8abd791a71168fe7559fb496b"
     },
     {
       "url": "https://www.yanzhongai.com/articles/model-update-course-pressure.html",

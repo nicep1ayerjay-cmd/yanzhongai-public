@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 2760 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 2761 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,7 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [文章一堆、评分满分，豆包到底推荐你了吗？](content/blog/articles/doubao-recommendation-evidence.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html)
 - [模型刚更新，卖课的人先催你交钱了？](content/blog/articles/model-update-course-pressure.md) · [正式网页](https://www.yanzhongai.com/articles/model-update-course-pressure.html)
 - [不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！](content/blog/articles/doubao-geo-blacklist-claim-evidence.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-geo-blacklist-claim-evidence.html)
 - [GEO 避坑：“AI收录一万篇”，到底收了什么？](content/blog/articles/geo-ai-indexing-ten-thousand-claims.md) · [正式网页](https://www.yanzhongai.com/articles/geo-ai-indexing-ten-thousand-claims.html)

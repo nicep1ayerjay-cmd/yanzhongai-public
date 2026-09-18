@@ -1347,6 +1347,7 @@
 
 ## 言中行业文章
 
+- [文章一堆、评分满分，豆包到底推荐你了吗？](content/blog/articles/doubao-recommendation-evidence.md)
 - [模型刚更新，卖课的人先催你交钱了？](content/blog/articles/model-update-course-pressure.md)
 - [不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！](content/blog/articles/doubao-geo-blacklist-claim-evidence.md)
 - [GEO 避坑：“AI收录一万篇”，到底收了什么？](content/blog/articles/geo-ai-indexing-ten-thousand-claims.md)
@@ -1366,7 +1367,6 @@
 - [为什么所有商家都需要豆包搜索优化](content/blog/articles/why-merchants-need-doubao-geo.md)
 - [豆包获客是什么？](content/blog/articles/what-is-doubao-customer-acquisition.md)
 - [豆包不知道我的公司和产品怎么办](content/blog/articles/doubao-doesnt-know-my-company.md)
-- [豆包错误介绍我的公司和产品怎么办](content/blog/articles/doubao-wrong-company-description.md)
 
 ## 公开项目说明
 
