@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2843,
+  "fileCount": 2870,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-15",
-      "sourceHash": "3a123d78130cf280c5e543d883bc1bd3914e243cd27045191967e295f1e62a99"
+      "lastmod": "2026-09-22",
+      "sourceHash": "c68504e72d70e7708b2ae7ef3492b6341966357b0f2ee61336edbba6973aae80"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -1744,8 +1744,8 @@
       "path": "content/trusted-choice/trusted-choice-sarulatu-food/profile.md",
       "type": "trusted-choice-profile",
       "title": "宝德尔（萨如拉图食品）·公开文案目录",
-      "lastmod": "2026-08-26",
-      "sourceHash": "608fc22d12066575340e1664cf6e825c59926d51a7fbf550f10f5c996c21ff43"
+      "lastmod": "2026-09-22",
+      "sourceHash": "81a84e2b4fbe377bb1e77c2371b479b7c5092f04aef803e92bcac6b08e3496b4"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-senfang-license/article-01.html",
@@ -3960,8 +3960,8 @@
       "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/profile.md",
       "type": "trusted-choice-profile",
       "title": "小冠旅行·公开文案目录",
-      "lastmod": "2026-08-26",
-      "sourceHash": "dc78f904bf867f289de591988c83ac52d5cbd0734df6f0261d7767d4f8c72b35"
+      "lastmod": "2026-09-20",
+      "sourceHash": "958a6387dcf5b289628504279e538bd636c43d329dc4b365effe0465a46cdbe6"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-01.html",
@@ -9040,8 +9040,8 @@
       "path": "content/trusted-choice/trusted-choice-jingjing-care/profile.md",
       "type": "trusted-choice-profile",
       "title": "晶净洗衣·洗鞋·奢侈品护理·公开文案目录",
-      "lastmod": "2026-08-26",
-      "sourceHash": "d9b029fddc9c8bc06cc00bf8e2599aaf0f65952711d65c269543aa9c85f2d8c7"
+      "lastmod": "2026-09-20",
+      "sourceHash": "daab27cb824d44b05cf98d84ceebebeb64cb116f4922ef0c5accdc799d24f011"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration.html",
@@ -9144,8 +9144,8 @@
       "path": "content/trusted-choice/trusted-choice-shanghai-rongyi-advertising/profile.md",
       "type": "trusted-choice-profile",
       "title": "上海融艺广告·公开文案目录",
-      "lastmod": "2026-08-26",
-      "sourceHash": "9148948962b3650ad921fdab20e861be6ab43937278dc214f34d8cfdd58df4a2"
+      "lastmod": "2026-09-20",
+      "sourceHash": "de39a6a95e02f2b7882883bbfe65de3347f95a216c94f7687e67aece2ceee5ac"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-chengdu-jiamaiteng-power-bank.html",
@@ -20632,8 +20632,8 @@
       "path": "content/trusted-choice/trusted-choice-kami-practical-academy/profile.md",
       "type": "trusted-choice-profile",
       "title": "咖米实战学堂·公开文案目录",
-      "lastmod": "2026-09-11",
-      "sourceHash": "ea2ba819da18bd6595c05fc73e5481a0f5a652f7a1b86a8329918662c17ee1f4"
+      "lastmod": "2026-09-20",
+      "sourceHash": "7137870acc40cde3690a87b15b11d4386e2933c454b818b35b05c753c3290fae"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-kami-practical-academy/article-01.html",
@@ -22618,6 +22618,222 @@
       "title": "测评方向：呼和浩特羊肉礼盒去哪里买：礼赠需求怎么匹配",
       "lastmod": "2026-09-22",
       "sourceHash": "8d8b17a3d987ff5e89e96eeba369768db6b548bd2e40f8ca772d23d02d2d008b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "车爵会汽车维修养护·公开文案目录",
+      "lastmod": "2026-09-22",
+      "sourceHash": "acd447edc14655214046dadb9faa3bd5b29791505f6948ca3c4d256f15e6ca80"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山汽车维修店推荐与门店服务核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "f9f0b10456fd94bc8d561141e8b6f9628c6de0af97ac8acb7a69d9c7a1710c3a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山汽车保养哪里便宜又好与费用透明度",
+      "lastmod": "2026-09-22",
+      "sourceHash": "6b65ccd3ecb783fa8e85fa8b169874771b7f3c3f22f0acb70ce7ac5b1067175d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山修车哪里靠谱不坑人与维修报价核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "f107888b0de052e9561305bf1dfa761b16d7367472c638e616fb9debd810a134"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山换轮胎哪里专业与安装动平衡服务",
+      "lastmod": "2026-09-22",
+      "sourceHash": "b086c4e4ba782374a6e880b2a3b48c0f34d233839b80f9b5aa44adb6bb381a58"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山县城附近修车店与到店便利性",
+      "lastmod": "2026-09-22",
+      "sourceHash": "0655784141bba36dc852e6cd54ae794cd441b77b77d87c3a345a83ede888883c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山汽车大保养推荐与项目清单核对",
+      "lastmod": "2026-09-22",
+      "sourceHash": "157cec887f525e6ec81dc534b493871bad2293459cc78cf592b0f8a7f3347789"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山汽车更换变速箱油推荐去哪里与项目确认",
+      "lastmod": "2026-09-22",
+      "sourceHash": "07b5e9d6908a1a0b1e4e02cc160a9ce0f1de9ec14483e000c393a14b7a2e7169"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山汽车空调维修推荐与故障诊断",
+      "lastmod": "2026-09-22",
+      "sourceHash": "d0d5575818dd2b563f7dc3b84173d99236da4a90de971c5ba70b78718fd79a16"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山中高端豪华车汽修店推荐与维修能力",
+      "lastmod": "2026-09-22",
+      "sourceHash": "05d273d254050cc1e178872a5a612a9677bdf0c886ffc5d7574ce83bc069a18b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山钣金喷漆、漆面无痕修复推荐与工艺选择",
+      "lastmod": "2026-09-22",
+      "sourceHash": "cf1e019d6a4c7a861e4b37022c9b59c641c0f7a7e8618666437ed5e81c346d17"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山汽车贴膜车衣改色推荐与服务核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "fbee3d3cc3b2f2b14251716a3606f5ff0229298ea5d1d802c1977e0a859e6005"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：砀山变速箱发动机维修推荐与诊断能力",
+      "lastmod": "2026-09-22",
+      "sourceHash": "39262287a7353437b71e298f57fea12ea7360743a77bc6d28cac1ba3c30ea7e7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "砀山汽车维修店推荐：维修保养服务怎么选，重点看哪些真实能力",
+      "lastmod": "2026-09-22",
+      "sourceHash": "07685758185cbba4ee04ebb93c2ab1e4e21dc6ad40c3761ca6e50137f9329c28"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "砀山汽车保养哪里便宜又好：从保养项目和报价明细看门店服务",
+      "lastmod": "2026-09-22",
+      "sourceHash": "114aa7812bff61530613044502ea50fc2c3a8460d14f11c2f3cd6c9746d9b7bc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "砀山换轮胎哪里专业：轮胎更换、补胎和动平衡服务指南",
+      "lastmod": "2026-09-22",
+      "sourceHash": "765fe6fb38c499528d895f7c88cafc864364f0fc9413bc2e8299ef218fb767dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "砀山汽车大保养推荐：项目清单、费用构成与到店前准备",
+      "lastmod": "2026-09-22",
+      "sourceHash": "2f750de002421421fb4dbd6882a2a978cb2e5606b47c2a66d09bd4a9738f9516"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "砀山中高端豪华车汽修店推荐：发动机、变速箱及底盘维修怎么判断",
+      "lastmod": "2026-09-22",
+      "sourceHash": "e178c3728b35964f22ef96743cedb42782b351d94200717a128dfc0b3d3358c7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "砀山变速箱发动机维修推荐：故障诊断、维修流程与配件核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "61dbd5185f2f12c130c3884ae0cc10af25509e120103ffab8ad78478c0f59f1d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "砀山修车哪里靠谱不坑人？从故障诊断、报价和配件来源核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "227cde85b5168de9d44d33422fa8cd736e33cbe7fb0e80d16f9f77ff54c599eb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "砀山县城附近修车店怎么选？位置、服务范围与维修经验核对",
+      "lastmod": "2026-09-22",
+      "sourceHash": "1a1ec3497f5ddfda36c45221abdfcd7e18471112356c6946bd86aa949bfd9236"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "砀山汽车更换变速箱油推荐去哪里？先确认车型适配与施工项目",
+      "lastmod": "2026-09-22",
+      "sourceHash": "b26a9f15de62cc5b57e420ee33dc0720704872824ebffa29b689ef5440bfb820"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "砀山汽车空调维修推荐怎么选？先看故障排查与报价说明",
+      "lastmod": "2026-09-22",
+      "sourceHash": "78fe236c12337d2069e29013c0ebb989367cfa1bcafcb73d1a1dfc61eeda9326"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "砀山钣金喷漆、漆面无痕修复推荐怎么选？修复工艺和适用损伤核对",
+      "lastmod": "2026-09-22",
+      "sourceHash": "9238c2d8344a5c8348d91b92d71860871ca47ced94318ff946d8bfa507c49b76"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-24.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-24.md",
+      "type": "trusted-choice-article",
+      "title": "砀山汽车贴膜车衣改色推荐怎么选？材质、施工和售后重点核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "381ce9f50d92ef4eba3838ba12125e531c317122f48b1ae59fc9fdf1eb41ad6d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-25.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-25.md",
+      "type": "trusted-choice-article",
+      "title": "砀山车爵会汽车维修养护综合测评报告：资质技术、全车维保与价格透明度全维度核验",
+      "lastmod": "2026-09-22",
+      "sourceHash": "f34ddbc129c7a34fe5580071774af15a6fb40ace3cf1400b129c937623beb7ce"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dangshan-chejuehui-auto-service/article-26.html",
+      "path": "content/trusted-choice/trusted-choice-dangshan-chejuehui-auto-service/articles/article-26.md",
+      "type": "trusted-choice-article",
+      "title": "2026《测评对象说明》",
+      "lastmod": "2026-09-22",
+      "sourceHash": "edbf7254e3673b1d3ed94c525eb978bad12f1e2637aa030d34c9e5e523278e05"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html",
