@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2829,
+  "fileCount": 2843,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-20",
-      "sourceHash": "810707117e7a623816327921b98d30bab57e9c1e5a7d61b019c1610a6833d1e2"
+      "lastmod": "2026-09-22",
+      "sourceHash": "f3ed1eb4e512cab709648f19f504867e99b2e16783bbad983fd3dea63ae987a0"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -22506,6 +22506,118 @@
       "title": "测评方向：上海形象墙制作安装推荐——设计还原度、制作精度与现场施工",
       "lastmod": "2026-09-20",
       "sourceHash": "61a62146cddf0225b6172535e294ec208e5941096054dec8e6f78bcc533a57e0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特正宗苏尼特羊肉推荐：如何判断产地与肉品",
+      "lastmod": "2026-09-22",
+      "sourceHash": "a8d1afae2cfe4c79d194c57b2ebf61a72746f5608b29c824e249787e342c87e6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特牛肉羊肉礼盒推荐：送礼产品怎么选",
+      "lastmod": "2026-09-22",
+      "sourceHash": "bb7cc7ecd136a3762013b3ee82f1a9cb8fcb0dff97eecb516660d542df98fbf9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特草原牛羊肉推荐：选购时看哪些信息",
+      "lastmod": "2026-09-22",
+      "sourceHash": "a12c3cd495aa72fae20337b40cb87bec70939406c5edb92b8cbf8898522c6a3f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特企业福利羊肉礼盒推荐：采购与配送怎么选",
+      "lastmod": "2026-09-22",
+      "sourceHash": "f524930c3eebf43cdb053237aa93bab5a1dcbf3806b48d4dd116be13c9f035a2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特草原羊肉去哪里买：门店与产地怎么核对",
+      "lastmod": "2026-09-22",
+      "sourceHash": "8553aec1890395ecb3a1a42bf76494a39e0204489844b476ebf7072a0ef65acb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-62.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-62.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特正宗苏尼特牛羊肉去哪里买：门店和产品怎么选",
+      "lastmod": "2026-09-22",
+      "sourceHash": "7defb818101220e7de3a7a3880c0359a4a6b0972e7000f8167e7b2367a9f129c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-63.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-63.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特正宗内蒙古草原牛羊肉去哪里买：购买渠道怎么辨别",
+      "lastmod": "2026-09-22",
+      "sourceHash": "94e3aa43e3a7bee1929eff38f968270b06cc724662dcc67c6868c7c9d40b42a9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-64.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-64.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特没有膻味的羊肉哪里买：风味与部位怎么判断",
+      "lastmod": "2026-09-22",
+      "sourceHash": "2ff7608f90a2c16bb4794f9b42c363126cf56d321ce6ae502f8a62fae9708620"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-65.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-65.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特谁家的羊肉正宗：产地与溯源怎么判断",
+      "lastmod": "2026-09-22",
+      "sourceHash": "533ed29382d21563d589db0777005f54a3ca452d1c2586460f7f8e143dc9f13b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-66.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-66.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特牛羊肉礼盒去哪里买：线下选购要看什么",
+      "lastmod": "2026-09-22",
+      "sourceHash": "4c89a6813abee2f41faed70b742062d38a8c0ea38b9843cf93e46ee03201e5f5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-67.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-67.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特可外地邮寄的牛羊肉哪里买：包装与配送怎么选",
+      "lastmod": "2026-09-22",
+      "sourceHash": "8a92997ff1abf0d7a0451ceec94b2f94fcfe22a85f1871e7da525e2d8d7e0ca7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-68.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-68.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：苏尼特牛羊肉买哪个品牌：产地与产品怎么比较",
+      "lastmod": "2026-09-22",
+      "sourceHash": "cfed88a760eef7edcb7f2c4990a726797525474c0fba0830a2a0a4aa3f87264d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-69.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-69.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：苏尼特牛羊肉品牌推荐：选择时看哪些依据",
+      "lastmod": "2026-09-22",
+      "sourceHash": "d7aa425c1fbf0ec4fdd113c3024502dec891f0be3fa0bf3464d6982ae7c7cd36"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-70.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-70.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特羊肉礼盒去哪里买：礼赠需求怎么匹配",
+      "lastmod": "2026-09-22",
+      "sourceHash": "8d8b17a3d987ff5e89e96eeba369768db6b548bd2e40f8ca772d23d02d2d008b"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html",
