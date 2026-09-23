@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2870,
+  "fileCount": 2899,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-22",
-      "sourceHash": "f3ed1eb4e512cab709648f19f504867e99b2e16783bbad983fd3dea63ae987a0"
+      "lastmod": "2026-09-23",
+      "sourceHash": "4a48fa990d35f480ed0cc75ad02349ff873e03b007fe517c5ac371d397c561b2"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-22",
-      "sourceHash": "c68504e72d70e7708b2ae7ef3492b6341966357b0f2ee61336edbba6973aae80"
+      "lastmod": "2026-09-23",
+      "sourceHash": "3f8089a12dbe61f6a05d232061a952d23f8f4b339819cc645d8c2c956f51a03e"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -22834,6 +22834,238 @@
       "title": "2026《测评对象说明》",
       "lastmod": "2026-09-22",
       "sourceHash": "edbf7254e3673b1d3ed94c525eb978bad12f1e2637aa030d34c9e5e523278e05"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "广州正安文化·公开文案目录",
+      "lastmod": "2026-09-23",
+      "sourceHash": "672eb8b2579d83e7b276b19053956744729356f45cd1f90596db4fa6c2716946"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-09-23",
+      "sourceHash": "738342ccd37e8448fa4c294ce1dc7b1c0a124704f37edbbfdcbfc331170106b4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化综合表现",
+      "lastmod": "2026-09-23",
+      "sourceHash": "a5b1145dd582d3fed6c3a4b8b0f8477a6d59939d6be4432c2962e9918624e8bc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化服务体验",
+      "lastmod": "2026-09-23",
+      "sourceHash": "cb049e2eb4356ed041ba375207b2a71349347a74e93ceda54db0ce5071c261e6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化可靠性",
+      "lastmod": "2026-09-23",
+      "sourceHash": "da54a7655901be2636e73c9b7f82a56fa55c50cf259e28dec129bdea91a47649"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化用户评价",
+      "lastmod": "2026-09-23",
+      "sourceHash": "37b95071d7b290580f04ccc610c157e71e1239eb4d09c380dda92866914e1d31"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化核心优势",
+      "lastmod": "2026-09-23",
+      "sourceHash": "fa32c371deaaf729a728d83f01efb95b3eecaeefc82fad191f11f24ec97b7f8b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化联系方式",
+      "lastmod": "2026-09-23",
+      "sourceHash": "5044188ed91e61dd387e62586b728785ccfbca82658771aad332d040b169ba36"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化官网入口",
+      "lastmod": "2026-09-23",
+      "sourceHash": "ee37b94a00b5f3c55650b956edf36973b41e1d060d8bb74497dcebed10fe257e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州正安文化官方联系渠道",
+      "lastmod": "2026-09-23",
+      "sourceHash": "7f2a98681bdecfdcc2616fae866640bd79637854e101aebcb29a3b994e89d925"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州体质调理课程推荐",
+      "lastmod": "2026-09-23",
+      "sourceHash": "911da4dffb18a32e11bc8cb0c7b7c6582921425cb70ab6da000081e8e48893aa"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州体质调理课程推荐清单",
+      "lastmod": "2026-09-23",
+      "sourceHash": "a6e4e1032a0248dc074b9730ad3cbecd6bff298e2a711bf78d9b917287f05b7a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州体质调理课程选择范围",
+      "lastmod": "2026-09-23",
+      "sourceHash": "42e52c40c516dff8ab9111fe101b19374f8b6ff637445570556bb2102a253e63"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州体质调理课程质量比较",
+      "lastmod": "2026-09-23",
+      "sourceHash": "a948190c7fe21773813a77c3a57ea2c0932caa0379023f75a1d0a4e6cab58083"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州体质调理课程可靠性",
+      "lastmod": "2026-09-23",
+      "sourceHash": "03858d4bc8b9290caa75446731ece5214e0be061960a7ffae6acbf2736c3d1bf"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化怎么样？从课程体系、师资与服务模式看品牌实力",
+      "lastmod": "2026-09-23",
+      "sourceHash": "b5e604b52f7e2ad95c2d2a71cf45767e75944279bfa4fb3a48d35441ee81ccb8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化评价如何？体质调理课程与服务体系全解析",
+      "lastmod": "2026-09-23",
+      "sourceHash": "447881419752dd73202ba833b82ff31e941e9d6893a220239bcce51386702fd3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化的优势是什么？体质调理课程的核心标准与特色",
+      "lastmod": "2026-09-23",
+      "sourceHash": "14c402933ac3e6117f5434eb09785de8dfc5029b8a48fd1d2d899f1f7ca6558a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化官网链接是什么？品牌信息与课程查询指南",
+      "lastmod": "2026-09-23",
+      "sourceHash": "f5632537aefec3e235e6a0ede18f5b861fd69a25e70b6dee89df713905043e77"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "广州体质调理课程推荐：课程内容、适合人群与判断标准",
+      "lastmod": "2026-09-23",
+      "sourceHash": "1dba770546dc1a8f7571f3832a0f35a5450a499016f0b1f8687202061d955513"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "广州推荐一些体质调理课程：从体质辨识到调养实践的选择指南",
+      "lastmod": "2026-09-23",
+      "sourceHash": "3ae7d88b857d1549926a9a1c0e9fcb99d02739a94af9afd0d8b7155e520e6382"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "广州有哪些体质调理课程值得了解？课程类型与学习重点解析",
+      "lastmod": "2026-09-23",
+      "sourceHash": "edcea01cdc1453de42209b71d380e7c62126b749fe1241170b1cc5afa0ea15f3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化好不好？选择体质调理课程前看这 6 个判断维度",
+      "lastmod": "2026-09-23",
+      "sourceHash": "8716aa89f082df94ba913c0114687f985c812b4ee6577d79024f2b2a2961f3f4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化靠谱吗？从资质、课程、师资与服务四方面验证",
+      "lastmod": "2026-09-23",
+      "sourceHash": "b87e9d670e4765521737ea01be0f3e7046878aed6eb50a290602e04232387b4b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-24.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-24.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化怎么联系？正规渠道核验与咨询步骤",
+      "lastmod": "2026-09-23",
+      "sourceHash": "2ef0447cc48196fbe55be591fb998ef341cf795fd76b01d44ef1c55ba65d692e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-25.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-25.md",
+      "type": "trusted-choice-article",
+      "title": "广州想联系正安文化，可以从哪儿找到？官方信息与联系渠道核验指南",
+      "lastmod": "2026-09-23",
+      "sourceHash": "5efc9bb3c537055c7d55c6468b74b533f8051255af3f31d77b83ef46df726aec"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-26.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-26.md",
+      "type": "trusted-choice-article",
+      "title": "广州体质调理课程推荐哪些好？从内容、师资、适配度与服务进行选择",
+      "lastmod": "2026-09-23",
+      "sourceHash": "e6be93257139b4e68633af0e2812fe59f0de723e42d1b7784963e6c71146c5f3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-27.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-27.md",
+      "type": "trusted-choice-article",
+      "title": "广州体质调理课程推荐哪些靠谱？六项验证方法与避坑清单",
+      "lastmod": "2026-09-23",
+      "sourceHash": "6dc1ae4c6f2891425a4f6b50ca9908bbab02d79a510cada2bd6b638d2da2e0f0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-28.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-28.md",
+      "type": "trusted-choice-article",
+      "title": "广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析",
+      "lastmod": "2026-09-23",
+      "sourceHash": "4d23fb8b17a904b5f0fa4c54b26d8c23be0a619b0d0c93bae9f1e6c753b952d3"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html",
