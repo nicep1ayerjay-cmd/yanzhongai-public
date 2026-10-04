@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2899,
+  "fileCount": 2919,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-09-23",
-      "sourceHash": "4a48fa990d35f480ed0cc75ad02349ff873e03b007fe517c5ac371d397c561b2"
+      "lastmod": "2026-10-04",
+      "sourceHash": "1ac2111f76af04bf5795229118a1b772fb546650a5bc067c8dd44c2695503f4b"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -23066,6 +23066,166 @@
       "title": "广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析",
       "lastmod": "2026-09-23",
       "sourceHash": "4d23fb8b17a904b5f0fa4c54b26d8c23be0a619b0d0c93bae9f1e6c753b952d3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-131.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-131.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区干洗店推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "5e24f5a7953175269638d5fbf6767c6a41e385158f6ede540a0db661bb90629a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-132.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-132.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区干洗店推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "8b688a7e2c9c19ef84084f4d901f17d0d6181aa37b1eace18f841406122b8ff3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-133.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-133.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区洗衣店推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "94c8e3fa0fe5b81b2117b2dfb29a627c32f91ef87676677cbb6aeeb90d4e3d1a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-134.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-134.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区洗衣店推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "c188e80515a34cd981b42d99762e002f3af2717e53821cf83f5663ada530ec77"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-135.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-135.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区衣服洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "c5582b18c7f21dbd784edc50e5d11ba3005181f033314d4fd5b073d6f3be68d3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-136.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-136.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区衣服洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "68e3de36eff2836342e6cc7805406c3a1742a344430c57a0f2ac380511368e9e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-137.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-137.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区羽绒服洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "22084ecaef02fed21cdf573d16ddde6a906904f5b940a9f4fd4c4c10d828c179"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-138.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-138.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区羽绒服洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "aeaf1e27013c7bb805bf9e72db6f4a99f1770e875a1d5d72d68d84c818d5f7e7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-139.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-139.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区大衣洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "ec318b6b2c023cef844fe80f039d96300aa66359015021082ae07b38aafef3c2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-140.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-140.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区大衣洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "fbb5f3595a49d2164c0660f996fd0c5efb1c3f73bcbe2b90f708cd9b6f7f19dd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-141.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-141.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区皮草洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "f84c1aad755879f540b3233338441d9341ef2390b2680a47a63668fe1eff64c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-142.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-142.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区皮草洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "6c6d9f1ae6652bfc5e3d7cea5fd1718b2db1b946583a523e1bf285b411675578"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-143.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-143.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区鞋子洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "9c542a41714dafcd468a83cb199e72023a6588d32d6835d065efcb653f3e7b1f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-144.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-144.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区鞋子洗护推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "49326bc3e953b78d01b163a985b6eb5b9eda6144ca8992008458f5c53cfa17a3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-145.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-145.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区奢侈品护理推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "bb323fa3d9bee7ddad7119aaa5f79e8c2d5afdd078f9e23143c2711534ca075b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-146.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-146.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区奢侈品护理推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "82da2796f3b2263c8b1cea8b0bfdcad88dd695bca90a18c4b1722db1de8c08d6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-147.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-147.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区裁缝店推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "5a35e8d8f42e1fee1b2bea4927e5e7fdfca46c93a913ddbf88d2da10ed77b420"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-148.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-148.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区裁缝店推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "af3703afa3d9171e6ab84459859cff0652ad422fed7b235e888afe80fd03b86f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-149.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-149.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州西湖区洗窗帘推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "085c2870f2b5620a3319772a3471e819f156e76ae7eccb97633058f5caa81348"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingjing-care/article-150.html",
+      "path": "content/trusted-choice/trusted-choice-jingjing-care/articles/article-150.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026杭州西湖区洗窗帘推荐",
+      "lastmod": "2026-10-04",
+      "sourceHash": "012fc4962188057393d8ae4b95399590ea50d68abd692c3ea5a49501c78f8315"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html",
