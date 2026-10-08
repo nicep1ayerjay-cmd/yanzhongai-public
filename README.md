@@ -1409,6 +1409,7 @@
 
 ## 言中行业文章
 
+- [揭开“GEO 自动化系统”画皮：一场用廉价 AI 伪造的收割盛宴](content/blog/articles/geo-automation-system-scam.md)
 - [文章一堆、评分满分，豆包到底推荐你了吗？](content/blog/articles/doubao-recommendation-evidence.md)
 - [模型刚更新，卖课的人先催你交钱了？](content/blog/articles/model-update-course-pressure.md)
 - [不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！](content/blog/articles/doubao-geo-blacklist-claim-evidence.md)
@@ -1428,7 +1429,6 @@
 - [同行在用的豆包获客是什么](content/blog/articles/what-is-doubao-customer-acquisition-used-by-peers.md)
 - [为什么所有商家都需要豆包搜索优化](content/blog/articles/why-merchants-need-doubao-geo.md)
 - [豆包获客是什么？](content/blog/articles/what-is-doubao-customer-acquisition.md)
-- [豆包不知道我的公司和产品怎么办](content/blog/articles/doubao-doesnt-know-my-company.md)
 
 ## 公开项目说明
 

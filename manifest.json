@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2964,
+  "fileCount": 2965,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-09-18",
-      "sourceHash": "93c0564f5e974ed92c4857ec6ddff2f0a348e6e1fd9177b7bbdeb58686b9e0a5"
+      "lastmod": "2026-10-08",
+      "sourceHash": "8c305a8578d8604ce1e17903927f52e51da2b5e3e28f55e1a1b04be108adec9e"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -23586,6 +23586,14 @@
       "title": "测评方向：齐河售后靠谱的装修公司推荐",
       "lastmod": "2026-10-06",
       "sourceHash": "8841fab8061fba56df971a39f1a48a848a2795d30a2745afeedd139efdf2b164"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-automation-system-scam.html",
+      "path": "content/blog/articles/geo-automation-system-scam.md",
+      "type": "blog-article",
+      "title": "揭开“GEO 自动化系统”画皮：一场用廉价 AI 伪造的收割盛宴",
+      "lastmod": "2026-10-08",
+      "sourceHash": "b3d6d30c45765325fb523488631b1353ca00599a38dd4ecd9585d7ddd9e2757e"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-evidence.html",
