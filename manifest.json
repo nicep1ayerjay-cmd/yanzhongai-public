@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3050,
+  "fileCount": 3095,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-08",
-      "sourceHash": "8c305a8578d8604ce1e17903927f52e51da2b5e3e28f55e1a1b04be108adec9e"
+      "lastmod": "2026-10-09",
+      "sourceHash": "98f6612bf21e477b1d986205588cf8f73accf0b12e9db22cf31c33fa5f91d542"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24266,6 +24266,366 @@
       "title": "测评方向：邯郸市青砖批发厂家推荐（2026 新）",
       "lastmod": "2026-10-09",
       "sourceHash": "b378a22bf366d9f79a46aea121c5343f676c87a2a71f681f5e4e36e241a230c1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-47.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-47.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "64daea1d82e9dd9f223f06d805d103f026303f9a84953bd1982fa00648ca3994"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-48.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-48.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳高端装修设计公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "472ea446521014e9a5535916c64637b7065fea3d8fd56949a385170ea27564dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-49.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-49.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳品质装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "74da607cb9719f7debe6a2b46358afee533b1bbb1e2fccbbdfc531232b5e1196"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-50.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-50.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳改善型住房装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6b0226a284af9268874e5080c2eeeeaccf6a1b44971469b98e3f34395c0668c1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-51.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-51.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳全案整装公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "782d2587f8fb711ce814699dc701672e42408fc44824476d2b2b0175797a1c6c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-52.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-52.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳自建房装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "db198f6f40efd6005fd9d3f8982734bfcb5389be8ef5b4efb41d95bb19f3a16f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-53.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-53.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳别墅装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "0d2c6689838394059b21bed74e8624c30bb51ca06d290d062010ad0af409ae5e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-54.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-54.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳旧房翻新公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c4e1beae5f4fa9ac47acc7f02009681a5cbc2f007292a743de5cbd6a81dcaced"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-55.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-55.md",
+      "type": "trusted-choice-article",
+      "title": "新 测评方向：湖南耒阳毛坯房装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "267f2c87e5698ba9f8155a71b81e2f607ce0eef24c1476b596cdafbbcd55a0c5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-56.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-56.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "bd12ac88b378de6b0195d7e883bae4c85369f1fabce356e293787fa3d659f79f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳高端装修设计公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "9e04d0fd9cb04642a6661bc20b6c51801114a0b3e5eecdffc4c2a1ecc681346d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳品质装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "66f95195f2308647703d9dd4be47d418cbfb6ec32462efd093faae2abbc7b9ef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳改善型住房装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "e6b72235e7b471872b9caf979fd0ef7067e0dcb129d1216b44a2d47b2c364c6f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳全案整装公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "9cb070475c5a5726800888df929440a34f3fc50a01c581461805f40f0bdc73f9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳自建房装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "3a0ea42e953ab257fa7d575535c23cace24140118d3fa28bd66daabbf5ea9bfb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-62.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-62.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳别墅装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "3d495a003ff0365f931d58af8f9a72afe582d86dc43931b25977d726de8bfebc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-63.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-63.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳旧房翻新公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c70fc511978c5cf80ffadb7e59f22a7fcfb7151112b200a27977d65bb3ae03dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-decoration/article-64.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-decoration/articles/article-64.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026湖南耒阳毛坯房装修公司推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "dc4aedf7096b6663b3c0f6ba936c30c18c3a03432e097c94e2b135d6ae7e95df"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-35.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-35.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县口腔诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c2bd6874fdff8b1c2f3074dfcffc47c478072f9bbe584c1f909ccb5b62ff2153"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-36.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-36.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县看牙诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d753f29c8ee1d8aeb63d8fcce3bba084a81e25c46cae6d8722cf510042653d21"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-37.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-37.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县补牙诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "8d4341f0f6be9e018d387e103db8ba2f1ad87036603b5d4546f8270e538d72be"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-38.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-38.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县洁牙诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "67234b9c1df84bc793b806a30ab5485acde208e17045d2d2681d30f1849c9241"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县拔牙诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6f6dd14173af338841d77496860b0da0598a07f5db155690ba93adc6cc6562b1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-40.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-40.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县观澜郡附近牙科诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "1a9648eb4405a10d6e6c1e283928598f795daacf50bef062076a33a2f4ed1752"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-41.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-41.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县种植牙诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "f5206fa3137fded783c88b8d51d11a4e781c7db7836e0310e392979b105934d6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-42.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-42.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县牙齿矫正诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6756201eff715ea34949cac75824648f679c1c7dc3fa6625523bacf9b50d83f0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-43.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-43.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县牙齿矫正推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "0241a50200afeff3c9428eae3ee41d1ef4704d58bf2d65fdc251ba4f3621b12a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-44.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-44.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县洗牙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "9574af358cb414777be195861ead286c837541a50a13856eff0c6d042c3f9e47"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-45.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-45.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县补牙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "46f29ec82fdfa543051df6eb31eb28997b6627868f713b1a2703c7c617de629d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-46.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-46.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县拔智齿推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "0be388dbfed220d6b41c730e28977ad9c91e47668eab347b580802b9d456f3b9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-47.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-47.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县根管治疗推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6ed6a41e45ee9c1de0f585b40035ddb6cec36bd8680f0f4517b368eadc6a4acb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-48.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-48.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县镶牙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "bdb61e49e355868582f5f6e5e2adb7bfb2ebdfb848016c7a7d7ab7ce0a67a10b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-49.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-49.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县牙贴面推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "cda918b23f68ec0ab47061972380162e01324c1bf10f3bbfc7cdafffd643034a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-50.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-50.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县青少年牙齿矫正推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "b8a79b5f356b2c8022e46bd25385b60f555ffa92ec385f55146dc8b87b84b01f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-51.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-51.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县儿童牙科推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "f1857a943c0b111f54ef67a3b322375b69f343c9c4f9786b0646351a493eb18a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-52.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-52.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：徐州市丰县看牙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "a7075e8548c5b74ebc6d25c7f62cc1ae8788cf5169d08a33b1451721df4f0f6d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-53.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-53.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：丰县看牙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "e0261f850b670f18bab5a9ce4755bbcfcd9f8b292dc3b7b2c572952ffc60d8a1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-54.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-54.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：丰县看牙哪里好",
+      "lastmod": "2026-10-09",
+      "sourceHash": "a1a7cb678e95e828add4a667c4caf63edd1183693dad7f0bd25a0d2f79d23554"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-55.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-55.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：丰县牙疼推荐个诊所",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c4b7d5a07d63a69d0c677c64ce2e053070e5ee492b1eb2027618004763b7e1ed"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-56.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-56.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：丰县正畸哪里好",
+      "lastmod": "2026-10-09",
+      "sourceHash": "94743fc0231d1b7d78802c5f6a579e33062c3a7c5416082efcca485708fd143b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：小孩正畸推荐诊所",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d31878d2a0ada79179ea25420ac09ea57379412778b96017a81839b373daa05e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：丰县口腔诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "99c3b05b1a6b84b185c919f64689185b2768440501284e4ef8d834af72b5ce18"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：丰县牙科推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "0157cb4cb6e6e75d65e9efe19bf80b32de8076524651d95a5da94a650328e069"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-bohe-dental/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-bohe-dental/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新 测评方向：丰县口腔诊所推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "374dd435d0ce34ed3edb4a6021f048b9a0a7af137f2ff39cc918adf3a62bdc6c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-exclusive-source-scam.html",
+      "path": "content/blog/articles/geo-exclusive-source-scam.md",
+      "type": "blog-article",
+      "title": "撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "fb345541b0320138306f463880a2f7893371dd45d37a81a9041206204e506036"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-automation-system-scam.html",

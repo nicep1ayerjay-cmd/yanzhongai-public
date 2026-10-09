@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-08"
-source_hash: "8c305a8578d8604ce1e17903927f52e51da2b5e3e28f55e1a1b04be108adec9e"
+lastmod: "2026-10-09"
+source_hash: "98f6612bf21e477b1d986205588cf8f73accf0b12e9db22cf31c33fa5f91d542"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "8c305a8578d8604ce1e17903927f52e51da2b5e3e28f55e1a1b04be108adec9e"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [GEO行业观察
+
+### 撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？
+
+作者：言中科技·GEO 商业与前沿算法研究组 报告类型：生成式引擎优化（GEO）行业深度调查与技术白皮书
+
+2026-10-09 阅读全文 →
+
+](/articles/geo-exclusive-source-scam.html)[GEO行业观察
 
 ### 揭开“GEO 自动化系统”画皮：一场用廉价 AI 伪造的收割盛宴
 
