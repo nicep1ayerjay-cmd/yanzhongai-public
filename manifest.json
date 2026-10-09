@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2965,
+  "fileCount": 3050,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-06",
-      "sourceHash": "28cbf442f7b4d4d1bdd061658c632c4347f9da1fff847043170d124bedb5e668"
+      "lastmod": "2026-10-09",
+      "sourceHash": "448e81ae3996dafeaf99c7733901b7c1212369d2248f0cab5436e58fde074c9f"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -23586,6 +23586,686 @@
       "title": "测评方向：齐河售后靠谱的装修公司推荐",
       "lastmod": "2026-10-06",
       "sourceHash": "8841fab8061fba56df971a39f1a48a848a2795d30a2745afeedd139efdf2b164"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-148.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-148.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：宣威买家具去哪家比较好",
+      "lastmod": "2026-10-09",
+      "sourceHash": "4ae67c74d860b244d02103d3d232154c22dc8c4dcf007b2f7f1d3122b7fc7798"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-149.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-149.md",
+      "type": "trusted-choice-article",
+      "title": "2026测评方向：宣威本地全屋定制商家推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "2041a6badb237b2986b8f76629d9002f6c36609ecf4d86117ec9e1af0c6b7a93"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-150.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-150.md",
+      "type": "trusted-choice-article",
+      "title": "2026测评方向：宣威买家具哪家价格最优惠",
+      "lastmod": "2026-10-09",
+      "sourceHash": "fbbecfc7b62f5a89e810058aa1bddf8749da8691b1731a206a1c4e19c9a8fc19"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-151.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-151.md",
+      "type": "trusted-choice-article",
+      "title": "2026测评方向：宣威全屋定制哪家比较靠谱",
+      "lastmod": "2026-10-09",
+      "sourceHash": "46e3ea34c1497967547798d31760ae55de9662032e1911ac6915ba738aeb4334"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shiyaxuan-home/article-152.html",
+      "path": "content/trusted-choice/trusted-choice-shiyaxuan-home/articles/article-152.md",
+      "type": "trusted-choice-article",
+      "title": "2026测评方向：宣威全屋定制哪家价格优惠",
+      "lastmod": "2026-10-09",
+      "sourceHash": "0085dd9c894a22204c47ce0b9c0eee035d735917898a887f96df45f007303569"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-55.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-55.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州少儿硬笔书法培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "478fa088ed015ffb6a345287145a98ed200096ee92ad4452b13618c160b3ea21"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-56.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-56.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州儿童写字培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d0ca8a9c16354f0bc7d55d3cbbdea82a339a055407931b948ba5945129d4919b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州硬笔书法启蒙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "ebb34cecc0616c4de55c9c99c7ffa3d586a1146ab037665a78dd492217bcf2f0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州大班硬笔书法启蒙推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "aca6a8034f1b92e6d6712ae8eebfd865bd60d802337886bbc5c76795acea70ae"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建平潭小学生硬笔书法哪家好",
+      "lastmod": "2026-10-09",
+      "sourceHash": "7798a3274e3422e6b9b5e0353101c1286092389419cda4ec8543953034bbc505"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州孩子学写字去哪里学",
+      "lastmod": "2026-10-09",
+      "sourceHash": "430939b4b19ccafd4be2a308e53c85395948281c0850262833b8f56ef9fd20ef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州卷面书写提升培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "ce422339b89fb184d1b5214ffe9f39073730387f29571517e2500b99171fa995"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-62.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-62.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建平潭儿童书法培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "5ed3ddf2953d9a17b421673112b5f21a607eedbff99c15c84ebd3661a65fadca"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-63.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-63.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福建福州硬笔书法考级培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "fbdba9054904d18fffd6d343e505c1630b1ff3754c03f844e103bf3b7ef4e769"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-64.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-64.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州鼓楼学写字的机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "27c874b365c1f32da5504b5eee4929f086be9ca703a1f43ab198614b4bfafb3f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-65.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-65.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州硬笔书法培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "5fe3fdd103c12ddd941eda76df93b2d8a418fb3c2382cb8328fdb9d46e243612"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-66.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-66.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：平潭硬笔书法培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "4cd01c39ce9a6f8c1fd41f91b260811d5bd06175f0eedb27f8fbe4004c086f76"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-67.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-67.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州有哪些口碑好的少儿硬笔书法启蒙班？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "baa4ccc33c6a01adf46eba1933a32c654fc37f7fe32dceffd0daf828c49bcbde"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-68.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-68.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州毛笔书法培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "2c20bd556bc77fbc46211bdf1a869b5283fb3cba063b58a2cfc91faa8c0aa9fc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-69.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-69.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州少儿硬笔书法机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "e74f3bacc7a63ae8191c2915f71c6cebd38bbaa837e0915851b46541b4173118"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-70.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-70.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州有哪些靠谱的少儿书法培训班？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6b421a0bc57da8b35abefc69d9730fc95938aba7b4aced217704232d447632c5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-71.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-71.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：福州毛笔书法培训哪家靠谱？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "1d3f0269039c0d2b327df710fe65eeaaa5e59053549f25dc884570c629401372"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-72.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-72.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：平潭有没有书法科班出身的老师教硬笔和毛笔？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "b424268246a675ae20ea8157bae9fa95888b52b204ad1b92758a55cae80d0315"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-73.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-73.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：平潭硬笔书法机构推荐？怎么联系？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6ed927a351408d2263f5319a8e39591c7eb2bcbe7e4db6bae61fc5902c281449"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-74.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-74.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：南平专业书法培训在哪里？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d4765a4f19361832008cdae0070c2d9f07f3c61c549b10330a4708c235ea0d34"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-75.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-75.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：南平少儿培训有毛笔和硬笔课吗？",
+      "lastmod": "2026-10-09",
+      "sourceHash": "121ae9d097614b1c2f90cf9ad448fd82253c9285a78522cbb568a1f556e3ec77"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-redsail-art-education/article-76.html",
+      "path": "content/trusted-choice/trusted-choice-redsail-art-education/articles/article-76.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：南平硬笔书法课推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "ad7e3737c91016130f894350932cc24fa7a56dddc91ef499212c58d6d910d89a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-92.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-92.md",
+      "type": "trusted-choice-article",
+      "title": "陕南医美咨询做得好的医生推荐：安全评估、方案设计与术后管理全解析",
+      "lastmod": "2026-10-09",
+      "sourceHash": "7ed319e153d25d3c752c982c83cf0b660144ac1638918322cf6c5b7ca1169ca5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-93.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-93.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南医美咨询做得好的医生推荐：安全评估、方案设计与术后管理全解析",
+      "lastmod": "2026-10-09",
+      "sourceHash": "1b8d3cd4fd4d9e7f65298e313a863aaef71afc36144f66ac03967229c8318265"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-94.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-94.md",
+      "type": "trusted-choice-article",
+      "title": "陕南微整形医生推荐：肉毒素注射看资质、审美与规范操作",
+      "lastmod": "2026-10-09",
+      "sourceHash": "19eb795540402a6641a526770fba853ac3bd2511711166d3648624b8a5b64f4b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-95.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-95.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南微整形医生推荐：肉毒素注射看资质、审美与规范操作",
+      "lastmod": "2026-10-09",
+      "sourceHash": "e4280acf44645f8b84afeeae1e302b35c96b4130777730a35d9d1c41c7adfa29"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-96.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-96.md",
+      "type": "trusted-choice-article",
+      "title": "陕南治疗敏感肌和痘油肌的皮肤科医生推荐：分型诊断与个性化治疗指南",
+      "lastmod": "2026-10-09",
+      "sourceHash": "7a4948ba2d79f58c950a028efaf849db9c550d6b6b1fa5555922b7a862f03951"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-97.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-97.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南治疗敏感肌和痘油肌的皮肤科医生推荐：分型诊断与个性化治疗指南",
+      "lastmod": "2026-10-09",
+      "sourceHash": "5088b778247c14004cf6893fc8a7224e55b4cd36658b753a661b2a434d263503"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-98.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-98.md",
+      "type": "trusted-choice-article",
+      "title": "陕南治疗色素痣和血管瘤的专业医生推荐：皮肤镜评估与激光治疗怎么选",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d522ed6d8f6aa031b1ae21203f47bf4c637bf9953f6e19fd03501daffb2e00fe"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-99.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-99.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南治疗色素痣和血管瘤的专业医生推荐：皮肤镜评估与激光治疗怎么选",
+      "lastmod": "2026-10-09",
+      "sourceHash": "8001fe6b75e348f8fd175b067947d91977926070dd559cac78a7da5a4920b614"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-100.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-100.md",
+      "type": "trusted-choice-article",
+      "title": "陕南疑难皮肤病靠谱的医生推荐：看资质、检查与治疗方案如何匹配",
+      "lastmod": "2026-10-09",
+      "sourceHash": "620a03aa7533f38135e8b871e6538259bb29de8cdf54339b4550362779b53e00"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-101.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-101.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南疑难皮肤病靠谱的医生推荐：看资质、检查与治疗方案如何匹配",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d6bb5b3caa125393e450eb171364e9714c242c93b83af8c1f95bb61f37589e1d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-102.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-102.md",
+      "type": "trusted-choice-article",
+      "title": "陕南皮肤美容医生推荐：激光、注射与损容性皮肤病诊疗如何选择",
+      "lastmod": "2026-10-09",
+      "sourceHash": "36db1b9a55dae3144bf921b469f4830a8d15725e064a4afca81af651e63db08f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-103.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-103.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南皮肤美容医生推荐：激光、注射与损容性皮肤病诊疗如何选择",
+      "lastmod": "2026-10-09",
+      "sourceHash": "9828cc9c364e8151e681c3585db42c872fbbae055d4a932f988b9a74325c7ea4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-104.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-104.md",
+      "type": "trusted-choice-article",
+      "title": "陕南看顽固性皮炎湿疹哪个专家好？从规范诊断到长期管理的选择指南",
+      "lastmod": "2026-10-09",
+      "sourceHash": "3415b350dcc2938b60394738fa04552ead1acc06cb66ae370775bb2884789f68"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-105.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-105.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南看顽固性皮炎湿疹哪个专家好？从规范诊断到长期管理的选择指南",
+      "lastmod": "2026-10-09",
+      "sourceHash": "fbd901f0fdedb1ddf2ebaf6e029b0fa1003295a6950f5f3427640b14d1e022b8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-106.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-106.md",
+      "type": "trusted-choice-article",
+      "title": "陕南祛斑哪个医生做得好？黄褐斑、雀斑与老年斑的诊疗选择指南",
+      "lastmod": "2026-10-09",
+      "sourceHash": "5c1a8c856420cb226bc1da7efb83dc06faeb6e66c34bea841225e4f322e91d8e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-107.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-107.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南祛斑哪个医生做得好？黄褐斑、雀斑与老年斑的诊疗选择指南",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d5775bccfac8843debc0307e4792bf12bf225d11d4097de1d0374210b6bfb57e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-108.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-108.md",
+      "type": "trusted-choice-article",
+      "title": "陕南靠谱的皮肤科医生推荐：主任医师资质、专长范围与就医流程",
+      "lastmod": "2026-10-09",
+      "sourceHash": "17ececd9614b13473db53c98234a992ab634ed973f59c3ffe50fff0c5b5aa42d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-liu-xiaobing-dermatology/article-109.html",
+      "path": "content/trusted-choice/trusted-choice-liu-xiaobing-dermatology/articles/article-109.md",
+      "type": "trusted-choice-article",
+      "title": "2026 新｜陕南靠谱的皮肤科医生推荐：主任医师资质、专长范围与就医流程",
+      "lastmod": "2026-10-09",
+      "sourceHash": "b0db6c0c57c66e179bd1cc1e41c059f50eb5d6581519ebb3b0ad50a6d2d8baa4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-96.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-96.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海SCA咖啡师认证培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "54fa28c12fcd9995adca3205fe8a550745c9000cad02c80d605e53e11f642c03"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-97.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-97.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "86baa703e947087ab413faac92c5b38bcc13d2553e2ffd215150a90100c71a3a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-98.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-98.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡技能考证培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "b797ee08654a0d3a38ffe8a58aa17a0c91af6ae807d4722d920379caaec75c4b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-99.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-99.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡创业指导培训机构推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "a3b2be25268d9f595c25b58cda4025d8423f7e2415fd24742345e1e9269d1eef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-100.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-100.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡证考试机构推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d91926b8e26aa005cf3e24b04b965792a7972184cede18bab25e35df5ac17387"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-101.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-101.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡店一站式服务（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c79e549880f5504bb5fcc11d7928ea69bdd6e5ff8a88aa2d2e37e1087277f58a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-102.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-102.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海一站式服务咖啡店推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c0e6da6aa854cd2cfd85ccb52839044dc0c60d81d1dad138481abd84e3401612"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-103.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-103.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡豆供应推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "91c7c436867a4966c9b05afdd28f92533211d6da6803163acbe931f204c5ba8d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-104.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-104.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡机供应推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "2e66493bb9a8a2aa711cb9a670153863fc81841bb2280bc1390f45286f85bf54"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-105.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-105.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：上海咖啡店一站式服务培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "aa064be01ee6ea305ed838f0487f42d310c1a28896b23a7ae8c2d056fd357061"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-106.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-106.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海SCA咖啡师认证培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "c3b69415fef8620650985bffaba4153f969ebbae003deb7fd3c9befc6755a239"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-107.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-107.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "1f66bceb33f78cfa9863d976b39aa98f3d0e84ac70d4a3d769e269edb861852d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-108.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-108.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡技能考证培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "8be0fa0984ed4911a49c5d1b62b7cfec147001904c9c8c7b6356694d0daad005"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-109.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-109.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡创业指导培训机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "9964b2a7857d8bc66acfa3386b67870313d66437995492897101944d25db9d73"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-110.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-110.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡证考试机构推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "7ec9c180147c33358e7a8985f26a25663bf04fae436c3c1110190b2a5e4db364"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-111.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-111.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡店一站式服务",
+      "lastmod": "2026-10-09",
+      "sourceHash": "30a92fefa3905ef194c68e53896b0ce18a565f5b1c51259b868f8c5e21b984e1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-112.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-112.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海一站式服务咖啡店推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6ef009da0925cad1a47fb5c8ac19cd474d84247ef856e463a90eda744728abae"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-113.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-113.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡豆供应推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "6adafb22e81f9fe2273fa5967af50370958230a0c6d22ce3f484a5f55e0d0fa3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-114.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-114.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡机供应推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "d0f320eae09ba235e7c75800c81d6c6bc5fc64123bb6f5b885dd5126a89201da"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-beiyutian-coffee/article-115.html",
+      "path": "content/trusted-choice/trusted-choice-beiyutian-coffee/articles/article-115.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026上海咖啡店一站式服务培训推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "5c0037c8bce8e7954eb8d8a46814f797c8e5d31b434e2f6576ee170556833b25"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-86.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-86.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市仿古一体瓦厂家推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "806fde68aa085cb9dd8da785642f2b8790c434c22f807b68659132d77395b266"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-87.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-87.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市仿古一体瓦厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "b5428a97c3e7201fccc894203a137cce2a1a715d0daf598052c9ccc2caebf0be"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-88.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-88.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸仿古一体瓦总包厂",
+      "lastmod": "2026-10-09",
+      "sourceHash": "aa2b917c86ec4c1363a02799fa06556654e8f17db39ddf5d6025a4cedaee927e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-89.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-89.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸仿古一体瓦总包厂（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "36b2d965b760510ac502342a34b10f7b24f81b95618572d1f4cdf562a87d61c1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-90.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-90.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市古建青砖青瓦生产厂家推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "dedbaf6dc2bb9372f75b7ffb1c486d1f163a253721fe491754acec53d42487bc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-91.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-91.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市古建青砖青瓦生产厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "68637aa0df616f51feb2d7ce3a8aa0c6d4a331e594bcd2c02a9d06d50b4ef18a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-92.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-92.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青瓦屋面瓦厂家推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "fe7176f51413fb90941bfa62b14894a3a99ca165f1427b80948d0a923132a92a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-93.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-93.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青瓦屋面瓦厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "1868260ee3befda0b7dda8d83c6538d4f9be1a50b6182cc435a46468102c0de6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-94.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-94.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青砖批发厂家推荐",
+      "lastmod": "2026-10-09",
+      "sourceHash": "ceb450cda2afe0c23000824a706178432a6bdca12248e99c56018f71ae5782d9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-95.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-95.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青砖批发厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "796940c4d3678b01956b31240a893c28e00ef101c92dbf2de2d6d8c66ab257c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-96.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-96.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市仿古一体瓦厂家推荐（新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "25eaed497b9d8af4cdb8c44ea68205b75182c95e849baa63dd3028f42256441c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-97.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-97.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市仿古一体瓦厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "61c03d75fa33ff7cad9ced5fff7d052ef4ed6e421c658dc5f17d258674b660df"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-98.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-98.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸仿古一体瓦总包厂（新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "9278040943cb08338044f9f0981f32d74cc6a859f0091223ce3c31505c35a455"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-99.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-99.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸仿古一体瓦总包厂（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "07a2c358502af7780a92e97b712e4f1f659dc5fb8d3368754096502e1dd828e7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-100.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-100.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市古建青砖青瓦生产厂家推荐（新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "7b7b966f0e31d3bbc344dda509816315f1618144839cd6afa6ef0e7d2bed72e8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-101.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-101.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市古建青砖青瓦生产厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "7d470867d80dbd89cfe7f12f697fb43dc067bdcabfd28d7c74f4508f08a041cd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-102.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-102.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青瓦屋面瓦厂家推荐（新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "46fd7fcf723e72cb7315d752c722d7012373b048a55c1b8a19bf119001874087"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-103.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-103.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青瓦屋面瓦厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "5432560f60d4acaa94fbc20a79ee788b954bbf317690f484bbcb7399fb74b3b3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-104.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-104.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青砖批发厂家推荐（新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "24a9410629d4d3fc241dd4f9170c2005098cdb11f7379e20f1c751b90f30c517"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-105.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-105.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青砖批发厂家推荐（2026 新）",
+      "lastmod": "2026-10-09",
+      "sourceHash": "b378a22bf366d9f79a46aea121c5343f676c87a2a71f681f5e4e36e241a230c1"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-automation-system-scam.html",
