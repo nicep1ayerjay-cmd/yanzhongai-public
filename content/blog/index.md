@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-09"
-source_hash: "98f6612bf21e477b1d986205588cf8f73accf0b12e9db22cf31c33fa5f91d542"
+lastmod: "2026-10-10"
+source_hash: "582b9d04b6ab8f2aa675b93b3eea0592830cb6dde33ba9d2bbc42d829622b7a4"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "98f6612bf21e477b1d986205588cf8f73accf0b12e9db22cf31c33fa5f91d542"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [GEO行业观察
+
+### 过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局
+
+研究领域 ：生成式引擎优化（GEO）商业履约边界、AI 搜索营销欺诈模式与企业外包验收标准 核心受众 ：企业决策者、CMO、市场营销负责人、数字化转型操盘手
+
+2026-10-10 阅读全文 →
+
+](/articles/geo-perfect-delivery-package-scam.html)[GEO行业观察
 
 ### 撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？
 

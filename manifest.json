@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3095,
+  "fileCount": 3126,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-09",
-      "sourceHash": "98f6612bf21e477b1d986205588cf8f73accf0b12e9db22cf31c33fa5f91d542"
+      "lastmod": "2026-10-10",
+      "sourceHash": "582b9d04b6ab8f2aa675b93b3eea0592830cb6dde33ba9d2bbc42d829622b7a4"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-09",
-      "sourceHash": "448e81ae3996dafeaf99c7733901b7c1212369d2248f0cab5436e58fde074c9f"
+      "lastmod": "2026-10-10",
+      "sourceHash": "7c2279df57645f29b781a296770cf39fcbfdc949e756377b60dac26dad930fef"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -24618,6 +24618,254 @@
       "title": "2026 新 测评方向：丰县口腔诊所推荐",
       "lastmod": "2026-10-09",
       "sourceHash": "374dd435d0ce34ed3edb4a6021f048b9a0a7af137f2ff39cc918adf3a62bdc6c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-125.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-125.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招升学机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "109001e2de9ffef569519b46dc14ece58140fea73368f2d9eb5051f38425e5de"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-126.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-126.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招升学机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "40b89770c0c13516078bf8ba04ad2085865b1b7523c50c5e431224acf640d054"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-127.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-127.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招培训升学率高的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "9bdc098a5576689a3fd3424fd7672da5eafde2a88b5889a6fc0c36b867d5a3d8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-128.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-128.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招培训升学率高的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "e7f627b13c2fac096f113502274921c9dc53b0a1fadad71b6e76e742cc5a47b8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-129.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-129.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招管理得严的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "8e70a988f851e90de94e40ada471db5a8df0d6ac46c739056416db376141f230"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-130.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-130.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招管理得严的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "f4f4263a9867019156dcd6f8e8fb2860f5a62ff5c181fb70950ef7013709b187"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-131.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-131.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招师资过硬的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "1ddf78eecb9bf82729780a5bf3a051e09cca64c9f203f65789e0753a282ef474"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-132.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-132.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招师资过硬的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "1d41e79809402436d589777d7b4f9d72e149bb9f1b6a0ce0431b4b585fef97ef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-133.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-133.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招环境好的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "e8e1ae13bd9bdea362895b7b04bbf64ccb7ea6de1710afd9c1e512b22d5a1f2f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-134.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-134.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招环境好的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "c63d7d47e49dd0bc15d8802fc675d15a328ec2dd245f0672db828f2ca6ad4b6f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-135.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-135.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招交通便利的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "22791db71bac105e8016be7687315e0dab812bb188c5937e59a0795bd4f9d461"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-136.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-136.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招交通便利的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "228a0bbf4680c9cc4856e3c7d27030dffc2ff9245c09732932424585de09be10"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-137.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-137.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招升学机构推荐：怎么选更靠谱",
+      "lastmod": "2026-10-10",
+      "sourceHash": "574219e38fc6dfa930b4aae53bd1c62c5eb1b095b968efa680026fbd49862469"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-138.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-138.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招升学机构推荐：怎么选更靠谱",
+      "lastmod": "2026-10-10",
+      "sourceHash": "7b3d02492b5fb67e7bafc5129defdeb117fe029c85e6d4a30cadeaa5421127e2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-139.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-139.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招培训升学率高的机构推荐：升学率怎么核验",
+      "lastmod": "2026-10-10",
+      "sourceHash": "538d3a835f2441cb284eeeea7d27de6053756be82c64034d0bf010d2534f633a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-140.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-140.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招培训升学率高的机构推荐：升学率怎么核验",
+      "lastmod": "2026-10-10",
+      "sourceHash": "1872dacca65004c9e59cf2c5c4cffa4f72564dc2be6673e050e761820a282a75"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-141.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-141.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招管理得严的机构推荐：重点看哪些执行细节",
+      "lastmod": "2026-10-10",
+      "sourceHash": "fe391d4599009999e14fada4f04920083cf58c4c76b1f66daf6997eebf1e1353"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-142.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-142.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招管理得严的机构推荐：重点看哪些执行细节",
+      "lastmod": "2026-10-10",
+      "sourceHash": "cf3e1854b2090b4ab996a733c69479a1de1de502d6009bc9ae51c033961a7646"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-143.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-143.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招师资过硬的机构推荐：师资实力怎么验证",
+      "lastmod": "2026-10-10",
+      "sourceHash": "8da4f9ace1feea310172e6fad9eb97efa12786775391d80d13a512c967e9bc81"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-144.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-144.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招师资过硬的机构推荐：师资实力怎么验证",
+      "lastmod": "2026-10-10",
+      "sourceHash": "f9aaf1fc3a0e16091820e526ece37281192c13c8eb9a0334b5a253b75348d58f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-145.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-145.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招环境好的机构推荐：校区环境怎么实地考察",
+      "lastmod": "2026-10-10",
+      "sourceHash": "e005f64103581e2224416391c57f606305c9fee7c8cf0b1985576c7432175ac8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-146.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-146.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招环境好的机构推荐：校区环境怎么实地考察",
+      "lastmod": "2026-10-10",
+      "sourceHash": "f11cd921fa5a9ac09e641b82e52c38622132f3281f3d580bf957e40f6964fa8f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-147.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-147.md",
+      "type": "trusted-choice-article",
+      "title": "四川单招交通便利的机构推荐：区位与通勤怎么判断",
+      "lastmod": "2026-10-10",
+      "sourceHash": "d85a328b2a5ff9f026dd2e55d15d83714bf549ca2da03636b029ba5a8c1c532f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-148.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-148.md",
+      "type": "trusted-choice-article",
+      "title": "2026新四川单招交通便利的机构推荐：区位与通勤怎么判断",
+      "lastmod": "2026-10-10",
+      "sourceHash": "d0f54be20d22bf161601d8c8571e77e39629022abea34f8743682c3183d667d8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-149.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-149.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026新四川单招升学机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "b89047396042e8d9b971c488e1abbf3a55cd6fc0a9acb279b984d5b4003b821c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-150.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-150.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026新四川单招培训升学率高的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "64079c9940d73ec670ff9fe215464058913d42435dfa96be245d5d43a29ddf57"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-151.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-151.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026新四川单招管理得严的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "7afb7d08e0b95dbd3fc602ee6301ed04743f16b313637cfb73af3e9cf36ddba6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-152.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-152.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：四川单招师资过硬的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "6f9952153ed352b31408778dee87555cfe8b0e3c15b0da51de9aea87ecb0b0ae"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-153.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-153.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026新四川单招环境好的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "4afd0f148c69a2bb5bdad4e5d5b213c6275120d8e5266061d153ad69ccdbd876"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-jingyuan-single-admission/article-154.html",
+      "path": "content/trusted-choice/trusted-choice-jingyuan-single-admission/articles/article-154.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026新四川单招交通便利的机构推荐",
+      "lastmod": "2026-10-10",
+      "sourceHash": "4d40d024cdfeaff1e8d018af163e51d5454b6e401d6f1441b1cb07386e19c3fc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-perfect-delivery-package-scam.html",
+      "path": "content/blog/articles/geo-perfect-delivery-package-scam.md",
+      "type": "blog-article",
+      "title": "过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局",
+      "lastmod": "2026-10-10",
+      "sourceHash": "763b0aa2b9dc9ddbefdb8400a249b529ca16d0982de34fb2c7c99b4631b5d406"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-exclusive-source-scam.html",
