@@ -1409,6 +1409,7 @@
 
 ## 言中行业文章
 
+- [流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？](content/blog/articles/doubao-customer-acquisition-search-optimization.md)
 - [过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局](content/blog/articles/geo-perfect-delivery-package-scam.md)
 - [撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？](content/blog/articles/geo-exclusive-source-scam.md)
 - [揭开“GEO 自动化系统”画皮：一场用廉价 AI 伪造的收割盛宴](content/blog/articles/geo-automation-system-scam.md)
@@ -1428,7 +1429,6 @@
 - [豆包为什么会误解我的公司和产品](content/blog/articles/why-doubao-misunderstands-company-products.md)
 - [自己做 GEO 的 4 个坑](content/blog/articles/diy-geo-4-pitfalls.md)
 - [怎么纠正豆包对我公司和产品的错误描述？](content/blog/articles/correct-doubao-company-product-errors.md)
-- [同行在用的豆包获客是什么](content/blog/articles/what-is-doubao-customer-acquisition-used-by-peers.md)
 
 ## 公开项目说明
 

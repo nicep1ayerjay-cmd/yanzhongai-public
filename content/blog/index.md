@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-10"
-source_hash: "582b9d04b6ab8f2aa675b93b3eea0592830cb6dde33ba9d2bbc42d829622b7a4"
+lastmod: "2026-10-11"
+source_hash: "db3670fbb82624bbad2c26377acdea472460e4ccc2eeb9ec3111e87b7c508f6e"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,15 @@ source_hash: "582b9d04b6ab8f2aa675b93b3eea0592830cb6dde33ba9d2bbc42d829622b7a4"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO行业观察
+[豆包获客
+
+### 流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？
+
+作者 ：商业战略与大模型营销观察 研究对象 ：生成式 AI 时代用户消费决策迁移、豆包生态流量演进与 GEO（生成式引擎优化）落地路径
+
+2026-10-11 阅读全文 →
+
+](/articles/doubao-customer-acquisition-search-optimization.html)[GEO行业观察
 
 ### 过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局
 

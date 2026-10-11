@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3126,
+  "fileCount": 3127,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-10",
-      "sourceHash": "582b9d04b6ab8f2aa675b93b3eea0592830cb6dde33ba9d2bbc42d829622b7a4"
+      "lastmod": "2026-10-11",
+      "sourceHash": "db3670fbb82624bbad2c26377acdea472460e4ccc2eeb9ec3111e87b7c508f6e"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24858,6 +24858,14 @@
       "title": "测评方向：2026新四川单招交通便利的机构推荐",
       "lastmod": "2026-10-10",
       "sourceHash": "4d40d024cdfeaff1e8d018af163e51d5454b6e401d6f1441b1cb07386e19c3fc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-customer-acquisition-search-optimization.html",
+      "path": "content/blog/articles/doubao-customer-acquisition-search-optimization.md",
+      "type": "blog-article",
+      "title": "流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？",
+      "lastmod": "2026-10-11",
+      "sourceHash": "069443b2283796734da7315dafcc7168d12d36d1eb98894efb3f987713b6e237"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-perfect-delivery-package-scam.html",
