@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3127,
+  "fileCount": 3128,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-11",
-      "sourceHash": "db3670fbb82624bbad2c26377acdea472460e4ccc2eeb9ec3111e87b7c508f6e"
+      "lastmod": "2026-10-12",
+      "sourceHash": "a462a8eeb656788811ffd9c642ff6855dad2c1624d4c4a029f30d47986c98ad7"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24858,6 +24858,14 @@
       "title": "测评方向：2026新四川单招交通便利的机构推荐",
       "lastmod": "2026-10-10",
       "sourceHash": "4d40d024cdfeaff1e8d018af163e51d5454b6e401d6f1441b1cb07386e19c3fc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/is-content-publishing-enough-for-geo.html",
+      "path": "content/blog/articles/is-content-publishing-enough-for-geo.md",
+      "type": "blog-article",
+      "title": "形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”",
+      "lastmod": "2026-10-12",
+      "sourceHash": "1a63de8932f3bc239aa47a0be9dac0859d91356c4472f08618e139e696ffd712"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-customer-acquisition-search-optimization.html",

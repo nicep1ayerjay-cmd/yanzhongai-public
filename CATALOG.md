@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3127 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3128 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,7 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”](content/blog/articles/is-content-publishing-enough-for-geo.md) · [正式网页](https://www.yanzhongai.com/articles/is-content-publishing-enough-for-geo.html)
 - [流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？](content/blog/articles/doubao-customer-acquisition-search-optimization.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-customer-acquisition-search-optimization.html)
 - [过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局](content/blog/articles/geo-perfect-delivery-package-scam.md) · [正式网页](https://www.yanzhongai.com/articles/geo-perfect-delivery-package-scam.html)
 - [撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？](content/blog/articles/geo-exclusive-source-scam.md) · [正式网页](https://www.yanzhongai.com/articles/geo-exclusive-source-scam.html)
