@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-12"
-source_hash: "a462a8eeb656788811ffd9c642ff6855dad2c1624d4c4a029f30d47986c98ad7"
+lastmod: "2026-10-13"
+source_hash: "1d17033ad2976f5bd263ebeed0a8a3464a537f7d900aaecab96fd73967933dbb"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,15 @@ source_hash: "a462a8eeb656788811ffd9c642ff6855dad2c1624d4c4a029f30d47986c98ad7"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO行业观察
+[豆包获客
+
+### 决胜决策最后一环：为什么 GEO 本质也是曝光，但转化率却能成倍碾压传统广告？
+
+作者：言中科技·GEO 商业与前沿算法研究组 报告类型：生成式引擎优化（GEO）商业转化逻辑与决策心理学深度调查
+
+2026-10-13 阅读全文 →
+
+](/articles/geo-conversion-rate-vs-exposure-ads.html)[GEO行业观察
 
 ### 形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”
 
