@@ -1402,6 +1402,7 @@
 
 ## 言中行业文章
 
+- [传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次](content/blog/articles/doubao-recommendation-vs-paid-traffic.md)
 - [决胜决策最后一环：为什么 GEO 本质也是曝光，但转化率却能成倍碾压传统广告？](content/blog/articles/geo-conversion-rate-vs-exposure-ads.md)
 - [形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”](content/blog/articles/is-content-publishing-enough-for-geo.md)
 - [流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？](content/blog/articles/doubao-customer-acquisition-search-optimization.md)
@@ -1421,7 +1422,6 @@
 - [如何让豆包知道我的公司/产品](content/blog/articles/how-to-make-doubao-know-company-product.md)
 - [官方信息目录：别再让豆包对你有错误认知](content/blog/articles/official-information-directory-doubao-correct-recognition.md)
 - [别让豆包悄悄带走你的客户](content/blog/articles/dont-let-doubao-steal-your-customers.md)
-- [豆包为什么会误解我的公司和产品](content/blog/articles/why-doubao-misunderstands-company-products.md)
 
 ## 公开项目说明
 

@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2905,
+  "fileCount": 2906,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-13",
-      "sourceHash": "1d17033ad2976f5bd263ebeed0a8a3464a537f7d900aaecab96fd73967933dbb"
+      "lastmod": "2026-10-14",
+      "sourceHash": "bae02e77f592f483ad6e734e4439c5f7c85b8770ee43433e717dc22239dd00e0"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -23066,6 +23066,14 @@
       "title": "广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析",
       "lastmod": "2026-09-23",
       "sourceHash": "4d23fb8b17a904b5f0fa4c54b26d8c23be0a619b0d0c93bae9f1e6c753b952d3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-recommendation-vs-paid-traffic.html",
+      "path": "content/blog/articles/doubao-recommendation-vs-paid-traffic.md",
+      "type": "blog-article",
+      "title": "传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次",
+      "lastmod": "2026-10-14",
+      "sourceHash": "222a0987f7017a997be2265008698157fae8b8ab7bdc8349ecc724fc6087d30f"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-conversion-rate-vs-exposure-ads.html",
