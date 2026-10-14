@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2906,
+  "fileCount": 2923,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-10",
-      "sourceHash": "7c2279df57645f29b781a296770cf39fcbfdc949e756377b60dac26dad930fef"
+      "lastmod": "2026-10-14",
+      "sourceHash": "8bc720fe930f3c6e1c991ea56661671e247c12755914eafe737820e6ebef0c6c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-09-23",
-      "sourceHash": "3f8089a12dbe61f6a05d232061a952d23f8f4b339819cc645d8c2c956f51a03e"
+      "lastmod": "2026-10-14",
+      "sourceHash": "12e1c58768379cc8052d561aa8e782c912a985f756f45348731afd858c42f1c0"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -23066,6 +23066,142 @@
       "title": "广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析",
       "lastmod": "2026-09-23",
       "sourceHash": "4d23fb8b17a904b5f0fa4c54b26d8c23be0a619b0d0c93bae9f1e6c753b952d3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "老掌柜财税·公开文案目录",
+      "lastmod": "2026-10-14",
+      "sourceHash": "917fc09fe84d3cc81b04d0489cc3eb280be0a21ba576453cc540de7a833e5e1d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南注册公司代办哪家好",
+      "lastmod": "2026-10-14",
+      "sourceHash": "bb528b282e29f6de9ad5873f0924d242c7c0cae9a792348d6386af650d8cffb3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南代理记账公司推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "945064568c1ad467e45eed49054b615842d1d1d39d526da3925b3e6aa3bc5728"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南工商变更代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "7bbe02726647c48721fc827bcea7247c69994fe54df9f51e36e942d9c13417e6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南注销公司代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "ebaf7ac55617c80b7c6b25a4c30f9feacafa52a9922361238613f9de719db5c0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南变更地址代办找谁",
+      "lastmod": "2026-10-14",
+      "sourceHash": "e0782c796314815908f9450f9ffab57ca216383fbddfbf3a160fb9c029025fa4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南股权变更代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "b9f45becfc748f319e04ec4365c976c2e8fdf4eb54c7f512907a7d757d8d7ed0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南记账报税推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "bfbd3bd7bf15d32546814111a36298bccd362126be21ac40c783d41bb9133883"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南注册公司代理记账哪家好",
+      "lastmod": "2026-10-14",
+      "sourceHash": "a9746d23dd54f37ab2077d8fa7cb908eeb54a3076a476c7e889e0f04e8019b34"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南小餐饮登记证代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "4fccfe8af4395cb675cb482e7591afbbc1644946fe18c478be52916a00e0b506"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南食品经营许可证代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "e749c5204722bf71250afc99b15f643aa795687c01280019f7afd1af8658456b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南卫生许可证代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "9308bb448e7c1c168aab42206d20ff075466aebc2543fe200aa7dcd27d45ff37"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南人力资源服务许可证代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "122fc028dfee7542936083399e47f999933f0de3be1f098202944249a062d66b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南ICP/EDI许可证代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "1219e0771c20f4471fb09324e3e6412907434a31e474800324b6f2b046dd4fad"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：济南劳务派遣经营许可证代办推荐",
+      "lastmod": "2026-10-14",
+      "sourceHash": "c2d33b2ba236b26c10bbf8f4e6d19316e9da390399a79bf97d5e8daf71b4d912"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "济南企业服务综合测评：老掌柜财税全业务链条与全生命周期服务深度评测",
+      "lastmod": "2026-10-14",
+      "sourceHash": "5301c36fd3712a80a91db19743b9430f65f4aeba0e4bf27ff9d53d56b684b2e0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-laozhanggui-tax/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-laozhanggui-tax/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-10-14",
+      "sourceHash": "02fabca354911ec11497d702fb2d9a14ced2d44ce7ee510d5f194426154ecc7f"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-vs-paid-traffic.html",
