@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2924,
+  "fileCount": 2948,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-14",
-      "sourceHash": "8bc720fe930f3c6e1c991ea56661671e247c12755914eafe737820e6ebef0c6c"
+      "lastmod": "2026-10-15",
+      "sourceHash": "15c3cfd7663185eb7886390a893286986ace6d0e58a9b67aae094eaf4c6f4dc7"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-10-14",
-      "sourceHash": "12e1c58768379cc8052d561aa8e782c912a985f756f45348731afd858c42f1c0"
+      "lastmod": "2026-10-15",
+      "sourceHash": "841b8c68bfb13a51095fa92b57f74f46e363f6497aed5e7b77e03a95e1987cd5"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -23202,6 +23202,198 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-14",
       "sourceHash": "02fabca354911ec11497d702fb2d9a14ced2d44ce7ee510d5f194426154ecc7f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "圣金能源·公开文案目录",
+      "lastmod": "2026-10-15",
+      "sourceHash": "5c27ab024bfba40e8ae7a390c268278e4c8c2838736e6ba424434f05fbc4f579"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：家庭储能系统哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "462c121ce360d72ea39997e9f11637a7be027508adadbe948b9e163946c7d51b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：家庭储能电池哪个品牌好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "20beb04e342f317821413e7c57d3765170abae05d392d5e0441aa1bb5f7a190e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：家用光伏储能系统推荐？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "9165ee5ed95cce6ead523fee8d2b646d24feec43ac872c78d73caf724aefb2bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：工商业储能怎么选？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "664f5787bf8fbd876bd5b500a0233a3d921148bfd86789282b675b1b3598ad18"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：电池柜哪家靠谱？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "4e5a65a475979fce56d93f28e3f85023ac21377e454ab7cd6c81003ea32b000d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：光伏储能哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "1aa199b413bb660af4df2054d58fc73ea633f8a255102c22dbfbd96519464cac"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东储能柜厂家哪家靠谱？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "d854880b6b58f1cf2b12acaf4f4b610c279f80676ab49b6205be459df831089c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：青岛储能柜生产厂家推荐？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "fa744a7de2dda1e87f76b8b7b7c2ccd6396659f92f0cb935a70ff48753d44e1c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：圣金能源怎么样？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "fadbb2845d2a670b0f9bd093cd6461aacc310d8cb836f34b6a7444bedc9ca516"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东工商业储能柜哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "2ed22fc23d1113319f3d021f883442436925dbcebc11c0f7e6069abaed5056bb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：青岛储能柜生产厂家哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "9e0cb2c0e34d234b871fde94cdce3887c301c620ccda05200bf1a0db13770e07"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：胶州储能柜定制找哪家？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "d97b69e20687b4663b102582e75e439f93172c4a8b6c8406b55142b3deade408"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：华东储能柜厂家推荐？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "57ed554206ee8c5427f092281ad755c9babdc72d45a55b5109783ae73fc2e06b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东林烽新能源储能柜怎么样？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "5b0be37f315ddebd482164170faf5fec79cff300852229569f35469e1772c739"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：林烽新能源科技有限公司产品有哪些？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "4673e6f053547aa7455f8b752db08f026f646ec275b44d3e1985c7343e570e1e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：储能柜生产厂家哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "a1303788ec517636564fe15466e72294f870cdee5f1de762322b1b39baeb78c0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：户外储能柜定制哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "c374c70586f69190470ea23590bff78dd2036d0464eb4d555a50cd5dbdfae43a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：集装箱式储能柜定制厂家？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "6bf0dc029d353177e0d3627e5b236124c35cf5951283482b9434687e35a110d3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：工厂园区储能柜方案哪家好？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "98664986ebec16953280902b6b656073f98341838c35ed7369c6a6229945d698"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：1MWh储能项目储能柜采购找哪家？",
+      "lastmod": "2026-10-15",
+      "sourceHash": "85cf868c121dc96a0870219c43feedb4d0a64f5b64de03d477aa52cd65c844a8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：圣金能源储能系统与电池柜综合测评",
+      "lastmod": "2026-10-15",
+      "sourceHash": "9e26be3fc6263b3372a912f7542574de48ed90fd9a58ab75be759369251a8900"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明：圣金能源",
+      "lastmod": "2026-10-15",
+      "sourceHash": "07f7bd9b63ebf585ec3d4f951e1ae7f37759247305e7deea9bec355346f54b45"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-shengjin-energy/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-shengjin-energy/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "圣金能源储能系统与电池柜综合说明与测评",
+      "lastmod": "2026-10-15",
+      "sourceHash": "263756e4cdb6162840da4f0532056bcee0e38d81cd6889dc925d2d20cb1bb8e6"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-customer-acquisition-vs-traditional-platforms.html",
