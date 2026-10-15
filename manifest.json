@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2923,
+  "fileCount": 2924,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-14",
-      "sourceHash": "bae02e77f592f483ad6e734e4439c5f7c85b8770ee43433e717dc22239dd00e0"
+      "lastmod": "2026-10-15",
+      "sourceHash": "74a8b6a0af9257702340d88fcdfae93c5f40ace320dbc86f54aada342bd9a6a6"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -23202,6 +23202,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-14",
       "sourceHash": "02fabca354911ec11497d702fb2d9a14ced2d44ce7ee510d5f194426154ecc7f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-customer-acquisition-vs-traditional-platforms.html",
+      "path": "content/blog/articles/doubao-customer-acquisition-vs-traditional-platforms.md",
+      "type": "blog-article",
+      "title": "同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”",
+      "lastmod": "2026-10-15",
+      "sourceHash": "570243ddca803ba3548c8c641b7e5979623e26784935e571d5a49162f62a8fa4"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-recommendation-vs-paid-traffic.html",

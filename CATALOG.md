@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 2923 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 2924 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,7 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”](content/blog/articles/doubao-customer-acquisition-vs-traditional-platforms.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-customer-acquisition-vs-traditional-platforms.html)
 - [传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次](content/blog/articles/doubao-recommendation-vs-paid-traffic.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-recommendation-vs-paid-traffic.html)
 - [决胜决策最后一环：为什么 GEO 本质也是曝光，但转化率却能成倍碾压传统广告？](content/blog/articles/geo-conversion-rate-vs-exposure-ads.md) · [正式网页](https://www.yanzhongai.com/articles/geo-conversion-rate-vs-exposure-ads.html)
 - [形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”](content/blog/articles/is-content-publishing-enough-for-geo.md) · [正式网页](https://www.yanzhongai.com/articles/is-content-publishing-enough-for-geo.html)

@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-14"
-source_hash: "bae02e77f592f483ad6e734e4439c5f7c85b8770ee43433e717dc22239dd00e0"
+lastmod: "2026-10-15"
+source_hash: "74a8b6a0af9257702340d88fcdfae93c5f40ace320dbc86f54aada342bd9a6a6"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "bae02e77f592f483ad6e734e4439c5f7c85b8770ee43433e717dc22239dd00e0"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”
+
+报告属性：商业竞争观察与前沿增长方法论 核心主题：传统流量买量红海脱困、大模型决策截流机制、极度排他性流量分配与护城河构建 目标读者：企业创始人、CEO、市场战略负责人、数字营销操盘手、B2B/高客单服务领军者 发布机构：GEO 商业观察与竞争策略研究院
+
+2026-10-15 阅读全文 →
+
+](/articles/doubao-customer-acquisition-vs-traditional-platforms.html)[豆包获客
 
 ### 传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次
 
