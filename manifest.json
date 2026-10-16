@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2972,
+  "fileCount": 2973,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -23578,6 +23578,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-15",
       "sourceHash": "02ef45f418352441f59f0e95132b381e3f98a1b58c697763286a378a9a2e71f1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/traditional-seo-vs-geo-ai-recommendation.html",
+      "path": "content/blog/articles/traditional-seo-vs-geo-ai-recommendation.md",
+      "type": "blog-article",
+      "title": "2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路",
+      "lastmod": "2026-10-16",
+      "sourceHash": "b15f598a34da1dbc41a740fdaa1af6592549125afa0d80727d94c1c1469cdf2c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/home-renovation-doubao-reputation-defense.html",

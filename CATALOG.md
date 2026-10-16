@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 2972 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 2973 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,7 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路](content/blog/articles/traditional-seo-vs-geo-ai-recommendation.md) · [正式网页](https://www.yanzhongai.com/articles/traditional-seo-vs-geo-ai-recommendation.html)
 - [行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/home-renovation-doubao-reputation-defense.md) · [正式网页](https://www.yanzhongai.com/articles/home-renovation-doubao-reputation-defense.html)
 - [同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”](content/blog/articles/doubao-customer-acquisition-vs-traditional-platforms.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-customer-acquisition-vs-traditional-platforms.html)
 - [传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次](content/blog/articles/doubao-recommendation-vs-paid-traffic.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-recommendation-vs-paid-traffic.html)

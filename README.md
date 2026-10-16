@@ -1473,6 +1473,7 @@
 
 ## 言中行业文章
 
+- [2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路](content/blog/articles/traditional-seo-vs-geo-ai-recommendation.md)
 - [行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/home-renovation-doubao-reputation-defense.md)
 - [同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”](content/blog/articles/doubao-customer-acquisition-vs-traditional-platforms.md)
 - [传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次](content/blog/articles/doubao-recommendation-vs-paid-traffic.md)
@@ -1492,7 +1493,6 @@
 - [GEO 避坑：伪造榜单排第一，就能被推荐？](content/blog/articles/geo-fake-ranking-first-recommendation.md)
 - [豆包搜索优化成本如何计算？GEO 服务定价的三项核心构成](content/blog/articles/doubao-search-optimization-cost.md)
 - [豆包搜索优化有哪些坑？常见的 5 种套路](content/blog/articles/doubao-search-optimization-5-pitfalls.md)
-- [如何让豆包知道我的公司/产品](content/blog/articles/how-to-make-doubao-know-company-product.md)
 
 ## 公开项目说明
 
