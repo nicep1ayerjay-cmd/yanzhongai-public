@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-15"
-source_hash: "74a8b6a0af9257702340d88fcdfae93c5f40ace320dbc86f54aada342bd9a6a6"
+lastmod: "2026-10-16"
+source_hash: "f3fe52ea6d8b405dcca6a4000ad5aba5b9cb9096aadd5a424d41ad0f7e806247"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "74a8b6a0af9257702340d88fcdfae93c5f40ace320dbc86f54aada342bd9a6a6"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系
+
+报告发布机构 ：新商业流量与生成式引擎优化（GEO）课题组 研究对象 ：以豆包（Doubao）、DeepSeek、Kimi 为代表的中文主流 AI 搜索环境下，全屋定制与高端装企的客户流失真相与截流链路 核心议题 ：为什么装企买量成本突破千元但签单率暴跌、客户临门一脚问豆包被劝退的底层机理、同行如何用 GEO 垄断同城首推席位、以及装企老板 90 天自救落地
+
+2026-10-16 阅读全文 →
+
+](/articles/home-renovation-doubao-reputation-defense.html)[豆包获客
 
 ### 同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”
 

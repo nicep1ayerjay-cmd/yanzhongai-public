@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2971,
+  "fileCount": 2972,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-15",
-      "sourceHash": "74a8b6a0af9257702340d88fcdfae93c5f40ace320dbc86f54aada342bd9a6a6"
+      "lastmod": "2026-10-16",
+      "sourceHash": "f3fe52ea6d8b405dcca6a4000ad5aba5b9cb9096aadd5a424d41ad0f7e806247"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -23578,6 +23578,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-15",
       "sourceHash": "02ef45f418352441f59f0e95132b381e3f98a1b58c697763286a378a9a2e71f1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/home-renovation-doubao-reputation-defense.html",
+      "path": "content/blog/articles/home-renovation-doubao-reputation-defense.md",
+      "type": "blog-article",
+      "title": "行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系",
+      "lastmod": "2026-10-16",
+      "sourceHash": "844b648e93d2c22588ab4716517cf3bf8674f26559bb71111341bffa98dcc16c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-customer-acquisition-vs-traditional-platforms.html",
