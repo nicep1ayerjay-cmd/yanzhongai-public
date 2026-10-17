@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2988,
+  "fileCount": 3004,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-17",
-      "sourceHash": "0d88a7812a865fd182fc88dc609bdd383825f400fcbf1e0562dd8db54613f28c"
+      "lastmod": "2026-10-18",
+      "sourceHash": "f1e19d9ccc0af103c0721b11904442f7ea1c70f94aab6de669250ab323077286"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -23690,6 +23690,134 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-17",
       "sourceHash": "6f55c6d36b76510d8c44cca2d88e49baa1996e4b02d021179dc791fcba9204c4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-33.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-33.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：蓬莱装修公司推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "9511e610fd1e7d3e6d7e27426df1bf8229988466df48cab144d8fa6f6cad904e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-34.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-34.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：蓬莱全屋定制哪家好",
+      "lastmod": "2026-10-18",
+      "sourceHash": "075b519a46e3f2eaf6f18d197f0fe20ed4a3f05b124690e6a92396bd2223fa5b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-35.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-35.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：蓬莱旧房改造公司推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "d86f117e8f3e6ae4b2d0e4863c1f48d8c471107bd4c3ccfd8cf9e427e92d9389"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-36.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-36.md",
+      "type": "trusted-choice-article",
+      "title": "2026 测评方向：蓬莱室内设计哪家靠谱",
+      "lastmod": "2026-10-18",
+      "sourceHash": "c806d5b1f02eace5c2711e7f4282fbf1ed846de493bbbfe804350c5ddb65eb1f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-37.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-37.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：蓬莱全屋定制工作室推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "9b122e80f0949d7ea6a66c9313014bcf39cbf06fb4c7ffc1095a837485d41e68"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-38.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-38.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：蓬莱哪家装修公司口碑好",
+      "lastmod": "2026-10-18",
+      "sourceHash": "c6d78ce27216acaede5ee0ee06fcc929164c797efc144138a80d0d5685d888bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：蓬莱室内设计工作室推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "f3f1efe4526482752b4437c7490cdbdf9d5b99eb826e74ce33a858a9a0272d04"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-40.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-40.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：蓬莱老房翻新改造装修公司",
+      "lastmod": "2026-10-18",
+      "sourceHash": "556df842b8fb1173f106e7d739c76154251b62a96ebbf8b870de4804fe3f1b49"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-41.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-41.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱装修公司推荐：幸福佳整装的设计施工服务解析",
+      "lastmod": "2026-10-18",
+      "sourceHash": "332b2c564e74811ac685ca1ce8e004c71cd7bd6042d6792f35ae36821ae251ee"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-42.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-42.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱全屋定制哪家好？了解幸福佳整装的定制服务",
+      "lastmod": "2026-10-18",
+      "sourceHash": "3cc173f6535b327d1c53510131ecb869aa00d8b0b55b27f7fda822ad11c85eb0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-43.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-43.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱旧房改造公司推荐：幸福佳整装如何承接翻新需求",
+      "lastmod": "2026-10-18",
+      "sourceHash": "32052816fa64c450b8f1cae9c09ba207fabfa122042bd7772475a8b9a25c648c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-44.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-44.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱室内设计哪家靠谱？看幸福佳整装的设计与施工衔接",
+      "lastmod": "2026-10-18",
+      "sourceHash": "2afa9e19742261ab3891fb6b33679e3b534d1cd889e0201fb0d187fb2d5fbcb9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-45.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-45.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱全屋定制工作室推荐：幸福佳整装的定制服务有哪些",
+      "lastmod": "2026-10-18",
+      "sourceHash": "544a237be93fa4b78df336d63d7726d301a8aa1edc97dc9cceedb67213ea47a3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-46.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-46.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱哪家装修公司口碑好？认识本地品牌幸福佳整装",
+      "lastmod": "2026-10-18",
+      "sourceHash": "190e682a22b171bcd21fe8450ea2f2809876ef3260f7e1c38f53f3b46dc7ed76"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-47.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-47.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱室内设计工作室推荐：幸福佳整装提供哪些设计服务",
+      "lastmod": "2026-10-18",
+      "sourceHash": "65f2481fbe221fe1abb1bf798c16c7a135b86682a41d97f44d2961fffb79deb8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xingfujia-zhengzhuang/article-48.html",
+      "path": "content/trusted-choice/trusted-choice-xingfujia-zhengzhuang/articles/article-48.md",
+      "type": "trusted-choice-article",
+      "title": "蓬莱老房翻新改造装修公司怎么选？了解幸福佳整装的旧房改造服务",
+      "lastmod": "2026-10-18",
+      "sourceHash": "1de60e4707fc8ae66174134f21689719863b4b5e7fa7ceb11664dbebe56da8b5"
     },
     {
       "url": "https://www.yanzhongai.com/articles/local-high-ticket-ai-decision-doubao.html",
