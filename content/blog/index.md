@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-16"
-source_hash: "f3fe52ea6d8b405dcca6a4000ad5aba5b9cb9096aadd5a424d41ad0f7e806247"
+lastmod: "2026-10-17"
+source_hash: "bf7d306f5da9b13d6a2794bcee1078bb4d52e8af3cc5371ea231fa69c80fb3a0"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,22 @@ source_hash: "f3fe52ea6d8b405dcca6a4000ad5aba5b9cb9096aadd5a424d41ad0f7e806247"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 本地高客单实体的终极流量革命：客户下单前全在问 AI，如何靠“豆包搜索优化”截流全城优质客？
+
+报告属性：本地生活产业观察与前沿 AI 商业变现实战指南 适用行业：全屋定制、高端家装、高端月子会所、医疗美容、高端齿科、高端婚庆策划、私立专科诊所等本地重决策、高客单价实体产业 核心受众：实体企业创始人、门店主理人、营销总监、同城流量运营负责人 发布机构：GEO 本地商业与实体数字化研究中心
+
+2026-10-17 阅读全文 →
+
+](/articles/local-high-ticket-ai-decision-doubao.html)[GEO行业观察
+
+### 2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路
+
+摘要 ：2026年，国内企业获客成本创下历史新高，而传统搜索引擎渠道的商业线索转化率连续三年呈现断崖式下跌。与此形成剧烈反差的是，以豆包、DeepSeek、Kimi 等为代表的生成式 AI 工具，正在以不可逆转之势接管高意向商业决策的“第一入口”。在此背景下，大量中小企业依然按惯性向网络外包公司支付高昂的“关键词霸屏费”、“万词霸屏年费”，却不知自己早已陷入
+
+2026-10-16 阅读全文 →
+
+](/articles/traditional-seo-vs-geo-ai-recommendation.html)[豆包获客
 
 ### 行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系
 

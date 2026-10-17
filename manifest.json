@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2973,
+  "fileCount": 2974,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-16",
-      "sourceHash": "f3fe52ea6d8b405dcca6a4000ad5aba5b9cb9096aadd5a424d41ad0f7e806247"
+      "lastmod": "2026-10-17",
+      "sourceHash": "bf7d306f5da9b13d6a2794bcee1078bb4d52e8af3cc5371ea231fa69c80fb3a0"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -23578,6 +23578,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-15",
       "sourceHash": "02ef45f418352441f59f0e95132b381e3f98a1b58c697763286a378a9a2e71f1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/local-high-ticket-ai-decision-doubao.html",
+      "path": "content/blog/articles/local-high-ticket-ai-decision-doubao.md",
+      "type": "blog-article",
+      "title": "本地高客单实体的终极流量革命：客户下单前全在问 AI，如何靠“豆包搜索优化”截流全城优质客？",
+      "lastmod": "2026-10-17",
+      "sourceHash": "d0ddfc2e818301fdd11bd74cccd5a9cb946e1dddd6433a4020d5faca120fef94"
     },
     {
       "url": "https://www.yanzhongai.com/articles/traditional-seo-vs-geo-ai-recommendation.html",
