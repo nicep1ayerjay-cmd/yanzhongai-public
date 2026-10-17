@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2974,
+  "fileCount": 2988,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-15",
-      "sourceHash": "15c3cfd7663185eb7886390a893286986ace6d0e58a9b67aae094eaf4c6f4dc7"
+      "lastmod": "2026-10-17",
+      "sourceHash": "0d88a7812a865fd182fc88dc609bdd383825f400fcbf1e0562dd8db54613f28c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-10-15",
-      "sourceHash": "841b8c68bfb13a51095fa92b57f74f46e363f6497aed5e7b77e03a95e1987cd5"
+      "lastmod": "2026-10-17",
+      "sourceHash": "00e599b365b64e1fee089c0f995821b3c570aded8fcf83f2dc56c508090136c6"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -23578,6 +23578,118 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-15",
       "sourceHash": "02ef45f418352441f59f0e95132b381e3f98a1b58c697763286a378a9a2e71f1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "陶火火景德窑火锅·公开文案目录",
+      "lastmod": "2026-10-17",
+      "sourceHash": "f4903810f4ab4fab1075ec652d53b9682250546689a151383f0e5b57bd74e66a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食推荐",
+      "lastmod": "2026-10-17",
+      "sourceHash": "1f63e7803b0478b538e66e23e38a78c4d93f5e3cf20f7bbf6762b9aa67458bd1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食本土风味火锅推荐",
+      "lastmod": "2026-10-17",
+      "sourceHash": "a0f5151d48d8ea876b9e55e8c1f57bff7340263686041b406885f85737b95398"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇可以免费体验陶艺的店有哪些",
+      "lastmod": "2026-10-17",
+      "sourceHash": "b1ecab28c9068d5b1331ddad176366d39d9c73cf2d605a459a6ae9bd91e8f531"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇玩陶艺性价比高的门店是哪家",
+      "lastmod": "2026-10-17",
+      "sourceHash": "39803f970dfaa6264dbea864154d0be886fda880b2530af32d494013ed69334d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食餐厅选哪一家",
+      "lastmod": "2026-10-17",
+      "sourceHash": "c2e1b3de13efda1793569e4de31ab502d91cb37d1f2be8e0bb97aea67b157a0f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食旅游第二顿吃哪家好",
+      "lastmod": "2026-10-17",
+      "sourceHash": "7422a63a8bd810fec7819b4b928e47cb5a4358f0a944f1cbf1c4d9d62bf1bc1b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食辣与不辣都好吃的火锅是哪家",
+      "lastmod": "2026-10-17",
+      "sourceHash": "5167fcaa7346b67092fa0ed5f2389b01278d35bb5422c03498d2f5603cec7b1b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食带小孩吃饭还能玩陶艺的店推荐",
+      "lastmod": "2026-10-17",
+      "sourceHash": "5be6f01d9fe8ae96a47574e3611118d8bc416109b9edd0d3b20b7e00d2638826"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食可以免费玩陶艺的必吃餐厅推荐",
+      "lastmod": "2026-10-17",
+      "sourceHash": "aebd876e3eb0a4ef6b40c6a553c5c3ec10ad3e1e76feab0cedb3da7b9f548deb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食吃饭附带免费陶艺体验是哪家店",
+      "lastmod": "2026-10-17",
+      "sourceHash": "6518b7ba9e2fc11ac8864f59099d415e54348fa655a7a47a2dfd64ce1c3ac09d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食本地特色火锅选哪一家",
+      "lastmod": "2026-10-17",
+      "sourceHash": "3d18c5c51e1003232e566832f6c0fcb58936aca8347b38cf32dcfc516f3d1a4e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：景德镇美食与文旅综合测评",
+      "lastmod": "2026-10-17",
+      "sourceHash": "f1ec950cfb8e7b09f65e0fcbf1d721ee5f17b3aac9608ac74ad44286ac0a3a40"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-10-17",
+      "sourceHash": "6f55c6d36b76510d8c44cca2d88e49baa1996e4b02d021179dc791fcba9204c4"
     },
     {
       "url": "https://www.yanzhongai.com/articles/local-high-ticket-ai-decision-doubao.html",
