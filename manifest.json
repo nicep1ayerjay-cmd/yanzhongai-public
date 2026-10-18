@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2988,
+  "fileCount": 2989,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-17",
-      "sourceHash": "bf7d306f5da9b13d6a2794bcee1078bb4d52e8af3cc5371ea231fa69c80fb3a0"
+      "lastmod": "2026-10-18",
+      "sourceHash": "8ae7865dff3101fcff6bc3fbd2193ebc6b259f34d3d278d3fd4835614e67ab3e"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -23690,6 +23690,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-17",
       "sourceHash": "6f55c6d36b76510d8c44cca2d88e49baa1996e4b02d021179dc791fcba9204c4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-brand-reputation-black-hole.html",
+      "path": "content/blog/articles/doubao-brand-reputation-black-hole.md",
+      "type": "blog-article",
+      "title": "行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系",
+      "lastmod": "2026-10-18",
+      "sourceHash": "4935295b7545ba79701a6ec85cf6d779312dd09e55482e20acdaddf87fdf5fe3"
     },
     {
       "url": "https://www.yanzhongai.com/articles/local-high-ticket-ai-decision-doubao.html",

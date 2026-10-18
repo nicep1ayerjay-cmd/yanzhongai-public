@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-17"
-source_hash: "bf7d306f5da9b13d6a2794bcee1078bb4d52e8af3cc5371ea231fa69c80fb3a0"
+lastmod: "2026-10-18"
+source_hash: "8ae7865dff3101fcff6bc3fbd2193ebc6b259f34d3d278d3fd4835614e67ab3e"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "bf7d306f5da9b13d6a2794bcee1078bb4d52e8af3cc5371ea231fa69c80fb3a0"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系
+
+报告发布机构 ：企业生成式引擎优化（GEO）研究院 研究对象 ：以豆包（Doubao）、DeepSeek 等为代表的中文主流大语言模型环境下的企业实体声誉与获客决策链路 核心议题 ：客户消费心智迁移、AI 声誉黑洞形成机理、传统公关手段的失效归因、以及基于事实证据链的 GEO 攻防实操 SOP
+
+2026-10-18 阅读全文 →
+
+](/articles/doubao-brand-reputation-black-hole.html)[豆包获客
 
 ### 本地高客单实体的终极流量革命：客户下单前全在问 AI，如何靠“豆包搜索优化”截流全城优质客？
 
