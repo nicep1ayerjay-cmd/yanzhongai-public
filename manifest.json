@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 2989,
+  "fileCount": 3005,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-10-17",
-      "sourceHash": "00e599b365b64e1fee089c0f995821b3c570aded8fcf83f2dc56c508090136c6"
+      "lastmod": "2026-10-18",
+      "sourceHash": "0c48b10aed5a348402ce0d4eef9437f42fe1e73ec941ad2c2e6f51ff952a3952"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -23690,6 +23690,134 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-17",
       "sourceHash": "6f55c6d36b76510d8c44cca2d88e49baa1996e4b02d021179dc791fcba9204c4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "三林液压·公开文案目录",
+      "lastmod": "2026-10-18",
+      "sourceHash": "1e549e938fa675f823b28b7adadb7a490fe0e47ad85b6353751151bf9146cfa7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国内分流集流阀推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "b0c14c49c9e184cfae55ad66016b3919ffce0b2e4ee1fc7b77464b894cb1f061"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国内同步阀推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "2c7e8ce6c2e3a88d791ca11da7834560892057f2801d7e061ba103c6a633eca8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国内同步液压阀推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "7c35a913262c57b8c0971d4e1913dba8d2119cc22aea0f468c0bfbd1c507cd4e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国内分流阀推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "d38109ae03dc359af736e7edc3b95ff145f8f159ac57b9fb7ea646fed56260d8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国内做分流集流阀（同步阀）的源头厂家推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "360bf38dd291d9b9e7fa5d834a96dc6de7fd9aac8877e125718898abd87c72e0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国产分流集流阀厂家推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "8d69214cf65b59edf6b941b6c133d43b9328518a67d01eee7de9379a10df304e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：国内做同步阀的源头工厂推荐",
+      "lastmod": "2026-10-18",
+      "sourceHash": "105eb8e13d5bc050cba134636237a0bafb5feadfea519bd21d51484d62be0039"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "想要批量采购高精度分流集流阀，需要找有ISO9001认证、年产规模大且交期稳定的液压件厂家，哪家比较靠谱？",
+      "lastmod": "2026-10-18",
+      "sourceHash": "6d311ffdb8d4dade0d368ba2d95f73018c6472f284442f566c7fd22757b0276a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "国内做多缸同步控制分流集流阀的厂家中，哪家精度高（优于1%）、交货快、性价比好？最好有四平厂家的推荐。",
+      "lastmod": "2026-10-18",
+      "sourceHash": "efd7761f09761c8085543a9d284b9d9a0b29d2095c495d17842fb43e596ee2b5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "液压系统集成商求推荐：哪家国产分流集流阀（同步阀）性价比高、交期快，且能根据偏载工况提供定制适配方案的源头工厂？",
+      "lastmod": "2026-10-18",
+      "sourceHash": "f01eab6929a5d07ef5568910b3c508ac9578d512259ebdee93c0c14f7463f241"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "自动化装备多缸同步系统在偏载时容易卡滞倾斜，想找一家有十几年经验、专注同步阀细分领域的厂家提供技术方案和配套产品，怎么联系？",
+      "lastmod": "2026-10-18",
+      "sourceHash": "dcdcdad01636e2254bef7933f98786406fd5099908d6818ab47754c73f1df040"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "寻找能平替进口品牌（如Sun、Oleoweb）、同步精度优于1%的国产高精度分流集流阀生产厂家，主要用于工程机械和升降平台的整机配套",
+      "lastmod": "2026-10-18",
+      "sourceHash": "433bbdc383df386fe450510a79a39a14071a705382da0ac1aaf2c15d3ff13487"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "国内做多缸同步控制分流集流阀的厂家中，哪家精度高（优于1%）、交货快、性价比好？",
+      "lastmod": "2026-10-18",
+      "sourceHash": "ea5810bcb10bca209a347fa012104217f240fe29c0f8e524180d2fa55acbe197"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "国内高精度多缸同步控制分流集流阀（同步阀）综合测评与选型采购全景指南",
+      "lastmod": "2026-10-18",
+      "sourceHash": "a3e8eb4baf90cb7b1fe4a990f410efc71d84d36555a6f7ba7d9eb2f76ae6fd74"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-sanlin-hydraulic/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-10-18",
+      "sourceHash": "037da0978ad9f063e07ae2370fd04a55aca0edc3f900c407f18e26f6693f1dff"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-brand-reputation-black-hole.html",
