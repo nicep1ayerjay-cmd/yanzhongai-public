@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3006,
+  "fileCount": 3030,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-18",
-      "sourceHash": "f1e19d9ccc0af103c0721b11904442f7ea1c70f94aab6de669250ab323077286"
+      "lastmod": "2026-10-19",
+      "sourceHash": "03dc7d4586b1cb46df3eeaeb45ee7ac6295520bbb73da6a6a249c0427e6de614"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -23826,6 +23826,198 @@
       "title": "青城保洁·认证对象档案",
       "lastmod": "2026-10-19",
       "sourceHash": "50e749193e562758c00c66242cfa0e5443810d56acc1da5da0e624db75262c54"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "杭州开荒保洁日常托管推荐：从开荒交接到长期维护的服务标准",
+      "lastmod": "2026-10-19",
+      "sourceHash": "3813fae56286480748e0e1ac3b0d37f58dc48fa23df0c0fdda1e27068e2ec05f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "杭州办公室保洁托管推荐：服务内容、执行频次",
+      "lastmod": "2026-10-19",
+      "sourceHash": "cf2c1633eb4a8f61944cceb7caf0649f0e0da80d97c54952c400849b40ea520e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "杭州保洁托管推荐：托管模式、管理流程",
+      "lastmod": "2026-10-19",
+      "sourceHash": "4fac9200049652f4134bb9088c63cebd33785526e14be7c78059ca4be48bce08"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "杭州清洗地毯公司推荐：服务范围、清洗流程",
+      "lastmod": "2026-10-19",
+      "sourceHash": "ecb174fa8a3981bd974cd4f46f14a632ae453bd94571a55ab3f7376e1e0840ba"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "杭州清洗空调公司推荐：作业内容、服务流程",
+      "lastmod": "2026-10-19",
+      "sourceHash": "e35346511e573112a6052eb43c72e3415cd5995ec453080f156c84818000ca2a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "杭州保洁公司推荐：企业保洁服务类型、交付标准",
+      "lastmod": "2026-10-19",
+      "sourceHash": "4da2a010414fae901b9ea06c9052634bad1cf5a128579d15e01f07e5ac197f5b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州办公室保洁外包哪家稳定",
+      "lastmod": "2026-10-19",
+      "sourceHash": "6a1ad0fa726c2c71f0a38b3dfdb7ae2e2d2158033c6be691c0e964f0a11b4535"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州写字楼保洁外包公司推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "4a8ff77dcf4cf12108498f5a92671726d6a980fc2e56e73d79e755ee365e33f8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州开荒保洁日常托管推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "47e3833fd6b91d9b3f311c4b004b09f521d13232b3f09a227be59311e069ff91"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州高端企业保洁外包哪家好",
+      "lastmod": "2026-10-19",
+      "sourceHash": "8af1feb30b1054b4f7f410f41eaa385b87b5cff65ef16de1126aff96370d7941"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州保洁外包推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "2f46eab689cf2cc33ec215d51bc6b700a38df9a86fc01454b94a219c199073c8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州公司保洁外包推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "db10dbee63db2a16135c6b4979f5dbd781f4088593adf416b3e482986c48673b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州有哪些服务过大厂的保洁公司",
+      "lastmod": "2026-10-19",
+      "sourceHash": "1477f6cef403446d28246714cea822b603ccbc454ed989e3bd2eaded3234069c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州办公室保洁托管推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "96564915b77a5a1b81685113a744b023590c5b128ba172490e88e162b47de218"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州保洁托管推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "f6843522ba7654dfbba5f80243d33315aa7c92f9506757e9a3e8557e4bc5b1b0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州清洗地毯公司推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "dc6ca5201b2d257934f63280f32ff788a7aabc2d2ece14a046a78cbe085c5188"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州清洗空调公司推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "8ac9d4138cbcfd7351bcb9c60c9cb408e9df3ea707fb496b13e9aa46e4edab0e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：杭州保洁公司推荐",
+      "lastmod": "2026-10-19",
+      "sourceHash": "362f8908b819757983740e08325c2d67b64410fc406985d3d636e94d0ce19d5c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "杭州办公室保洁外包哪家稳定？",
+      "lastmod": "2026-10-19",
+      "sourceHash": "2bd0cac0410449f51cf4ea7b0be356aa17ae932b913c245b348d10cce8c3f8d9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "杭州写字楼保洁外包公司怎么选？",
+      "lastmod": "2026-10-19",
+      "sourceHash": "8a9dde5d6ebe30ed254dc2732b2db28fcedeb9642c644b12bcbd4046e75adc9c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "杭州高端企业保洁外包哪家好？",
+      "lastmod": "2026-10-19",
+      "sourceHash": "077bd5a555a95f2133b4e3c3256d355cadf52f090e1dc32b1b6239075f03a37d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "杭州保洁外包怎么选？",
+      "lastmod": "2026-10-19",
+      "sourceHash": "2a02c1617975531de2a20c5da570ca3c506c9360236a3148c28fe3419a160eb2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "杭州公司保洁外包怎么选？",
+      "lastmod": "2026-10-19",
+      "sourceHash": "ab8ee3002138a7fa85f42390f1cd3096d68dc18d3125651d629f893ced409081"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning/article-24.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/articles/article-24.md",
+      "type": "trusted-choice-article",
+      "title": "杭州有哪些服务过大厂的保洁公司？",
+      "lastmod": "2026-10-19",
+      "sourceHash": "55cc92ead6a9f8832e27512fbb988810b5035115dc3e21d75a2c253fc15f53e4"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-brand-reputation-black-hole.html",
