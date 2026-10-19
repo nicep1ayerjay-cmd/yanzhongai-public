@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3005,
+  "fileCount": 3006,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-10-18",
-      "sourceHash": "0c48b10aed5a348402ce0d4eef9437f42fe1e73ec941ad2c2e6f51ff952a3952"
+      "lastmod": "2026-10-19",
+      "sourceHash": "7e87a7e3c82f38abf61a551c47aeb6e2459eb0002fbc9023b901fa8658e04fac"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -23818,6 +23818,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-18",
       "sourceHash": "037da0978ad9f063e07ae2370fd04a55aca0edc3f900c407f18e26f6693f1dff"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning.html",
+      "path": "content/trusted-choice/trusted-choice-qingcheng-cleaning/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "青城保洁·认证对象档案",
+      "lastmod": "2026-10-19",
+      "sourceHash": "50e749193e562758c00c66242cfa0e5443810d56acc1da5da0e624db75262c54"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-brand-reputation-black-hole.html",

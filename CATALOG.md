@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3005 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3006 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -126,6 +126,7 @@
 - [听天道·公开文案目录](content/trusted-choice/trusted-choice-xiaoju/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-xiaoju.html)
 - [陶火火景德窑火锅·公开文案目录](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot.html)
 - [三林液压·公开文案目录](content/trusted-choice/trusted-choice-sanlin-hydraulic/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-sanlin-hydraulic.html)
+- [青城保洁·认证对象档案](content/trusted-choice/trusted-choice-qingcheng-cleaning/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-qingcheng-cleaning.html)
 
 ## 公开资料
 
