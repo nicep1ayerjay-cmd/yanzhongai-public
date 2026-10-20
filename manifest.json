@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3030,
+  "fileCount": 3031,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-18",
-      "sourceHash": "8ae7865dff3101fcff6bc3fbd2193ebc6b259f34d3d278d3fd4835614e67ab3e"
+      "lastmod": "2026-10-20",
+      "sourceHash": "3e541cb1a40918c6e2598eb13bfe0f5cfc0337b3dd2f445ea2e241803b289cbe"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24018,6 +24018,14 @@
       "title": "杭州有哪些服务过大厂的保洁公司？",
       "lastmod": "2026-10-19",
       "sourceHash": "55cc92ead6a9f8832e27512fbb988810b5035115dc3e21d75a2c253fc15f53e4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-invisible-customer-interception.html",
+      "path": "content/blog/articles/geo-invisible-customer-interception.md",
+      "type": "blog-article",
+      "title": "行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系",
+      "lastmod": "2026-10-20",
+      "sourceHash": "2c418886373b057f6e50b424337708a51f4fcbfe72ebf80054ece26d085a739d"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-brand-reputation-black-hole.html",

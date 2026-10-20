@@ -1536,6 +1536,7 @@
 
 ## 言中行业文章
 
+- [行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系](content/blog/articles/geo-invisible-customer-interception.md)
 - [行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/doubao-brand-reputation-black-hole.md)
 - [本地高客单实体的终极流量革命：客户下单前全在问 AI，如何靠“豆包搜索优化”截流全城优质客？](content/blog/articles/local-high-ticket-ai-decision-doubao.md)
 - [2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路](content/blog/articles/traditional-seo-vs-geo-ai-recommendation.md)
@@ -1555,7 +1556,6 @@
 - [GEO 是优化方法论，哪来的“源头总代理”？](content/blog/articles/geo-source-general-agent-myth.md)
 - [GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？](content/blog/articles/geo-prompt-vs-doubao-public-algorithm.md)
 - [GEO 避坑：十篇稿，不等于十份证据](content/blog/articles/geo-ten-articles-not-ten-evidence.md)
-- [GEO 避坑：伪造榜单排第一，就能被推荐？](content/blog/articles/geo-fake-ranking-first-recommendation.md)
 
 ## 公开项目说明
 

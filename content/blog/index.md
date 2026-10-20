@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-18"
-source_hash: "8ae7865dff3101fcff6bc3fbd2193ebc6b259f34d3d278d3fd4835614e67ab3e"
+lastmod: "2026-10-20"
+source_hash: "3e541cb1a40918c6e2598eb13bfe0f5cfc0337b3dd2f445ea2e241803b289cbe"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "8ae7865dff3101fcff6bc3fbd2193ebc6b259f34d3d278d3fd4835614e67ab3e"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系
+
+报告发布机构 ：新商业流量与生成式引擎优化（GEO）课题组 研究对象 ：以豆包（Doubao）、DeepSeek、Kimi、腾讯元宝为代表的 AI 搜索入口下的客户流失真相与同行截流链路 核心议题 ：为什么播放量和点击没少但大单询盘突然归零、同行如何用 GEO 把自己塞进 AI 的“唯一标准答案”、几千块“AI 霸屏外包”的投毒骗局、以及企业主 90 天自救
+
+2026-10-20 阅读全文 →
+
+](/articles/geo-invisible-customer-interception.html)[豆包获客
 
 ### 行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系
 
