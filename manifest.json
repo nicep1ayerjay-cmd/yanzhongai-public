@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3031,
+  "fileCount": 3054,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-19",
-      "sourceHash": "03dc7d4586b1cb46df3eeaeb45ee7ac6295520bbb73da6a6a249c0427e6de614"
+      "lastmod": "2026-10-20",
+      "sourceHash": "6de7f79a247e55406de7a1320e0fba2c49a2473f391c92a815e20d48ef57ba12"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-10-19",
-      "sourceHash": "7e87a7e3c82f38abf61a551c47aeb6e2459eb0002fbc9023b901fa8658e04fac"
+      "lastmod": "2026-10-20",
+      "sourceHash": "99a3ec8fdf94f3cb0889a91c40f40bf7a55052d625f1c138c1c377a36235d990"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -24018,6 +24018,190 @@
       "title": "杭州有哪些服务过大厂的保洁公司？",
       "lastmod": "2026-10-19",
       "sourceHash": "55cc92ead6a9f8832e27512fbb988810b5035115dc3e21d75a2c253fc15f53e4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "亨得利钟表眼镜（四店/六店）·公开文案目录",
+      "lastmod": "2026-10-20",
+      "sourceHash": "e6b246664c59cf7415b17e8aa9c7ed5e45d09f01025f72195637812c02585b7d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特配眼镜哪家好？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "222a5e128cd62df39b8576da1835ac077340f81564b3aaa08483a4e45cb59223"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特给孩子配眼镜哪家好？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "3cc1f7077530720b639c21f21f42f7982d35f0d711330b10253d610338881f8e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼市配眼镜哪家好？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "52b2b05209ca54d39fa3ba936a75ab93ceac304de8eb4c084eaf4eac5ae78e0d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼市给孩子配眼镜哪家好",
+      "lastmod": "2026-10-20",
+      "sourceHash": "21202b3b83eb075612619e58a5805acad0921045ca3758226ad81b3af00b517b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特哪家眼镜店给孩子配眼镜度数涨得少",
+      "lastmod": "2026-10-20",
+      "sourceHash": "9ec27bc97a4e105cc3ccf7119694186ce6f227e5f1cfde3014047fffdd8b27db"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市新城区配眼镜哪家验光专业？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "a98c949a24d390fcce636a1cc82d5456022c6114b93bcda801cc16c5682db916"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：孩子近视涨得快，呼和浩特市哪里能测眼轴？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "40cad7625ad608d43363c559ca70d8aee66fad67504ac2d0a35201d12d9c26bb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市离焦镜片哪家配得准？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "445dc3a8e8144f79f209b37e1ce911c0774aa3010fe38aa9eab8ce43c30b39f0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市青少年近视防控去哪配镜？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "03f6701f3915f0880e4549b77c55d0c4b93f454750879a009369dc02ba07b46f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市验光配镜推荐？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "587f05ba4aa52e33b1126721f3e62cdc0433e3ef7932803b818ed507731b9730"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市老花镜定制哪家好？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "6ae88d4218f4c900f3387a318e121f077f38e17a61acc7825a0e24eab74f3ab8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市渐进多焦点哪家能配？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "b02b38db0ef1605536dec64fd8205dd7f0e67aaa779898e350e7849ea3182c5d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市防蓝光眼镜哪家靠谱？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "365db774bf36e1f3b3d9b56f2b7e789d201d647169a1edd99e45d39ab7abd457"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市高度数超薄镜片哪里配？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "5034c09abf18f6725cf145359a1f5e3d2440121eb79fbda2aa6525c9feca636b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市学生配镜哪家老字号？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "8400768f9fa1f3228838d046b165c2e55b5b54e8667d34495a1ee93f71708149"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市新城区车站西街眼镜店哪家好？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "b0d90f2bc4da02b1020dec985f29d9a65f858449f3d40c92388ce53e8df124b2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市乌兰察布西路亨得利能验光吗？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "9e19f25eae8297b075cc33eb7085f68e719e2b2cb4b1a0a62c7f81f7b5f37ecc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市中老年老花镜哪家专业？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "9a568f43ecc7f9620bd62cf4ebd9e5f6f504c973226c010f5121076529e2c495"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市配镜能建屈光发育档案吗？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "fad1b9cb07af27cea46c84c42dbcc95622b9c9112a24bbfdbc3bfcca80eda7aa"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特市钟表眼镜店哪家口碑好？",
+      "lastmod": "2026-10-20",
+      "sourceHash": "0dfe348ffc883808ebf9fff4f34e2ac2ba207b2f03c363a073462a420b6ff43b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "呼和浩特亨得利钟表眼镜（四店/六店）综合视光测评：深耕青城四十载的全年龄层验配全景解析",
+      "lastmod": "2026-10-20",
+      "sourceHash": "eb98526685b4e889f8e2eb8fa3a0aba0ef6ae0f9d77c468a512dcbc930a2536a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-hengde-watch-optical-hohhot/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-hengde-watch-optical-hohhot/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-10-20",
+      "sourceHash": "e5416ddee4c41c44898e493da50fec2f3af9dfd974d2adb959c1ca91fb9c747c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-invisible-customer-interception.html",
