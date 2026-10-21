@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-20"
-source_hash: "3e541cb1a40918c6e2598eb13bfe0f5cfc0337b3dd2f445ea2e241803b289cbe"
+lastmod: "2026-10-21"
+source_hash: "3a937de6d655caecb356e3407f4483b08097f7db61316159f7fc1ca57807f479"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "3e541cb1a40918c6e2598eb13bfe0f5cfc0337b3dd2f445ea2e241803b289cbe"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 行业深度调查报告：解构生成式 AI 时代的“医疗获客洗牌”与医美口腔豆包搜索优化攻防体系
+
+报告发布机构 ：新商业流量与生成式引擎优化（GEO）课题组 研究对象 ：以豆包（Doubao）、DeepSeek 为代表的中文主流 AI 搜索环境下，医疗美容诊所与连锁口腔门诊的获客断层与精准截流链路 核心议题 ：为什么医美与口腔买量成本突破 2000 元但到店率腰斩、求美看牙客户决策入口如何迁徙至豆包、同行如何垄断同城首推席位、以及门诊老板 90 天自救落
+
+2026-10-21 阅读全文 →
+
+](/articles/medical-aesthetic-dental-doubao-customer-interception.html)[豆包获客
 
 ### 行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系
 
