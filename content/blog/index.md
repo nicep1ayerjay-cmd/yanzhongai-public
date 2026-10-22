@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-21"
-source_hash: "3a937de6d655caecb356e3407f4483b08097f7db61316159f7fc1ca57807f479"
+lastmod: "2026-10-22"
+source_hash: "1b07d80d5a61d75c23f2ecb199a4b21cc38f4860202ac207b4993b8f5386d0e2"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,14 @@ source_hash: "3a937de6d655caecb356e3407f4483b08097f7db61316159f7fc1ca57807f479"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [豆包获客
+
+### 行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系
+
+报告发布机构 ：新商业流量与生成式引擎优化（GEO）课题组 研究对象 ：以月子中心、高端产康、私立妇儿专科门诊、高端婚庆定制为代表的同城高客单消费服务（单客 3 万～10 万元+）在以豆包、DeepSeek、腾讯元宝为核心的生成式 AI 搜索入口下的截流实况与防御策略 核心议题 ：为什么大众点评与小红书投放成本飙升但高净值到店断崖式下滑、大模型同城仅推前三名
+
+2026-10-22 阅读全文 →
+
+](/articles/maternity-care-center-doubao-top-three-ranking.html)[豆包获客
 
 ### 行业深度调查报告：解构生成式 AI 时代的“医疗获客洗牌”与医美口腔豆包搜索优化攻防体系
 

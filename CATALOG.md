@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3055 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3056 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,7 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系](content/blog/articles/maternity-care-center-doubao-top-three-ranking.md) · [正式网页](https://www.yanzhongai.com/articles/maternity-care-center-doubao-top-three-ranking.html)
 - [行业深度调查报告：解构生成式 AI 时代的“医疗获客洗牌”与医美口腔豆包搜索优化攻防体系](content/blog/articles/medical-aesthetic-dental-doubao-customer-interception.md) · [正式网页](https://www.yanzhongai.com/articles/medical-aesthetic-dental-doubao-customer-interception.html)
 - [行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系](content/blog/articles/geo-invisible-customer-interception.md) · [正式网页](https://www.yanzhongai.com/articles/geo-invisible-customer-interception.html)
 - [行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/doubao-brand-reputation-black-hole.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-brand-reputation-black-hole.html)

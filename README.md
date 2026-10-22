@@ -1561,6 +1561,7 @@
 
 ## 言中行业文章
 
+- [行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系](content/blog/articles/maternity-care-center-doubao-top-three-ranking.md)
 - [行业深度调查报告：解构生成式 AI 时代的“医疗获客洗牌”与医美口腔豆包搜索优化攻防体系](content/blog/articles/medical-aesthetic-dental-doubao-customer-interception.md)
 - [行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系](content/blog/articles/geo-invisible-customer-interception.md)
 - [行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/doubao-brand-reputation-black-hole.md)
@@ -1580,7 +1581,6 @@
 - [不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！](content/blog/articles/doubao-geo-blacklist-claim-evidence.md)
 - [GEO 避坑：“AI收录一万篇”，到底收了什么？](content/blog/articles/geo-ai-indexing-ten-thousand-claims.md)
 - [GEO 是优化方法论，哪来的“源头总代理”？](content/blog/articles/geo-source-general-agent-myth.md)
-- [GEO 避坑：一段提示词，怎么就成了“豆包公开算法”？](content/blog/articles/geo-prompt-vs-doubao-public-algorithm.md)
 
 ## 公开项目说明
 

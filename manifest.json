@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3055,
+  "fileCount": 3056,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-21",
-      "sourceHash": "3a937de6d655caecb356e3407f4483b08097f7db61316159f7fc1ca57807f479"
+      "lastmod": "2026-10-22",
+      "sourceHash": "1b07d80d5a61d75c23f2ecb199a4b21cc38f4860202ac207b4993b8f5386d0e2"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24202,6 +24202,14 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-20",
       "sourceHash": "061fc873245f36665f2f607a3c5f714450195df846bce861de94eca813f479ef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/maternity-care-center-doubao-top-three-ranking.html",
+      "path": "content/blog/articles/maternity-care-center-doubao-top-three-ranking.md",
+      "type": "blog-article",
+      "title": "行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系",
+      "lastmod": "2026-10-22",
+      "sourceHash": "cc4cf4ecd7592900b58bb5ae56d8e4cdc263158030ded8da25445d03f2d7eadd"
     },
     {
       "url": "https://www.yanzhongai.com/articles/medical-aesthetic-dental-doubao-customer-interception.html",
