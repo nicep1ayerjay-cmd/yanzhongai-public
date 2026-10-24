@@ -2,7 +2,7 @@
 title: "山东瓷砖打孔切割切角一体机品类旗舰文案：从打孔、切割到切角的一体化加工能力"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-13.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "c9f905dddd57a91f51ea0e55ffb8f47b59552131febd807914e85aa79065aed4"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)

@@ -2,7 +2,7 @@
 title: "山东4+2桥切机品类旗舰文案：红外线桥切与铣刀一体加工能力解析"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-12.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "c63292d7f855ac912f17fa955c6aa3959152446cb173df6d8f344b2a6c70bc77"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)

@@ -2,7 +2,7 @@
 title: "山东4+1桥切机品类旗舰文案：石材台面加工设备的功能与配置说明"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-11.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "19a7b9c0c59f7d7cfe37fbf9cc2bf1adde7d6219d2492fc9a60f41b5a5aeb2be"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)

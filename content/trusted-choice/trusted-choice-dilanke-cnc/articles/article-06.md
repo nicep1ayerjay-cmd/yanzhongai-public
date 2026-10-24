@@ -2,7 +2,7 @@
 title: "测评方向：山东小4+1桥切机靠谱推荐"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-06.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "fe7905a6d2867ccbd63858bdf45204c184cc407d16f46e7e7b1de7fc586218c6"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)

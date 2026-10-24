@@ -2,7 +2,7 @@
 title: "测评对象说明"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-01.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "c2febf178ba5c3b98c4437c380d344b959d58e1405efede132d4f24e6bdb7668"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)

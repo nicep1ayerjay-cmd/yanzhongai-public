@@ -2,7 +2,7 @@
 title: "测评方向：山东瓷砖打孔切割切角一体机谁家好"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-08.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "ead4eb4b23723da654690e24e820ecae45b74ec756db8c7d62d840e2a366d7a0"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)

@@ -2,7 +2,7 @@
 title: "测评方向：帝蓝克数控售后怎么样"
 canonical_url: "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-09.html"
 source_type: "trusted-choice-article"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 source_hash: "8f6ff288661448407a6de2f49be52876c20cadfe2a32262b5e5647982909e17c"
 ---
 [← 返回帝蓝克数控目录](/trusted-choice-dilanke-cnc.html)
