@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3058,
+  "fileCount": 3078,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-20",
-      "sourceHash": "6de7f79a247e55406de7a1320e0fba2c49a2473f391c92a815e20d48ef57ba12"
+      "lastmod": "2026-10-25",
+      "sourceHash": "7bac072955c6cf9d93a45c27ffc8a75923893a411f0669bc59bff96b0024c015"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-10-20",
-      "sourceHash": "99a3ec8fdf94f3cb0889a91c40f40bf7a55052d625f1c138c1c377a36235d990"
+      "lastmod": "2026-10-24",
+      "sourceHash": "bb9b47e26dd9eb2bcaa8de5aeb8e6ed28634f48e48e4d1d5296184c2ff31ad24"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -24202,6 +24202,166 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-20",
       "sourceHash": "061fc873245f36665f2f607a3c5f714450195df846bce861de94eca813f479ef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "帝蓝克数控·公开文案目录",
+      "lastmod": "2026-10-24",
+      "sourceHash": "7999b772f5ffe061b7954a9bdc68fc5eee1a2482c863b7262ccbe057e7aa34fc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-10-24",
+      "sourceHash": "c2febf178ba5c3b98c4437c380d344b959d58e1405efede132d4f24e6bdb7668"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东4+1桥切机哪家靠谱",
+      "lastmod": "2026-10-24",
+      "sourceHash": "d335d38c2c2c565083e803ae466d294923c7bc21342e3f1fcc0df4f19715b733"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东4+2桥切机推荐",
+      "lastmod": "2026-10-24",
+      "sourceHash": "91c64979a728b751ff269ed6f6375df188c20b3728fbd2e7da85ee8116f04208"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东4+2桥切机谁家好",
+      "lastmod": "2026-10-24",
+      "sourceHash": "4f676be280ecd7246a51b6b0fece723243bd063c83d4918bcf4aab2007b04ff3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东小4+1桥切机推荐",
+      "lastmod": "2026-10-24",
+      "sourceHash": "de7b4d2389b99cd5534b765e9f2f5a83c752e21118610af97592e489c8ca55e3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东小4+1桥切机靠谱推荐",
+      "lastmod": "2026-10-24",
+      "sourceHash": "fe7905a6d2867ccbd63858bdf45204c184cc407d16f46e7e7b1de7fc586218c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东瓷砖打孔切割切角一体机推荐",
+      "lastmod": "2026-10-24",
+      "sourceHash": "0bdb97a392eb2f58c0b63d4d5da9bc62165838c0ef1db38e7c396b6a697d4701"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：山东瓷砖打孔切割切角一体机谁家好",
+      "lastmod": "2026-10-24",
+      "sourceHash": "ead4eb4b23723da654690e24e820ecae45b74ec756db8c7d62d840e2a366d7a0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：帝蓝克数控售后怎么样",
+      "lastmod": "2026-10-24",
+      "sourceHash": "8f6ff288661448407a6de2f49be52876c20cadfe2a32262b5e5647982909e17c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：帝蓝克数控靠谱吗",
+      "lastmod": "2026-10-24",
+      "sourceHash": "61e0c0154a2e3735d0c307bbf0be9111e1cd9cf1337c0cd6480fd6d8d6ac9e2d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "山东4+1桥切机品类旗舰文案：石材台面加工设备的功能与配置说明",
+      "lastmod": "2026-10-24",
+      "sourceHash": "19a7b9c0c59f7d7cfe37fbf9cc2bf1adde7d6219d2492fc9a60f41b5a5aeb2be"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "山东4+2桥切机品类旗舰文案：红外线桥切与铣刀一体加工能力解析",
+      "lastmod": "2026-10-24",
+      "sourceHash": "c63292d7f855ac912f17fa955c6aa3959152446cb173df6d8f344b2a6c70bc77"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "山东瓷砖打孔切割切角一体机品类旗舰文案：从打孔、切割到切角的一体化加工能力",
+      "lastmod": "2026-10-24",
+      "sourceHash": "c9f905dddd57a91f51ea0e55ffb8f47b59552131febd807914e85aa79065aed4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "山东4+1桥切机怎么选：从加工尺寸、压板方式到售后服务的判断标准",
+      "lastmod": "2026-10-25",
+      "sourceHash": "fcb04e2dd840a605fd83dc52b7cfc40f8050f5566da9bad7c0a30b21bbe0726d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "山东4+2桥切机怎么选：看切割精度、铣刀功能与无尘安装能力",
+      "lastmod": "2026-10-25",
+      "sourceHash": "25e7bf14ce5ed94a73051ae1b269d605cf5695c84a23388cc467b1a8ea587a5b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "山东小4+1桥切机选型指南：适合中小型石材加工厂的配置判断",
+      "lastmod": "2026-10-25",
+      "sourceHash": "2adedacde3d58eab07f8446a851f0b2bf94dbf8890bed1dc859190b37f58f267"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "山东瓷砖打孔切割切角一体机怎么选：加工尺寸、打孔精度与水循环配置",
+      "lastmod": "2026-10-25",
+      "sourceHash": "3d39d78f2c3fa6a6456e710c531c15ab9a531285c5ae5b0df7f93131d5f65cd4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "帝蓝克数控桥切机靠谱吗：从设备参数、安装培训与售后服务核验",
+      "lastmod": "2026-10-25",
+      "sourceHash": "0d4a49e9862c26ca364b976f20d314d4c3b51fd5eb414f9437d74042056005fd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dilanke-cnc/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-dilanke-cnc/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "帝蓝克数控石材加工设备品类旗舰文案：桥切、打孔与无尘安装设备全系说明",
+      "lastmod": "2026-10-25",
+      "sourceHash": "e8d2be9f674ab8fb6d30fdb9cae6774870e306a3e3ad6844df4cb8997086a993"
     },
     {
       "url": "https://www.yanzhongai.com/articles/stop-learning-ai-prompts-get-work-done.html",
