@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-22"
-source_hash: "1b07d80d5a61d75c23f2ecb199a4b21cc38f4860202ac207b4993b8f5386d0e2"
+lastmod: "2026-10-24"
+source_hash: "c8abb0bca4b2b958ca79d768f747a18fa766df60a2b155b1a5a3fd6abd67f61f"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,23 @@ source_hash: "1b07d80d5a61d75c23f2ecb199a4b21cc38f4860202ac207b4993b8f5386d0e2"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[豆包获客
+[AI应用
+
+### 别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完
+
+“再不学 AI，你就要被时代淘汰了！” “普通人逆袭必看的 100 个 Prompt 提问公式！” “限时 99 元，3 天带你精通 AI 提示词训练营……”
+
+2026-10-24 阅读全文 →
+
+](/articles/stop-learning-ai-prompts-get-work-done.html)[GEO科普
+
+### 别被忽悠了！大白话讲清楚：GEO 到底是个什么鬼？
+
+导读 ：当你还在为百度竞价太贵、抖音投流太卷而发愁时，一批嗅觉敏锐的同行，已经在 DeepSeek、豆包、通义千问等大模型里悄悄截流获客了。不用高深莫测的技术黑话，今天就用最接地气的老板大白话，把今年最火的“GEO（生成式引擎优化）”彻底讲透。
+
+2026-10-24 阅读全文 →
+
+](/articles/geo-explained-in-plain-language.html)[豆包获客
 
 ### 行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系
 

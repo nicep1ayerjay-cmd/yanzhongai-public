@@ -1561,6 +1561,8 @@
 
 ## 言中行业文章
 
+- [别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完](content/blog/articles/stop-learning-ai-prompts-get-work-done.md)
+- [别被忽悠了！大白话讲清楚：GEO 到底是个什么鬼？](content/blog/articles/geo-explained-in-plain-language.md)
 - [行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系](content/blog/articles/maternity-care-center-doubao-top-three-ranking.md)
 - [行业深度调查报告：解构生成式 AI 时代的“医疗获客洗牌”与医美口腔豆包搜索优化攻防体系](content/blog/articles/medical-aesthetic-dental-doubao-customer-interception.md)
 - [行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系](content/blog/articles/geo-invisible-customer-interception.md)
@@ -1579,8 +1581,6 @@
 - [文章一堆、评分满分，豆包到底推荐你了吗？](content/blog/articles/doubao-recommendation-evidence.md)
 - [模型刚更新，卖课的人先催你交钱了？](content/blog/articles/model-update-course-pressure.md)
 - [不找他做GEO，品牌就被豆包拉黑？先让他拿出依据！](content/blog/articles/doubao-geo-blacklist-claim-evidence.md)
-- [GEO 避坑：“AI收录一万篇”，到底收了什么？](content/blog/articles/geo-ai-indexing-ten-thousand-claims.md)
-- [GEO 是优化方法论，哪来的“源头总代理”？](content/blog/articles/geo-source-general-agent-myth.md)
 
 ## 公开项目说明
 

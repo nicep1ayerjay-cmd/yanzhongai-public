@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3056,
+  "fileCount": 3058,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-22",
-      "sourceHash": "1b07d80d5a61d75c23f2ecb199a4b21cc38f4860202ac207b4993b8f5386d0e2"
+      "lastmod": "2026-10-24",
+      "sourceHash": "c8abb0bca4b2b958ca79d768f747a18fa766df60a2b155b1a5a3fd6abd67f61f"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24202,6 +24202,22 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-20",
       "sourceHash": "061fc873245f36665f2f607a3c5f714450195df846bce861de94eca813f479ef"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/stop-learning-ai-prompts-get-work-done.html",
+      "path": "content/blog/articles/stop-learning-ai-prompts-get-work-done.md",
+      "type": "blog-article",
+      "title": "别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完",
+      "lastmod": "2026-10-24",
+      "sourceHash": "9d6a27b7d7b89320f8b2da313b17224e664c1cf9e07e59b17acea1f3654a1e58"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-explained-in-plain-language.html",
+      "path": "content/blog/articles/geo-explained-in-plain-language.md",
+      "type": "blog-article",
+      "title": "别被忽悠了！大白话讲清楚：GEO 到底是个什么鬼？",
+      "lastmod": "2026-10-24",
+      "sourceHash": "dbf1da49d3e36fde34048560476bb2467861837d220f936b1741915f9c0ef129"
     },
     {
       "url": "https://www.yanzhongai.com/articles/maternity-care-center-doubao-top-three-ranking.html",
