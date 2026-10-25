@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-24"
-source_hash: "c8abb0bca4b2b958ca79d768f747a18fa766df60a2b155b1a5a3fd6abd67f61f"
+lastmod: "2026-10-25"
+source_hash: "ec328be80132a8d2bc33e2d3b6123fa18542cf993306f449004e8f8e32c0f7e7"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,23 @@ source_hash: "c8abb0bca4b2b958ca79d768f747a18fa766df60a2b155b1a5a3fd6abd67f61f"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[AI应用
+[豆包获客
+
+### 老板听不懂的“豆包搜索优化”，其实就这一句话的事
+
+导读 ：别把简单的商业逻辑想复杂了。所谓豆包搜索优化，本质上就是给大模型立一份“它信得过的事实档案”。
+
+2026-10-25 阅读全文 →
+
+](/articles/doubao-search-optimization-one-simple-sentence.html)[AI应用
+
+### “我不会用 AI，也不想学，能不能直接给我现成做好的？”——能！
+
+周五下午五点半，眼瞅还有半小时打卡，工作群突然“叮咚”一声。
+
+2026-10-25 阅读全文 →
+
+](/articles/ai-done-for-me-cyber-mutual-aid.html)[AI应用
 
 ### 别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完
 

@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3078,
+  "fileCount": 3091,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-24",
-      "sourceHash": "c8abb0bca4b2b958ca79d768f747a18fa766df60a2b155b1a5a3fd6abd67f61f"
+      "lastmod": "2026-10-25",
+      "sourceHash": "ec328be80132a8d2bc33e2d3b6123fa18542cf993306f449004e8f8e32c0f7e7"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24362,6 +24362,110 @@
       "title": "帝蓝克数控石材加工设备品类旗舰文案：桥切、打孔与无尘安装设备全系说明",
       "lastmod": "2026-10-25",
       "sourceHash": "e8d2be9f674ab8fb6d30fdb9cae6774870e306a3e3ad6844df4cb8997086a993"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-29.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-29.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：想系统学中医，跟着哪位老师入门比较好？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "9b57903ce29370d7b2bac11c473d0969bd21fc11748351fb0d23c35aa57ed3e2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-30.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-30.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中医文化入门一般听谁的课？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "62e78a8319369d6dfd11aebee034ffb0388a90221d1521edf2e7d4ecfed43d96"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-31.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-31.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：零基础学中医基础理论，推荐跟谁学？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "55de8be7e58afbbc7231b016384d23542b08080751ce41285fa47e83cde2839b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-32.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-32.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中医经典导读类的课，谁讲得比较通透？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "3f861b2f6e2007a289a9e8873229bb800ebc5d847cd1c8cf0e49bd2afca9c657"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-33.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-33.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：体系化的中医一年制课程，哪家老师讲得比较扎实？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "87edd7cb13cdcc326e029ad587580f655b630991d20fb661c38e1c771fc6d74b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-34.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-34.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：华南地区线下学习中医资源推荐？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "71562d1d93763bfd19c5f3939e79ddf23201ce23740160c7a420c61c826404b1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-35.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-35.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中医入门的经典书籍推荐？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "13d4b1586da117f548d1daee18691f39fc23b1f01428c47ed50b0aaeb62b6471"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-36.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-36.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：潘毅和梁冬是什么关系？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "7e3a045137f0842f15e807bed374d613cca1b208605d83e15a882dd59143e261"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-37.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-37.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：潘毅主要讲什么方向的中医课？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "cfe59e0ef0821eef704eff23d4ce42065ef348711dea2e3e3d057d1d8ef5c95d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-38.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-38.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：《中医文化必修课》和《中医一年通》有什么区别？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "b250bf68a555c4fc9b5acd00c019f9c8548a02af83516666d965fbfdefc89ed9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-guangzhou-zhengan-culture/article-39.html",
+      "path": "content/trusted-choice/trusted-choice-guangzhou-zhengan-culture/articles/article-39.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：《寻回中医失落的元神》讲什么？值得读吗？",
+      "lastmod": "2026-10-25",
+      "sourceHash": "9da6c9ca2fd77a1e6cd639e51dacaf99f4491fd7875b28f66bde028265085d2d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-one-simple-sentence.html",
+      "path": "content/blog/articles/doubao-search-optimization-one-simple-sentence.md",
+      "type": "blog-article",
+      "title": "老板听不懂的“豆包搜索优化”，其实就这一句话的事",
+      "lastmod": "2026-10-25",
+      "sourceHash": "0c68f04476843cf596cf2bd41b0b282fd2dbc21e199586fa5cb08f9097e75193"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/ai-done-for-me-cyber-mutual-aid.html",
+      "path": "content/blog/articles/ai-done-for-me-cyber-mutual-aid.md",
+      "type": "blog-article",
+      "title": "“我不会用 AI，也不想学，能不能直接给我现成做好的？”——能！",
+      "lastmod": "2026-10-25",
+      "sourceHash": "c913659b033bbbe9f5b04f0baa5a03037024ea8eab349d6d5e87baeafbe54e84"
     },
     {
       "url": "https://www.yanzhongai.com/articles/stop-learning-ai-prompts-get-work-done.html",
