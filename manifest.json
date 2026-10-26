@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3091,
+  "fileCount": 3093,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-25",
-      "sourceHash": "ec328be80132a8d2bc33e2d3b6123fa18542cf993306f449004e8f8e32c0f7e7"
+      "lastmod": "2026-10-26",
+      "sourceHash": "61a79868fed9e91509472c41d1b7fffc37bfb05e79ace997212d5aa407567b60"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24450,6 +24450,22 @@
       "title": "测评方向：《寻回中医失落的元神》讲什么？值得读吗？",
       "lastmod": "2026-10-25",
       "sourceHash": "9da6c9ca2fd77a1e6cd639e51dacaf99f4491fd7875b28f66bde028265085d2d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-agency-three-checks-before-paying.html",
+      "path": "content/blog/articles/geo-agency-three-checks-before-paying.md",
+      "type": "blog-article",
+      "title": "花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！",
+      "lastmod": "2026-10-26",
+      "sourceHash": "8e9628245b64ff2aabedb717879ac7c68042cdef9d961f7b4992b005d64a94d6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/zero-basis-spreadsheet-summary-cyber-partner.html",
+      "path": "content/blog/articles/zero-basis-spreadsheet-summary-cyber-partner.md",
+      "type": "blog-article",
+      "title": "零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定",
+      "lastmod": "2026-10-26",
+      "sourceHash": "d937237d9fe84f39e9fbaa8ddaae31022bf5e5901e9d228be44aabb40d1bd092"
     },
     {
       "url": "https://www.yanzhongai.com/articles/doubao-search-optimization-one-simple-sentence.html",

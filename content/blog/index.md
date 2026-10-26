@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-25"
-source_hash: "ec328be80132a8d2bc33e2d3b6123fa18542cf993306f449004e8f8e32c0f7e7"
+lastmod: "2026-10-26"
+source_hash: "61a79868fed9e91509472c41d1b7fffc37bfb05e79ace997212d5aa407567b60"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,23 @@ source_hash: "ec328be80132a8d2bc33e2d3b6123fa18542cf993306f449004e8f8e32c0f7e7"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[豆包获客
+[GEO优化
+
+### 花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！
+
+“喂，李总吗？我们现在做豆包和 DeepSeek 的首推霸屏，3 天见效，不进前三直接退款，一整年全托管只要 39800！”
+
+2026-10-26 阅读全文 →
+
+](/articles/geo-agency-three-checks-before-paying.html)[AI效率
+
+### 零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定
+
+每个月总有那么几天，打工人的精神状态是摇摇欲坠的。
+
+2026-10-26 阅读全文 →
+
+](/articles/zero-basis-spreadsheet-summary-cyber-partner.html)[豆包获客
 
 ### 老板听不懂的“豆包搜索优化”，其实就这一句话的事
 

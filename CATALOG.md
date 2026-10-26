@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3091 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3093 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,8 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！](content/blog/articles/geo-agency-three-checks-before-paying.md) · [正式网页](https://www.yanzhongai.com/articles/geo-agency-three-checks-before-paying.html)
+- [零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定](content/blog/articles/zero-basis-spreadsheet-summary-cyber-partner.md) · [正式网页](https://www.yanzhongai.com/articles/zero-basis-spreadsheet-summary-cyber-partner.html)
 - [老板听不懂的“豆包搜索优化”，其实就这一句话的事](content/blog/articles/doubao-search-optimization-one-simple-sentence.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-search-optimization-one-simple-sentence.html)
 - [“我不会用 AI，也不想学，能不能直接给我现成做好的？”——能！](content/blog/articles/ai-done-for-me-cyber-mutual-aid.md) · [正式网页](https://www.yanzhongai.com/articles/ai-done-for-me-cyber-mutual-aid.html)
 - [别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完](content/blog/articles/stop-learning-ai-prompts-get-work-done.md) · [正式网页](https://www.yanzhongai.com/articles/stop-learning-ai-prompts-get-work-done.html)

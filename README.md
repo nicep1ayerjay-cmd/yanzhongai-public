@@ -1585,6 +1585,8 @@
 
 ## 言中行业文章
 
+- [零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定](content/blog/articles/zero-basis-spreadsheet-summary-cyber-partner.md)
+- [花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！](content/blog/articles/geo-agency-three-checks-before-paying.md)
 - [老板听不懂的“豆包搜索优化”，其实就这一句话的事](content/blog/articles/doubao-search-optimization-one-simple-sentence.md)
 - [“我不会用 AI，也不想学，能不能直接给我现成做好的？”——能！](content/blog/articles/ai-done-for-me-cyber-mutual-aid.md)
 - [别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完](content/blog/articles/stop-learning-ai-prompts-get-work-done.md)
@@ -1603,8 +1605,6 @@
 - [流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？](content/blog/articles/doubao-customer-acquisition-search-optimization.md)
 - [过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局](content/blog/articles/geo-perfect-delivery-package-scam.md)
 - [撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？](content/blog/articles/geo-exclusive-source-scam.md)
-- [揭开“GEO 自动化系统”画皮：一场用廉价 AI 伪造的收割盛宴](content/blog/articles/geo-automation-system-scam.md)
-- [文章一堆、评分满分，豆包到底推荐你了吗？](content/blog/articles/doubao-recommendation-evidence.md)
 
 ## 公开项目说明
 
