@@ -1585,6 +1585,9 @@
 
 ## 言中行业文章
 
+- [问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你](content/blog/articles/why-doubao-does-not-recommend-company.md)
+- [网上那些 AI 获客成功案例，怎么判断是不是真的？](content/blog/articles/how-to-verify-ai-lead-generation-cases.md)
+- [会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙](content/blog/articles/ai-skills-cyber-side-gig.md)
 - [零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定](content/blog/articles/zero-basis-spreadsheet-summary-cyber-partner.md)
 - [花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！](content/blog/articles/geo-agency-three-checks-before-paying.md)
 - [老板听不懂的“豆包搜索优化”，其实就这一句话的事](content/blog/articles/doubao-search-optimization-one-simple-sentence.md)
@@ -1602,9 +1605,6 @@
 - [传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次](content/blog/articles/doubao-recommendation-vs-paid-traffic.md)
 - [决胜决策最后一环：为什么 GEO 本质也是曝光，但转化率却能成倍碾压传统广告？](content/blog/articles/geo-conversion-rate-vs-exposure-ads.md)
 - [形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”](content/blog/articles/is-content-publishing-enough-for-geo.md)
-- [流量迁徙与心智重构：为什么“豆包”正在成为企业高转化获客的终极战场？](content/blog/articles/doubao-customer-acquisition-search-optimization.md)
-- [过程表演与伪量化陷阱：深度揭秘 GEO“完美交付内容包”骗局](content/blog/articles/geo-perfect-delivery-package-scam.md)
-- [撕开“GEO 独家信源”画皮：一篇顶十篇的收割神话为何是彻底的商业伪命题？](content/blog/articles/geo-exclusive-source-scam.md)
 
 ## 公开项目说明
 

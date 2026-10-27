@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3093,
+  "fileCount": 3096,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-26",
-      "sourceHash": "61a79868fed9e91509472c41d1b7fffc37bfb05e79ace997212d5aa407567b60"
+      "lastmod": "2026-10-27",
+      "sourceHash": "4b976dcc5c433e8f1ff00fd6d85567d2f5e75c175d09b113fbab41959aad6392"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24450,6 +24450,30 @@
       "title": "测评方向：《寻回中医失落的元神》讲什么？值得读吗？",
       "lastmod": "2026-10-25",
       "sourceHash": "9da6c9ca2fd77a1e6cd639e51dacaf99f4491fd7875b28f66bde028265085d2d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/why-doubao-does-not-recommend-company.html",
+      "path": "content/blog/articles/why-doubao-does-not-recommend-company.md",
+      "type": "blog-article",
+      "title": "问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你",
+      "lastmod": "2026-10-27",
+      "sourceHash": "859b92c24e5d75687f7f7f1958879f10322305926d7236cbecbfa2005f3c7d8f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/how-to-verify-ai-lead-generation-cases.html",
+      "path": "content/blog/articles/how-to-verify-ai-lead-generation-cases.md",
+      "type": "blog-article",
+      "title": "网上那些 AI 获客成功案例，怎么判断是不是真的？",
+      "lastmod": "2026-10-27",
+      "sourceHash": "26f313ee9b2b1df0538c34a76c4af3f8f6a56e5e8039ee15b9f8667e89f41054"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/ai-skills-cyber-side-gig.html",
+      "path": "content/blog/articles/ai-skills-cyber-side-gig.md",
+      "type": "blog-article",
+      "title": "会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙",
+      "lastmod": "2026-10-27",
+      "sourceHash": "43249eddf06bf99a91c1809bfdc8aec65edb4cbd18432a9e0b728b386f6950e2"
     },
     {
       "url": "https://www.yanzhongai.com/articles/geo-agency-three-checks-before-paying.html",

@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-26"
-source_hash: "61a79868fed9e91509472c41d1b7fffc37bfb05e79ace997212d5aa407567b60"
+lastmod: "2026-10-27"
+source_hash: "4b976dcc5c433e8f1ff00fd6d85567d2f5e75c175d09b113fbab41959aad6392"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,31 @@ source_hash: "61a79868fed9e91509472c41d1b7fffc37bfb05e79ace997212d5aa407567b60"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO优化
+[豆包获客
+
+### 问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你
+
+很多企业线下实力雄厚，却在豆包等 AI 的推荐名单里查无此人。原因不是 AI 偏心，而是现实中的厂房、流水、客户关系和资质，只有被公开、结构化、可交叉验证的数字资产，才可能进入模型的判断范围。
+
+2026-10-27 阅读全文 →
+
+](/articles/why-doubao-does-not-recommend-company.html)[豆包获客
+
+### 网上那些 AI 获客成功案例，怎么判断是不是真的？
+
+“单月上百条精准线索”“零成本被大模型推荐”“当月成交百万大单”——面对这类宣传，企业既怕错过 AI 获客红利，也要警惕把一次曝光包装成完整增长。
+
+2026-10-27 阅读全文 →
+
+](/articles/how-to-verify-ai-lead-generation-cases.html)[AI效率
+
+### 会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙
+
+很多会用 AI 的程序员、设计师、学生和工具爱好者，都想把自己的工具和技巧变成副业收入。但传统外包常常伴随课程费、押金、低价竞标、反复改稿和拖尾款，副业不该变成另一份苦力活。
+
+2026-10-27 阅读全文 →
+
+](/articles/ai-skills-cyber-side-gig.html)[GEO优化
 
 ### 花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！
 
