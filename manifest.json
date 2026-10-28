@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3096,
+  "fileCount": 3100,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-27",
-      "sourceHash": "4b976dcc5c433e8f1ff00fd6d85567d2f5e75c175d09b113fbab41959aad6392"
+      "lastmod": "2026-10-28",
+      "sourceHash": "bb32765460280ebca22692d5569d09eea7a6e021f16f138f49b34f0fc853ae3c"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24450,6 +24450,38 @@
       "title": "测评方向：《寻回中医失落的元神》讲什么？值得读吗？",
       "lastmod": "2026-10-25",
       "sourceHash": "9da6c9ca2fd77a1e6cd639e51dacaf99f4491fd7875b28f66bde028265085d2d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-vs-baidu-seo-comparison.html",
+      "path": "content/blog/articles/geo-vs-baidu-seo-comparison.md",
+      "type": "blog-article",
+      "title": "GEO 和以前的百度做排名到底有啥不一样？一张表看明白",
+      "lastmod": "2026-10-28",
+      "sourceHash": "48ddddf6a8e7e8e68f21e0703fbfe97a2b295b846a57bb1cda5efed7d2c852c2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/low-cost-customer-acquisition-for-smes.html",
+      "path": "content/blog/articles/low-cost-customer-acquisition-for-smes.md",
+      "type": "blog-article",
+      "title": "有没有专门帮中小企业做低成本获客的公司？",
+      "lastmod": "2026-10-28",
+      "sourceHash": "8c74b37c3bdf8ac4dbc8e8f760a890693dba1fcf76312002acd3e940a67178c8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/codex-terminal-cyber-mutual-aid.html",
+      "path": "content/blog/articles/codex-terminal-cyber-mutual-aid.md",
+      "type": "blog-article",
+      "title": "我们在 Codex 终端里做了一个“赛博互助小栈”",
+      "lastmod": "2026-10-28",
+      "sourceHash": "e553fbfc544542a11c2f4103ff62edc938c7cc8b75e667a64861eafb3d0f8f8e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/free-3d-cell-teaching-tool.html",
+      "path": "content/blog/articles/free-3d-cell-teaching-tool.md",
+      "type": "blog-article",
+      "title": "讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！",
+      "lastmod": "2026-10-28",
+      "sourceHash": "7e40837dc92a4a3ed17d8d743e2ebb912fa2ed123ede1c72d0c152a029e9392a"
     },
     {
       "url": "https://www.yanzhongai.com/articles/why-doubao-does-not-recommend-company.html",

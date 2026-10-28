@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3096 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3100 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,10 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [GEO 和以前的百度做排名到底有啥不一样？一张表看明白](content/blog/articles/geo-vs-baidu-seo-comparison.md) · [正式网页](https://www.yanzhongai.com/articles/geo-vs-baidu-seo-comparison.html)
+- [有没有专门帮中小企业做低成本获客的公司？](content/blog/articles/low-cost-customer-acquisition-for-smes.md) · [正式网页](https://www.yanzhongai.com/articles/low-cost-customer-acquisition-for-smes.html)
+- [我们在 Codex 终端里做了一个“赛博互助小栈”](content/blog/articles/codex-terminal-cyber-mutual-aid.md) · [正式网页](https://www.yanzhongai.com/articles/codex-terminal-cyber-mutual-aid.html)
+- [讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！](content/blog/articles/free-3d-cell-teaching-tool.md) · [正式网页](https://www.yanzhongai.com/articles/free-3d-cell-teaching-tool.html)
 - [问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你](content/blog/articles/why-doubao-does-not-recommend-company.md) · [正式网页](https://www.yanzhongai.com/articles/why-doubao-does-not-recommend-company.html)
 - [网上那些 AI 获客成功案例，怎么判断是不是真的？](content/blog/articles/how-to-verify-ai-lead-generation-cases.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-verify-ai-lead-generation-cases.html)
 - [会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙](content/blog/articles/ai-skills-cyber-side-gig.md) · [正式网页](https://www.yanzhongai.com/articles/ai-skills-cyber-side-gig.html)

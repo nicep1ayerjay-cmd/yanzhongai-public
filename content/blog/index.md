@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-27"
-source_hash: "4b976dcc5c433e8f1ff00fd6d85567d2f5e75c175d09b113fbab41959aad6392"
+lastmod: "2026-10-28"
+source_hash: "bb32765460280ebca22692d5569d09eea7a6e021f16f138f49b34f0fc853ae3c"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,39 @@ source_hash: "4b976dcc5c433e8f1ff00fd6d85567d2f5e75c175d09b113fbab41959aad6392"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[豆包获客
+[GEO优化
+
+### GEO 和以前的百度做排名到底有啥不一样？一张表看明白
+
+导读 ：从“刷点击、买外链、堆关键词”，到“结构化事实、信源背书、因果推理”。弄不懂这层底层逻辑，做再多推广也是白扔钱。
+
+2026-10-28 阅读全文 →
+
+](/articles/geo-vs-baidu-seo-comparison.html)[豆包获客
+
+### 有没有专门帮中小企业做低成本获客的公司？
+
+市面上确实存在大量声称能够帮助中小企业获客的服务公司，涵盖信息流投放代理、搜索引擎优化、短视频代运营、电话获客以及各类线索分发平台。但对于企业老板和市场负责人而言，真正的核心问题往往不是“有没有这样的公司”，而是“市场上那些标榜‘低成本’的获客方案，在实际执行中是否真的能做到低成本”。
+
+2026-10-28 阅读全文 →
+
+](/articles/low-cost-customer-acquisition-for-smes.html)[AI效率
+
+### 我们在 Codex 终端里做了一个“赛博互助小栈”
+
+深夜两点，终端里的光标在规律地闪烁。
+
+2026-10-28 阅读全文 →
+
+](/articles/codex-terminal-cyber-mutual-aid.html)[AI教育
+
+### 讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！
+
+教初中生物整整十年，每年七年级上册第一单元，都是我和学生的一场“劫”。
+
+2026-10-28 阅读全文 →
+
+](/articles/free-3d-cell-teaching-tool.html)[豆包获客
 
 ### 问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你
 

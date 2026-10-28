@@ -1585,6 +1585,10 @@
 
 ## 言中行业文章
 
+- [有没有专门帮中小企业做低成本获客的公司？](content/blog/articles/low-cost-customer-acquisition-for-smes.md)
+- [GEO 和以前的百度做排名到底有啥不一样？一张表看明白](content/blog/articles/geo-vs-baidu-seo-comparison.md)
+- [讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！](content/blog/articles/free-3d-cell-teaching-tool.md)
+- [我们在 Codex 终端里做了一个“赛博互助小栈”](content/blog/articles/codex-terminal-cyber-mutual-aid.md)
 - [问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你](content/blog/articles/why-doubao-does-not-recommend-company.md)
 - [网上那些 AI 获客成功案例，怎么判断是不是真的？](content/blog/articles/how-to-verify-ai-lead-generation-cases.md)
 - [会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙](content/blog/articles/ai-skills-cyber-side-gig.md)
@@ -1601,10 +1605,6 @@
 - [本地高客单实体的终极流量革命：客户下单前全在问 AI，如何靠“豆包搜索优化”截流全城优质客？](content/blog/articles/local-high-ticket-ai-decision-doubao.md)
 - [2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路](content/blog/articles/traditional-seo-vs-geo-ai-recommendation.md)
 - [行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/home-renovation-doubao-reputation-defense.md)
-- [同行内卷绝境与 AI 决策截流：当同行还在卷传统平台，聪明的老板已经把获客阵地搬到了“豆包”](content/blog/articles/doubao-customer-acquisition-vs-traditional-platforms.md)
-- [传统买量枯竭下的突围革命：花几十万投流，不如让豆包主动推荐你一次](content/blog/articles/doubao-recommendation-vs-paid-traffic.md)
-- [决胜决策最后一环：为什么 GEO 本质也是曝光，但转化率却能成倍碾压传统广告？](content/blog/articles/geo-conversion-rate-vs-exposure-ads.md)
-- [形式主义的黄昏：深度解构“GEO 是不是发稿就可以？”](content/blog/articles/is-content-publishing-enough-for-geo.md)
 
 ## 公开项目说明
 
