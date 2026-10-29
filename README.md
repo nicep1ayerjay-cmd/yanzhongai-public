@@ -1610,6 +1610,9 @@
 
 ## 言中行业文章
 
+- [我们公司就几个人，做 GEO 到底有没有用？](content/blog/articles/small-company-geo-value.md)
+- [别人都在学 AI 变现，普通人其实只要会“甩锅”给会用的人就行了](content/blog/articles/ordinary-people-ai-delegation.md)
+- [工厂除了百度竞价，还有哪些渠道实际带来过订单？](content/blog/articles/factory-lead-channels-beyond-baidu.md)
 - [有没有专门帮中小企业做低成本获客的公司？](content/blog/articles/low-cost-customer-acquisition-for-smes.md)
 - [GEO 和以前的百度做排名到底有啥不一样？一张表看明白](content/blog/articles/geo-vs-baidu-seo-comparison.md)
 - [讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！](content/blog/articles/free-3d-cell-teaching-tool.md)
@@ -1627,9 +1630,6 @@
 - [行业深度调查报告：解构生成式 AI 时代的“医疗获客洗牌”与医美口腔豆包搜索优化攻防体系](content/blog/articles/medical-aesthetic-dental-doubao-customer-interception.md)
 - [行业深度调查报告：解构 2026“G·E·O 隐形截流”暗战与企业 AI 搜索获客攻防体系](content/blog/articles/geo-invisible-customer-interception.md)
 - [行业深度调查报告：解构生成式 AI 时代的“品牌声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/doubao-brand-reputation-black-hole.md)
-- [本地高客单实体的终极流量革命：客户下单前全在问 AI，如何靠“豆包搜索优化”截流全城优质客？](content/blog/articles/local-high-ticket-ai-decision-doubao.md)
-- [2026年企业流量大迁徙深度调查报告：从传统 SEO 霸屏的黄昏，到 GEO 生成式引擎推荐的破局之路](content/blog/articles/traditional-seo-vs-geo-ai-recommendation.md)
-- [行业深度调查报告：解构生成式 AI 时代的“装企声誉黑洞”与豆包搜索优化攻防体系](content/blog/articles/home-renovation-doubao-reputation-defense.md)
 
 ## 公开项目说明
 

@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-28"
-source_hash: "bb32765460280ebca22692d5569d09eea7a6e021f16f138f49b34f0fc853ae3c"
+lastmod: "2026-10-29"
+source_hash: "42b088de136e883ac0a6c2063568d6257bb52c94d6e26665c582f9c8567a5018"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,31 @@ source_hash: "bb32765460280ebca22692d5569d09eea7a6e021f16f138f49b34f0fc853ae3c"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO优化
+[豆包获客
+
+### 工厂除了百度竞价，还有哪些渠道实际带来过订单？
+
+很多工业品与机械制造工厂的老板和市场负责人在复盘获客成本时，都会面临同样的困惑：百度竞价的单次点击价格逐年攀升，预算消耗越来越快，但后台获取的有效线索比例却在下降。大量预算被同行误点、非目标个人咨询或宽泛词汇消耗，而真正带着明确技术图纸、采购预算和大批量订单意向的优质客户，获取难度却越来越大。
+
+2026-10-29 阅读全文 →
+
+](/articles/factory-lead-channels-beyond-baidu.html)[GEO优化
+
+### 我们公司就几个人，做 GEO 到底有没有用？
+
+导读 ：打破“大集团才配做 AI 推广”的偏见。越是小而美的垂直企业，在 AI 推荐时代弯道超车的几率越大。
+
+2026-10-29 阅读全文 →
+
+](/articles/small-company-geo-value.html)[AI效率
+
+### 别人都在学 AI 变现，普通人其实只要会“甩锅”给会用的人就行了
+
+“普通人抓住 AI 红利的最后机会！” “学会这套 AI 工具流，月入过万不是梦！” “30 岁程序员转行 AI 提示词工程师，年薪翻倍……”
+
+2026-10-29 阅读全文 →
+
+](/articles/ordinary-people-ai-delegation.html)[GEO优化
 
 ### GEO 和以前的百度做排名到底有啥不一样？一张表看明白
 

@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3110 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3113 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,9 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [工厂除了百度竞价，还有哪些渠道实际带来过订单？](content/blog/articles/factory-lead-channels-beyond-baidu.md) · [正式网页](https://www.yanzhongai.com/articles/factory-lead-channels-beyond-baidu.html)
+- [我们公司就几个人，做 GEO 到底有没有用？](content/blog/articles/small-company-geo-value.md) · [正式网页](https://www.yanzhongai.com/articles/small-company-geo-value.html)
+- [别人都在学 AI 变现，普通人其实只要会“甩锅”给会用的人就行了](content/blog/articles/ordinary-people-ai-delegation.md) · [正式网页](https://www.yanzhongai.com/articles/ordinary-people-ai-delegation.html)
 - [GEO 和以前的百度做排名到底有啥不一样？一张表看明白](content/blog/articles/geo-vs-baidu-seo-comparison.md) · [正式网页](https://www.yanzhongai.com/articles/geo-vs-baidu-seo-comparison.html)
 - [有没有专门帮中小企业做低成本获客的公司？](content/blog/articles/low-cost-customer-acquisition-for-smes.md) · [正式网页](https://www.yanzhongai.com/articles/low-cost-customer-acquisition-for-smes.html)
 - [我们在 Codex 终端里做了一个“赛博互助小栈”](content/blog/articles/codex-terminal-cyber-mutual-aid.md) · [正式网页](https://www.yanzhongai.com/articles/codex-terminal-cyber-mutual-aid.html)
