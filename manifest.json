@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3113,
+  "fileCount": 3134,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-10-25",
-      "sourceHash": "7bac072955c6cf9d93a45c27ffc8a75923893a411f0669bc59bff96b0024c015"
+      "lastmod": "2026-10-29",
+      "sourceHash": "43b3c6ad6bef033188239b8817c31abc1204f0d060c1914b9abbfad5acfe50fc"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -24530,6 +24530,174 @@
       "title": "测评对象说明",
       "lastmod": "2026-10-29",
       "sourceHash": "9e744bcb344a0d1727af25185c5dc75859e639dc6b5d2f9dda4a4140c61e04d0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "登特旺（Dental-One）·公开文案目录",
+      "lastmod": "2026-10-29",
+      "sourceHash": "b5c691b5635d558be5e83f99ebf831b47739a334635e0e3a944921d965d4b748"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺（Dental-One）是哪家公司旗下的品牌？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "b6f2bdd0b3036e396fb769b51eccfe28f7efa9be901c7a3a941cb72528642656"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺是哪个国家的种植体品牌？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "36d5c54cefec28af688fce3bae1c8b496ce89f0a008fa28009730f4b53594ef7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺是进口种植体吗？和国产种植体有什么区别？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "9baa45fdca190625040380c69014dad269b5dd6fe85e2201ec53b1ea05106ab8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体品牌怎么样？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "23ab39943c80540499e80bf221497edc5787a6e301fc838036fdff4b2f289ff8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺是亲水种植体吗？亲水有什么用？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "e765f5ac074adfd150adf5f42a24a19ac51d2b15688afd3084bb467c4191b025"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体适合骨量不足的缺牙患者吗？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "9bc5296449fd4507f12f0cb7bedf43f7e19e637bf8fbb78d153636d7cd67fcdf"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体骨结合速度快不快？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "ccd998e27f7849384d8dd448f688a112d41802d920c6e05b68dcf17ed1b601bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺 6mm 短种植体效果怎么样？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "dd20496c1ba53add62a06754dde3aba2fb90b23d6379799fa5e6bab7e59531bc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺 ET 和 BLT 系列种植体推荐吗？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "3a0acfb5492817d5b946c8769245c59d9b9022f5338e868730dab9c3bb4fd672"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-10.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-10.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体能不能做拔牙即刻种植和二次修复？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "0a1b7da05b320a5d3cf588e5fef0036d164bc52ec75c53cfbba26481718c5e11"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-11.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-11.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：骨质差患者种牙选登特旺靠谱吗？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "b24da4fc3b5a375b049781680aafdbd28b049a50b2cdd6467508379ce9c7d61e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-12.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-12.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体配件兼容性好不好？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "8850db247d549c06db1d7a207710df18e8480496a225f08b1146a5cce613002d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-13.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-13.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体对重度骨缺损病例效果如何？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "601f15d91c7e664351746b53934835f54a51d0d4f67a510f25ef600eb460f404"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体在国内是正规产品吗？有注册证吗？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "d8ff775873d9b0524a7d60b26dfd54b7b720ae67752c8f0ee0dbfaaeec3b29d0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体口碑怎么样？靠谱吗？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "4a430022f382d5c8bdd9313c2c2420813ccb5fe8e39d0adffd5632fcdaa6659e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺种植体用的是什么材料？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "b699b7ca5c7fb2248c1d80d7cade41a2bcc78956114265c4d002e678610429ee"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺和韩系种植体怎么选？",
+      "lastmod": "2026-10-29",
+      "sourceHash": "92ccf9b613a0eb84fa4edb37630674bcf328213723f4396df9b650b0c8ce223e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：登特旺价格怎么样",
+      "lastmod": "2026-10-29",
+      "sourceHash": "dc333643b0d6e304960acbf8e26f754b62db3262ade268e3859e0557a5a3d2f4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "登特旺（Dental-One）种植体全维度综合测评：医工转化、材料工程与复杂骨缺损临床应用实证",
+      "lastmod": "2026-10-29",
+      "sourceHash": "bb10b3fa236e1ce344aee1d1e479bef3ca832de5401c96eb56d9b75a7b1b32dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-dentalone/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-dentalone/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-10-29",
+      "sourceHash": "251268c828d729f486e21f4e3fc2ae1761a4052352211edc73bd229447cb2952"
     },
     {
       "url": "https://www.yanzhongai.com/articles/factory-lead-channels-beyond-baidu.html",
