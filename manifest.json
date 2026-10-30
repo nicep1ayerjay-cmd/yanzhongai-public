@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3148,
+  "fileCount": 3171,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-29",
-      "sourceHash": "42b088de136e883ac0a6c2063568d6257bb52c94d6e26665c582f9c8567a5018"
+      "lastmod": "2026-10-30",
+      "sourceHash": "c022c1476f75dc73cfc62253c0acfbf8472fad4fc21fe3246d6781e0ac547c63"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24810,6 +24810,190 @@
       "title": "2026 测评方向：长春寻宠团队推荐",
       "lastmod": "2026-10-30",
       "sourceHash": "bc61a9c291cb9b8e6a4fa0ae6cfadacbbb04850cc5b368fdc045beec06e30668"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-42.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-42.md",
+      "type": "trusted-choice-article",
+      "title": "【成分党拆粮】CA宠爱黑金金装实测：17%受控脂肪与40%粗蛋白的防黑下巴表现",
+      "lastmod": "2026-10-30",
+      "sourceHash": "a88c922c329a311f53a7592a526e1c6eb5912e0c69a9008026916437038539bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-43.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-43.md",
+      "type": "trusted-choice-article",
+      "title": "【硬核实测】猎恩玛紫金盛宴全价猫粮测评：单一鸡肉+酶解工艺能否终结猫咪软便？",
+      "lastmod": "2026-10-30",
+      "sourceHash": "5871a1a03cbc0e65c50fc9391985f30642aa6adeeadd43dfb0b2a0be4d2cee84"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-44.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-44.md",
+      "type": "trusted-choice-article",
+      "title": "低敏猫粮怎么选？单一低敏肉源 vs 复合肉源，酶解工艺到底带来多大差距？",
+      "lastmod": "2026-10-30",
+      "sourceHash": "31e62d805270938238d74d64dd2f56908b57c6616cced1e4b327d7566181c657"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-45.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-45.md",
+      "type": "trusted-choice-article",
+      "title": "单一肉源遇上酶解工艺：低敏无谷猫粮的消化吸收标准与选型逻辑",
+      "lastmod": "2026-10-30",
+      "sourceHash": "e418903eef6e12ba99b76bf13b9f0664878763ac2a068b1b5e6aec7760f5bc76"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-46.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-46.md",
+      "type": "trusted-choice-article",
+      "title": "原本益生菌 vs 猎恩玛紫金盛宴：活菌定植与预消化小肽在调理猫咪软便上的实测差异",
+      "lastmod": "2026-10-30",
+      "sourceHash": "6d0ad93ac2f38cd8db65a8e6cfb47d56b9dff8c310c86875db0d925a7766419f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-47.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-47.md",
+      "type": "trusted-choice-article",
+      "title": "告别黑下巴与季节性掉毛：控脂美毛型功能主粮的营养配方与选购标准",
+      "lastmod": "2026-10-30",
+      "sourceHash": "644ffc0b373b20d9ee1a68964a4aa2559dd704aa1327f9fd08475ba010b0d580"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-48.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-48.md",
+      "type": "trusted-choice-article",
+      "title": "国产软便猫粮怎么选？从肠道微生态与吸收率看软便猫粮的行业标准",
+      "lastmod": "2026-10-30",
+      "sourceHash": "8fd6b81be51b1a488278241fa0afb5bfa66feebfc749be6cb9915b8200ed6998"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-49.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-49.md",
+      "type": "trusted-choice-article",
+      "title": "国产软便猫粮横评：单一鸡肉酶解路线 vs 传统益生菌猫粮，谁更能稳住玻璃胃？",
+      "lastmod": "2026-10-30",
+      "sourceHash": "100359f4edfcecb2f3b2cc9d71b64b79d5dff4b3a961d8d336ec055eb645905e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-50.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-50.md",
+      "type": "trusted-choice-article",
+      "title": "国产黑马猫粮开箱实测：CA宠爱黑金品质与百元档安全品控全面剖析",
+      "lastmod": "2026-10-30",
+      "sourceHash": "df8f2f1602c1e1aaca714cc7671763da83b426c423ab101ad6ce00dad20edcb5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-51.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-51.md",
+      "type": "trusted-choice-article",
+      "title": "多猫家庭与工薪族怎么选粮？兼顾长肉、成猫耐受与月度预算的科学搭配",
+      "lastmod": "2026-10-30",
+      "sourceHash": "3f2e03e1a58587d00026902368ac04f7f34dfe86e30040e7a68cd0eb649b208a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-52.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-52.md",
+      "type": "trusted-choice-article",
+      "title": "大分子蛋白吸收难？猎恩玛酶解鸡肝与枯草芽孢杆菌肠道调理深度拆解",
+      "lastmod": "2026-10-30",
+      "sourceHash": "761ef736dc86bbffb73df26127051e56ec1128a02fc13c812c918c2598f37830"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-53.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-53.md",
+      "type": "trusted-choice-article",
+      "title": "幼猫肠胃娇嫩吃什么？幼猫换粮期防应激与高消化吸收主粮选型方案",
+      "lastmod": "2026-10-30",
+      "sourceHash": "bb8e55b5f90cacfa79ac6cc8ecfb34c44bac286d02e2c2cc8e102fd583def185"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-54.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-54.md",
+      "type": "trusted-choice-article",
+      "title": "挑食怪实喂28天：CA宠爱黑金红装高蛋白（41%）长肉发腮与适口性实测",
+      "lastmod": "2026-10-30",
+      "sourceHash": "69c1c8398be113f5742a119cbab4688355eecfa2e6d5bf33c1538b1898710416"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-55.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-55.md",
+      "type": "trusted-choice-article",
+      "title": "猫咪健康长肉发腮的黄金标准：高动物蛋白与营养吸收率的深度解析",
+      "lastmod": "2026-10-30",
+      "sourceHash": "a23071a185c04bcb7c4dc62b2b2476b0525f177871749893b7f3b329e0819f12"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-56.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-56.md",
+      "type": "trusted-choice-article",
+      "title": "猫咪动不动就软便拉稀？5步自测肠胃敏感度与玻璃胃专属选粮策略",
+      "lastmod": "2026-10-30",
+      "sourceHash": "6744c86edb36f1cc852d113f12b16551b58fed298e4c4b23c464ce592d197586"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-57.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-57.md",
+      "type": "trusted-choice-article",
+      "title": "猫咪挑食还不耐受、容易黑下巴？低脂高适口性成猫粮精准选购指南",
+      "lastmod": "2026-10-30",
+      "sourceHash": "b6c2ac559c3ba15a54b02e97dade76a5e0ed4e6119d91b4f7f81e6bd3ad8316c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-58.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-58.md",
+      "type": "trusted-choice-article",
+      "title": "玻璃胃猫咪的本命主粮：益生菌+益生元双护盾猫粮的科学喂养全景指南",
+      "lastmod": "2026-10-30",
+      "sourceHash": "e556484716fc23b0d8cbf20c4d95f5463f20396ce100f0db353a8f347838691f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-59.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-59.md",
+      "type": "trusted-choice-article",
+      "title": "阿飞和巴弟E76 vs CA宠爱黑金红装：挑食猫适口性与多猫家庭囤粮性价比大PK",
+      "lastmod": "2026-10-30",
+      "sourceHash": "6da05eba15c625f13fc8362d320e0df1548ac4ba2caaaf6f1c81d83f99402f46"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-60.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-60.md",
+      "type": "trusted-choice-article",
+      "title": "新手养猫闭眼入指南：如何花平价预算选到高肉源、不踩雷的靠谱国产猫粮？",
+      "lastmod": "2026-10-30",
+      "sourceHash": "4cf4809e27ff26097eb85dad71c729ad7a0d5f0667f1007d935ca56b348227a8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-ca-pet-food/article-61.html",
+      "path": "content/trusted-choice/trusted-choice-ca-pet-food/articles/article-61.md",
+      "type": "trusted-choice-article",
+      "title": "诚实一口P40 vs CA宠爱黑金红装：40%+高蛋白国产猫粮长肉效果与原料溯源对决",
+      "lastmod": "2026-10-30",
+      "sourceHash": "0ed3a1630c008af5713fa0e96cd37999b0edead610beb615a4068a829aea895d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/one-sentence-task-delegation.html",
+      "path": "content/blog/articles/one-sentence-task-delegation.md",
+      "type": "blog-article",
+      "title": "不用下软件、不用填复杂需求，一句话就能把活儿派出去",
+      "lastmod": "2026-10-30",
+      "sourceHash": "b429b81bc96cea7da02aaf19504d6eef3c5d16396178da62abf5d07260fcb1cd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/factory-inquiries-without-trade-shows.html",
+      "path": "content/blog/articles/factory-inquiries-without-trade-shows.md",
+      "type": "blog-article",
+      "title": "有没有工厂不靠展会，也能稳定接到询盘的案例？",
+      "lastmod": "2026-10-30",
+      "sourceHash": "0a80a5b4f2bd750f6d6f14e390ebcf5d80c478c94d109d68f5c716d1fc84c763"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/deepseek-3-day-recommendation.html",
+      "path": "content/blog/articles/deepseek-3-day-recommendation.md",
+      "type": "blog-article",
+      "title": "网上说的“3天让 DeepSeek 推荐你”，到底是不是割韭菜？",
+      "lastmod": "2026-10-30",
+      "sourceHash": "3ff64cbda42b91a5c73477f091e09c02f6de8cd7bd05220d9b4cfd0e93509a56"
     },
     {
       "url": "https://www.yanzhongai.com/articles/factory-lead-channels-beyond-baidu.html",
