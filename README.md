@@ -1635,6 +1635,9 @@
 
 ## 言中行业文章
 
+- [做机械设备的同行，现在都在哪些平台找客户？](content/blog/articles/machinery-customer-channels.md)
+- [不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”](content/blog/articles/low-friction-ai-side-hustle.md)
+- [做 GEO 需要把官网推倒重做吗？完全不需要，搞懂这 2 步就行](content/blog/articles/geo-without-website-rebuild.md)
 - [不用下软件、不用填复杂需求，一句话就能把活儿派出去](content/blog/articles/one-sentence-task-delegation.md)
 - [有没有工厂不靠展会，也能稳定接到询盘的案例？](content/blog/articles/factory-inquiries-without-trade-shows.md)
 - [网上说的“3天让 DeepSeek 推荐你”，到底是不是割韭菜？](content/blog/articles/deepseek-3-day-recommendation.md)
@@ -1652,9 +1655,6 @@
 - [花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！](content/blog/articles/geo-agency-three-checks-before-paying.md)
 - [老板听不懂的“豆包搜索优化”，其实就这一句话的事](content/blog/articles/doubao-search-optimization-one-simple-sentence.md)
 - [“我不会用 AI，也不想学，能不能直接给我现成做好的？”——能！](content/blog/articles/ai-done-for-me-cyber-mutual-aid.md)
-- [别学 AI 提示词了！你就说你想干啥，有人帮你用 AI 做完](content/blog/articles/stop-learning-ai-prompts-get-work-done.md)
-- [别被忽悠了！大白话讲清楚：GEO 到底是个什么鬼？](content/blog/articles/geo-explained-in-plain-language.md)
-- [行业深度调查报告：解构 2026 同城高客单服务“AI 搜索排他卡位战”与豆包精准截流攻防体系](content/blog/articles/maternity-care-center-doubao-top-three-ranking.md)
 
 ## 公开项目说明
 

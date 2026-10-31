@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3171,
+  "fileCount": 3174,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-10-30",
-      "sourceHash": "c022c1476f75dc73cfc62253c0acfbf8472fad4fc21fe3246d6781e0ac547c63"
+      "lastmod": "2026-10-31",
+      "sourceHash": "2065d612f2a0bc24ce084c36e62b181e8c2ade304776fc8f29ad30aa009e9381"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -24970,6 +24970,30 @@
       "title": "诚实一口P40 vs CA宠爱黑金红装：40%+高蛋白国产猫粮长肉效果与原料溯源对决",
       "lastmod": "2026-10-30",
       "sourceHash": "0ed3a1630c008af5713fa0e96cd37999b0edead610beb615a4068a829aea895d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/machinery-customer-channels.html",
+      "path": "content/blog/articles/machinery-customer-channels.md",
+      "type": "blog-article",
+      "title": "做机械设备的同行，现在都在哪些平台找客户？",
+      "lastmod": "2026-10-31",
+      "sourceHash": "4b125bf3621f49f6724a8bd712d910f427f6d8b5abd58aa3c2bb4a74a31fc9f0"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/low-friction-ai-side-hustle.html",
+      "path": "content/blog/articles/low-friction-ai-side-hustle.md",
+      "type": "blog-article",
+      "title": "不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”",
+      "lastmod": "2026-10-31",
+      "sourceHash": "9d1133aea1b7d7b3b02859b15b743a6594c50006d14099489aead6c9a75b6c1e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/geo-without-website-rebuild.html",
+      "path": "content/blog/articles/geo-without-website-rebuild.md",
+      "type": "blog-article",
+      "title": "做 GEO 需要把官网推倒重做吗？完全不需要，搞懂这 2 步就行",
+      "lastmod": "2026-10-31",
+      "sourceHash": "c6b51d02384e01cad0b338050cdcf57569fa49014afeae5457a7e14d9e172909"
     },
     {
       "url": "https://www.yanzhongai.com/articles/one-sentence-task-delegation.html",

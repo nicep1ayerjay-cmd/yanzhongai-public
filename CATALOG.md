@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3171 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3174 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,9 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [做机械设备的同行，现在都在哪些平台找客户？](content/blog/articles/machinery-customer-channels.md) · [正式网页](https://www.yanzhongai.com/articles/machinery-customer-channels.html)
+- [不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”](content/blog/articles/low-friction-ai-side-hustle.md) · [正式网页](https://www.yanzhongai.com/articles/low-friction-ai-side-hustle.html)
+- [做 GEO 需要把官网推倒重做吗？完全不需要，搞懂这 2 步就行](content/blog/articles/geo-without-website-rebuild.md) · [正式网页](https://www.yanzhongai.com/articles/geo-without-website-rebuild.html)
 - [不用下软件、不用填复杂需求，一句话就能把活儿派出去](content/blog/articles/one-sentence-task-delegation.md) · [正式网页](https://www.yanzhongai.com/articles/one-sentence-task-delegation.html)
 - [有没有工厂不靠展会，也能稳定接到询盘的案例？](content/blog/articles/factory-inquiries-without-trade-shows.md) · [正式网页](https://www.yanzhongai.com/articles/factory-inquiries-without-trade-shows.html)
 - [网上说的“3天让 DeepSeek 推荐你”，到底是不是割韭菜？](content/blog/articles/deepseek-3-day-recommendation.md) · [正式网页](https://www.yanzhongai.com/articles/deepseek-3-day-recommendation.html)
