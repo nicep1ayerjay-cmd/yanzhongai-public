@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-10-31"
-source_hash: "2065d612f2a0bc24ce084c36e62b181e8c2ade304776fc8f29ad30aa009e9381"
+lastmod: "2026-11-04"
+source_hash: "dc8fdac8ae5be3fcc83c0efabc6c815e4c71912e6ea64281aba4905ad0cf35cc"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,31 @@ source_hash: "2065d612f2a0bc24ce084c36e62b181e8c2ade304776fc8f29ad30aa009e9381"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[豆包获客
+[GEO
+
+### 为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？
+
+导读 ：这不是一次普通的技术革新，而是一场商业权力的大转移。谁掌握了被 AI 推荐的密码，谁就拿到了未来十年的门票。
+
+2026-11-04 阅读全文 →
+
+](/articles/2026-business-ai-recommendation-mechanism.html)[AI Agent
+
+### 为什么纯靠全自动 Agent 走不通？谈谈“人机混编”的架构实践
+
+过去一年里，几乎每个技术社区都在上演同一种叙事：从最初的 AutoGPT 到各种宣称“几句话交付完整系统”的自治智能体，AI 仿佛一夜之间就能推平软件工程的所有壁垒。
+
+2026-11-04 阅读全文 →
+
+](/articles/why-fully-autonomous-agents-fail.html)[豆包获客
+
+### 有工厂靠豆包接到采购询盘的吗？
+
+在制造企业老板和市场负责人的交流圈子里，关于AI搜索的讨论最近明显增多。不少管理者在测试豆包等AI工具时发现，当输入“华东地区有哪些大型注塑机源头厂家”或“精密五金冲压件选型哪家比较好”时，AI会列出几家知名同行的名字，甚至给出推荐理由。这种现象引发了工业制造业群体的普遍好奇与焦虑：到底有没有工厂真的靠豆包等AI问答接到了真实的采购询盘？
+
+2026-11-04 阅读全文 →
+
+](/articles/doubao-factory-procurement-inquiries.html)[豆包获客
 
 ### 做机械设备的同行，现在都在哪些平台找客户？
 

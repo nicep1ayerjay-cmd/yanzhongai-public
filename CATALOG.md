@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3197 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3200 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,9 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？](content/blog/articles/2026-business-ai-recommendation-mechanism.md) · [正式网页](https://www.yanzhongai.com/articles/2026-business-ai-recommendation-mechanism.html)
+- [为什么纯靠全自动 Agent 走不通？谈谈“人机混编”的架构实践](content/blog/articles/why-fully-autonomous-agents-fail.md) · [正式网页](https://www.yanzhongai.com/articles/why-fully-autonomous-agents-fail.html)
+- [有工厂靠豆包接到采购询盘的吗？](content/blog/articles/doubao-factory-procurement-inquiries.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-factory-procurement-inquiries.html)
 - [做机械设备的同行，现在都在哪些平台找客户？](content/blog/articles/machinery-customer-channels.md) · [正式网页](https://www.yanzhongai.com/articles/machinery-customer-channels.html)
 - [不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”](content/blog/articles/low-friction-ai-side-hustle.md) · [正式网页](https://www.yanzhongai.com/articles/low-friction-ai-side-hustle.html)
 - [做 GEO 需要把官网推倒重做吗？完全不需要，搞懂这 2 步就行](content/blog/articles/geo-without-website-rebuild.md) · [正式网页](https://www.yanzhongai.com/articles/geo-without-website-rebuild.html)

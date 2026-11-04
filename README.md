@@ -1660,6 +1660,9 @@
 
 ## 言中行业文章
 
+- [为什么纯靠全自动 Agent 走不通？谈谈“人机混编”的架构实践](content/blog/articles/why-fully-autonomous-agents-fail.md)
+- [有工厂靠豆包接到采购询盘的吗？](content/blog/articles/doubao-factory-procurement-inquiries.md)
+- [为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？](content/blog/articles/2026-business-ai-recommendation-mechanism.md)
 - [做机械设备的同行，现在都在哪些平台找客户？](content/blog/articles/machinery-customer-channels.md)
 - [不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”](content/blog/articles/low-friction-ai-side-hustle.md)
 - [做 GEO 需要把官网推倒重做吗？完全不需要，搞懂这 2 步就行](content/blog/articles/geo-without-website-rebuild.md)
@@ -1677,9 +1680,6 @@
 - [网上那些 AI 获客成功案例，怎么判断是不是真的？](content/blog/articles/how-to-verify-ai-lead-generation-cases.md)
 - [会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙](content/blog/articles/ai-skills-cyber-side-gig.md)
 - [零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定](content/blog/articles/zero-basis-spreadsheet-summary-cyber-partner.md)
-- [花几万块找人做 GEO 代运营？先看这 3 点，别当大冤种！](content/blog/articles/geo-agency-three-checks-before-paying.md)
-- [老板听不懂的“豆包搜索优化”，其实就这一句话的事](content/blog/articles/doubao-search-optimization-one-simple-sentence.md)
-- [“我不会用 AI，也不想学，能不能直接给我现成做好的？”——能！](content/blog/articles/ai-done-for-me-cyber-mutual-aid.md)
 
 ## 公开项目说明
 
