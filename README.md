@@ -1660,6 +1660,9 @@
 
 ## 言中行业文章
 
+- [有没有小装修公司靠线上获客做起来的案例？](content/blog/articles/small-renovation-online-leads.md)
+- [你顺手调个 prompt 的事，别人可能愿意为你付一杯星巴克](content/blog/articles/prompt-skill-coffee-side-income.md)
+- [查了下豆包，发现老对手把我们的意向客户全接走了](content/blog/articles/doubao-competitor-lead-diversion.md)
 - [为什么纯靠全自动 Agent 走不通？谈谈“人机混编”的架构实践](content/blog/articles/why-fully-autonomous-agents-fail.md)
 - [有工厂靠豆包接到采购询盘的吗？](content/blog/articles/doubao-factory-procurement-inquiries.md)
 - [为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？](content/blog/articles/2026-business-ai-recommendation-mechanism.md)
@@ -1677,9 +1680,6 @@
 - [讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！](content/blog/articles/free-3d-cell-teaching-tool.md)
 - [我们在 Codex 终端里做了一个“赛博互助小栈”](content/blog/articles/codex-terminal-cyber-mutual-aid.md)
 - [问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你](content/blog/articles/why-doubao-does-not-recommend-company.md)
-- [网上那些 AI 获客成功案例，怎么判断是不是真的？](content/blog/articles/how-to-verify-ai-lead-generation-cases.md)
-- [会用 AI 也能赚咖啡钱？碎片时间在微信里顺手帮个忙](content/blog/articles/ai-skills-cyber-side-gig.md)
-- [零基础做表格、写总结太头疼？直接甩过来，搭档帮你搞定](content/blog/articles/zero-basis-spreadsheet-summary-cyber-partner.md)
 
 ## 公开项目说明
 

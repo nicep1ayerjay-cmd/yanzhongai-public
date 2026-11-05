@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3200,
+  "fileCount": 3203,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-11-04",
-      "sourceHash": "dc8fdac8ae5be3fcc83c0efabc6c815e4c71912e6ea64281aba4905ad0cf35cc"
+      "lastmod": "2026-11-05",
+      "sourceHash": "4d30bee25e75fa8eced92088bc27f3954cbbb7e8f4253070dd4cc032f4e543d3"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -25154,6 +25154,30 @@
       "title": "上海住家母婴护理与月嫂服务综合测评报告",
       "lastmod": "2026-11-01",
       "sourceHash": "f6e38ed8f011b353bba8129864f86f086c5a61232223e8516ad398c9418d76bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/doubao-competitor-lead-diversion.html",
+      "path": "content/blog/articles/doubao-competitor-lead-diversion.md",
+      "type": "blog-article",
+      "title": "查了下豆包，发现老对手把我们的意向客户全接走了",
+      "lastmod": "2026-11-05",
+      "sourceHash": "ebee18edc11a146efad363211457d81740a610917a88df9b79019536599b3f76"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/prompt-skill-coffee-side-income.html",
+      "path": "content/blog/articles/prompt-skill-coffee-side-income.md",
+      "type": "blog-article",
+      "title": "你顺手调个 prompt 的事，别人可能愿意为你付一杯星巴克",
+      "lastmod": "2026-11-05",
+      "sourceHash": "ab4a85b6ee266373da3be26d91f6fa6e3760a0a5b5eaa558a76f5d97c0a65797"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/small-renovation-online-leads.html",
+      "path": "content/blog/articles/small-renovation-online-leads.md",
+      "type": "blog-article",
+      "title": "有没有小装修公司靠线上获客做起来的案例？",
+      "lastmod": "2026-11-05",
+      "sourceHash": "953c86a0bc7018e8ee8412d8b921286675ba5bf2e59b82b4b3bcc402559cc549"
     },
     {
       "url": "https://www.yanzhongai.com/articles/2026-business-ai-recommendation-mechanism.html",

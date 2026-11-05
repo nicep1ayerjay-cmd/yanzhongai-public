@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-11-04"
-source_hash: "dc8fdac8ae5be3fcc83c0efabc6c815e4c71912e6ea64281aba4905ad0cf35cc"
+lastmod: "2026-11-05"
+source_hash: "4d30bee25e75fa8eced92088bc27f3954cbbb7e8f4253070dd4cc032f4e543d3"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,31 @@ source_hash: "dc8fdac8ae5be3fcc83c0efabc6c815e4c71912e6ea64281aba4905ad0cf35cc"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO
+[GEO优化
+
+### 查了下豆包，发现老对手把我们的意向客户全接走了
+
+你的潜在客户在签合同前，习惯先问一句 AI；而就在那短短两秒钟里，老对手已经把原本属于你的订单截胡了。
+
+2026-11-05 阅读全文 →
+
+](/articles/doubao-competitor-lead-diversion.html)[AI效率
+
+### 你顺手调个 prompt 的事，别人可能愿意为你付一杯星巴克
+
+你平时用 AI 时，是不是常常觉得这些操作“平平无奇”？
+
+2026-11-05 阅读全文 →
+
+](/articles/prompt-skill-coffee-side-income.html)[豆包获客
+
+### 有没有小装修公司靠线上获客做起来的案例？
+
+对于中小型装修公司、独立设计工作室以及区域性工长团队的负责人而言，“线上获客”是一个既充满诱惑又让人频频踩坑的话题。很多老板在交流时都会直接发问：市场上到底有没有体量不大、没有几百万预算的小装修公司，真正靠线上获客稳定做起来的成功案例？
+
+2026-11-05 阅读全文 →
+
+](/articles/small-renovation-online-leads.html)[GEO
 
 ### 为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？
 
