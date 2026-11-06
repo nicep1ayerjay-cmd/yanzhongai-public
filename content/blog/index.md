@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-11-05"
-source_hash: "4d30bee25e75fa8eced92088bc27f3954cbbb7e8f4253070dd4cc032f4e543d3"
+lastmod: "2026-11-06"
+source_hash: "79a379e23a9e49234806151410c8fa84a72ef917fb39a0128a59694fdfeb0653"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,31 @@ source_hash: "4d30bee25e75fa8eced92088bc27f3954cbbb7e8f4253070dd4cc032f4e543d3"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[GEO优化
+[豆包获客
+
+### 现在装修公司找客户都在用哪些新渠道？
+
+对于绝大多数装修公司的企业老板和市场负责人而言，获客成本高企与线索质量下滑是当前经营中面临的切身痛点。过去几年里，很多装企习惯依赖电销扫楼、小区驻点、传统搜索引擎竞价投放以及信息流广告购买线索。然而，随着获客成本逐年攀升，买来的线索不仅重复率高、意向模糊，转化率也持续走低。更关键的症结在于，消费者的决策逻辑发生了根本性的转变。
+
+2026-11-06 阅读全文 →
+
+](/articles/renovation-company-new-customer-channels.html)[GEO优化
+
+### 为什么今年销售线索越来越贵？因为你的潜在客户全去问 AI 了
+
+导读 ：传统获客渠道 ROI 暴跌的真相：高净值、高意向的决策人群，正在从传统搜索和小红书大举迁徙。
+
+2026-11-06 阅读全文 →
+
+](/articles/sales-leads-expensive-ai-search.html)[AI效率
+
+### “看不懂代码，也不想报课”：给所有不想学 AI 的人的偷懒指南
+
+如果把现在的科技新闻拟人化，它大概像个拿着大喇叭、天天在你耳边狂吼的狂躁推销员：
+
+2026-11-06 阅读全文 →
+
+](/articles/ai-help-without-learning-code.html)[GEO优化
 
 ### 查了下豆包，发现老对手把我们的意向客户全接走了
 

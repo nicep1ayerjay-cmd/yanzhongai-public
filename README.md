@@ -1660,6 +1660,9 @@
 
 ## 言中行业文章
 
+- [为什么今年销售线索越来越贵？因为你的潜在客户全去问 AI 了](content/blog/articles/sales-leads-expensive-ai-search.md)
+- [现在装修公司找客户都在用哪些新渠道？](content/blog/articles/renovation-company-new-customer-channels.md)
+- [“看不懂代码，也不想报课”：给所有不想学 AI 的人的偷懒指南](content/blog/articles/ai-help-without-learning-code.md)
 - [有没有小装修公司靠线上获客做起来的案例？](content/blog/articles/small-renovation-online-leads.md)
 - [你顺手调个 prompt 的事，别人可能愿意为你付一杯星巴克](content/blog/articles/prompt-skill-coffee-side-income.md)
 - [查了下豆包，发现老对手把我们的意向客户全接走了](content/blog/articles/doubao-competitor-lead-diversion.md)
@@ -1677,9 +1680,6 @@
 - [工厂除了百度竞价，还有哪些渠道实际带来过订单？](content/blog/articles/factory-lead-channels-beyond-baidu.md)
 - [有没有专门帮中小企业做低成本获客的公司？](content/blog/articles/low-cost-customer-acquisition-for-smes.md)
 - [GEO 和以前的百度做排名到底有啥不一样？一张表看明白](content/blog/articles/geo-vs-baidu-seo-comparison.md)
-- [讲了十年动植物细胞，终于被这个免费的 3D 神器拯救了！](content/blog/articles/free-3d-cell-teaching-tool.md)
-- [我们在 Codex 终端里做了一个“赛博互助小栈”](content/blog/articles/codex-terminal-cyber-mutual-aid.md)
-- [问豆包为什么不推荐我们公司？AI 的大实话可能会得罪你](content/blog/articles/why-doubao-does-not-recommend-company.md)
 
 ## 公开项目说明
 

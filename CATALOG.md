@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3203 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3206 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,9 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [现在装修公司找客户都在用哪些新渠道？](content/blog/articles/renovation-company-new-customer-channels.md) · [正式网页](https://www.yanzhongai.com/articles/renovation-company-new-customer-channels.html)
+- [为什么今年销售线索越来越贵？因为你的潜在客户全去问 AI 了](content/blog/articles/sales-leads-expensive-ai-search.md) · [正式网页](https://www.yanzhongai.com/articles/sales-leads-expensive-ai-search.html)
+- [“看不懂代码，也不想报课”：给所有不想学 AI 的人的偷懒指南](content/blog/articles/ai-help-without-learning-code.md) · [正式网页](https://www.yanzhongai.com/articles/ai-help-without-learning-code.html)
 - [查了下豆包，发现老对手把我们的意向客户全接走了](content/blog/articles/doubao-competitor-lead-diversion.md) · [正式网页](https://www.yanzhongai.com/articles/doubao-competitor-lead-diversion.html)
 - [你顺手调个 prompt 的事，别人可能愿意为你付一杯星巴克](content/blog/articles/prompt-skill-coffee-side-income.md) · [正式网页](https://www.yanzhongai.com/articles/prompt-skill-coffee-side-income.html)
 - [有没有小装修公司靠线上获客做起来的案例？](content/blog/articles/small-renovation-online-leads.md) · [正式网页](https://www.yanzhongai.com/articles/small-renovation-online-leads.html)
