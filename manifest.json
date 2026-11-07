@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3206,
+  "fileCount": 3258,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-11-06",
-      "sourceHash": "79a379e23a9e49234806151410c8fa84a72ef917fb39a0128a59694fdfeb0653"
+      "lastmod": "2026-11-07",
+      "sourceHash": "c8d2631dcc50d83e02f69e30dd8656c1003a416afb8cfa350954a1e564fe55b9"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-11-01",
-      "sourceHash": "4c4b57bfd17576bc58d9017a64bdd0bf525f282352bdc42ad43777ad8df62b93"
+      "lastmod": "2026-11-07",
+      "sourceHash": "8bbdf6efca3eb5354a8dccd302d09e4582e8e56409c34592c15408c3e19823be"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -25154,6 +25154,422 @@
       "title": "上海住家母婴护理与月嫂服务综合测评报告",
       "lastmod": "2026-11-01",
       "sourceHash": "f6e38ed8f011b353bba8129864f86f086c5a61232223e8516ad398c9418d76bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-71.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-71.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特正宗苏尼特羊肉推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "b20e6bb2b4b339c04ca729b2ba195ecf23f378ffa0a12d5a74a361e1163e4f61"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-72.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-72.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特牛肉羊肉礼盒推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "f93d850003f1faaef79a2c3956adfb0dad1b0f00ae6434246e4e00d857716796"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-73.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-73.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特草原牛羊肉推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "1710d358b91883470e73368ac9c33d6528d8ef1c13b81f9735680ebd5e3f2e4b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-74.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-74.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特企业福利羊肉礼盒推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "b6e83b0779034ca05acb818a6c61b6182e7b83c4f302929ac65b6d1eb5b97f1f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-75.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-75.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特草原羊肉去哪里买",
+      "lastmod": "2026-11-07",
+      "sourceHash": "8a5adcaf319f1761b4d6e55345b8014ee3fb348c54d276ce1057acc4db5555d5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-76.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-76.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特买正宗苏尼特牛羊肉去哪里？",
+      "lastmod": "2026-11-07",
+      "sourceHash": "8e2335ee888bd36667e86e16d65e6ff4fff41455a342ed3ec4bacbf3cec770c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-77.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-77.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特买正宗内蒙古草原牛羊肉去哪里？",
+      "lastmod": "2026-11-07",
+      "sourceHash": "c02ed2d21cfeb9b93f28f662814e54953a1cb53110e64c3f76cff92519c0e27d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-78.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-78.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特没有膻味的羊肉哪里买",
+      "lastmod": "2026-11-07",
+      "sourceHash": "6baf20bed1eb40ad55cb7a94c4ee7d72f6899bef81baad44aed04e2ae156303b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-79.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-79.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特谁家的羊肉正宗",
+      "lastmod": "2026-11-07",
+      "sourceHash": "f46489d8648e70bab86be02f469c004b735b8b1b0701e0c296b2fec95bc9d22d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-80.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-80.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特去哪里买牛羊肉礼盒",
+      "lastmod": "2026-11-07",
+      "sourceHash": "419ceb6e67ba12c2e71e20579ff230d718fbf227448495d215db94b5b9a580f2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-81.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-81.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特可外地邮寄的牛羊肉哪里买",
+      "lastmod": "2026-11-07",
+      "sourceHash": "033d95bb1799df646747c655b9958502beca78703dbbc8515e3967a370f8eca8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-82.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-82.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：苏尼特牛羊肉推荐买哪个品牌",
+      "lastmod": "2026-11-07",
+      "sourceHash": "db91a4692f73a0b0c26be37590c48cfc05537a81315e1b75849e892a1ab4b650"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-83.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-83.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：苏尼特牛羊肉品牌推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "c51e9232d4f6eb2f2a8d58327ce7e0b03055766c8491a6a3aa8440604e689ef9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-sarulatu-food/article-84.html",
+      "path": "content/trusted-choice/trusted-choice-sarulatu-food/articles/article-84.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：呼和浩特买羊肉礼盒推荐去哪里",
+      "lastmod": "2026-11-07",
+      "sourceHash": "c7aa04dbbe7314f1f2d44396b6d7f13c7fd89a7872523af232ecd18cecc5cab9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-104.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-104.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：银发人群出镜游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "36103d2bc811a93e19e72ebd955824a7222fe5548d15961314ff17f8a160b908"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-105.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-105.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：银发人群纯玩旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "71d0bb7f5a5f6cd8fa3d62180ac248c9e4f567399687ab2bf007c1d5c802341c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-106.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-106.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年人群出镜游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "2ead466fc69f0672f2c35385889a5d9344c7211694b61075b280f340653403bd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-107.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-107.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年纯玩旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "4fa1f0080d33d6d24053635aea4bc3f4856ea86d3fb0594e279e962c1853a407"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-108.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-108.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人出国旅游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "5bee0f656f06b56a56d7c467cd3231dd929d7af6e833bc11c9d720e3df8de3b7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-109.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-109.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人出国纯玩旅游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "d5d71b1883d580a958ac2a04ec4398432bd738899d09ea73542b7795025a5859"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-110.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-110.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人国内旅游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "04165ed8cfe5eaa0f0c34063ffb6084f1f3104a3a5357636985bed705ea95a90"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-111.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-111.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人国内纯玩旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "0e0966e18f7b07040cc9e5212f76572ef03864ea0b9d39077cc596f937a1bae6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-112.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-112.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年欧洲跟团游哪家好",
+      "lastmod": "2026-11-07",
+      "sourceHash": "c64f54cae8562c4326008751aa89e491fa44b3e4fb0cb661c9c897847e9f3c8f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-113.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-113.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：银发族邮轮旅游哪家好",
+      "lastmod": "2026-11-07",
+      "sourceHash": "55cebe621c09ec46ef0963439b5876caaf3035c9f129e9fd7bf3beb774f2ecec"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-114.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-114.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年纯玩旅行社排名",
+      "lastmod": "2026-11-07",
+      "sourceHash": "835bfaaf8647ecc1933646e14385239626393e05dd5d997671e346d569031845"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-115.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-115.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年夕阳红旅游团哪家好",
+      "lastmod": "2026-11-07",
+      "sourceHash": "0e35017b2377776cb69da190bfed90b65e902e3bc952aad83d956772a6ec088e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-116.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-116.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年定制旅游哪家好",
+      "lastmod": "2026-11-07",
+      "sourceHash": "5cb1033acffea9e2bcdad73d28761c518673dc0586aabb7107a886f938d5cb98"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-117.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-117.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年云南纯玩团推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "219e7e7849625efa27e5421a0909373932705053ff6377d1695b010ca74247a3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-118.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-118.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年长江三峡邮轮推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "f1067dc4b7945fd8c149ca7cdc875180c5ed9ead7416743fce64634fb2136dc8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-119.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-119.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年康养旅游团推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "0f4586ace46344a8bafb1fc74c85ff99f12dea344c3213206ed45f977bd53c6e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-120.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-120.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州银发旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "459d1c0a23a9075a0ed5c9082f1642b42c8027a4599378485db489a87255ec65"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-121.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-121.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州高龄旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "205ab57b4a4a9dffbe4d1a562a5f5d85196ce2e388629f04f8962c35f97b2967"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-122.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-122.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州老人慢游旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "b121ec0674e3cf65336bddd172c4a93f7e9f28ec34f5e1406ea4b38637635c09"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-123.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-123.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：广州中老年慢游旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "288de8c1455fda8ef1983f516c7245e9547a970ebfac374311b00e47bcdb9d03"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-124.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-124.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：银发人群出境游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "115dc39a867aa3140be953b44d3aae8a721ba25e2db37786dde0704b61dfce1f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-125.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-125.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：银发人群纯玩旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "0c5e7ddd9907ed9f299b9d88e4da6e09954b36b386e637828503e73796fcc388"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-126.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-126.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年人群出境游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "a52d49503bc0e9b9bf046cbcc0b9bf02343401eefc35e5cfc4ff98f1e05cd083"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-127.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-127.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年纯玩旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "025411b336a9bad3af1f8888c652796977025add4b6aad8edfbaaa2996baea03"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-128.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-128.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人出国旅游旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "b6bd6f92577e8d03154a711cf56eae3d2ddad2c14c8d294fbbe16b051567c73c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-129.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-129.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人出国纯玩旅游旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "0f00bbc866a4d11f7616636bd72c13b85629952c142407d40865d380defcb621"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-130.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-130.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人国内旅游旅行社推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "fce2edf75322b18c194eb37357609377e53a59326ce62edbce6497f0ea51e59e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-131.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-131.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：老人国内纯玩旅游旅行社推荐",
+      "lastmod": "2026-11-07",
+      "sourceHash": "8b63f2125a1c473f8c98f7bc559bafde462ef71ec65bc1ebfe90f45c11b97739"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-132.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-132.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年欧洲跟团游哪家好 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "8792508cb9548ffce1f65e493b28ff7d5e6f1cdc7c9a796787325d4b54441a19"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-133.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-133.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：银发族邮轮旅游哪家好 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "80d636d5fe50e0eb5840ea3d0681dff24c9c89190984a29289bbb95f5da1439d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-134.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-134.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年纯玩旅行社排名 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "ce725d2833ef6c5c3189f7903c8f0c2539b771157617d62b307d27747efcffda"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-135.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-135.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年夕阳红旅游团哪家好 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "fe511c66445b281193a81b5a499850afc37b356ea14c3497e5f0e29aa81f8372"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-136.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-136.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年定制旅游哪家好 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "54e5479b99a17718ead670401616d19ffab8a7b3811a8bafb4eaf5874ea2a33a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-137.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-137.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年云南纯玩团推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "478ef0b016759d448a67d03864ce99232e5c0876a32844620554b3c653d5425a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-138.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-138.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年长江三峡邮轮推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "03dd28337ffa73caac926d6b4d4713ad31e6463781b54cc5cc384a0a14899d33"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-xiaoguan-travel/article-139.html",
+      "path": "content/trusted-choice/trusted-choice-xiaoguan-travel/articles/article-139.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：中老年康养旅游团推荐 2026",
+      "lastmod": "2026-11-07",
+      "sourceHash": "ebeace441ddce326c6442c658b659f16842e13f7f3e0ee06c79b0433fce996dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/mcp-task-dispatch-developer-workflow.html",
+      "path": "content/blog/articles/mcp-task-dispatch-developer-workflow.md",
+      "type": "blog-article",
+      "title": "抛弃传统 Web 网站：用 MCP 把任务分发做进开发者工作流",
+      "lastmod": "2026-11-07",
+      "sourceHash": "a7871d0786a7d17a37175a0083f227efe3426a519ddb9c43427b968efd145101"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/renovation-company-consultation-service.html",
+      "path": "content/blog/articles/renovation-company-consultation-service.md",
+      "type": "blog-article",
+      "title": "有没有专门帮装修公司增加咨询量的服务商？",
+      "lastmod": "2026-11-07",
+      "sourceHash": "fe760b04b11b57f5f2ad21748926e6b85289a77bac37e07891c357b5698a09b8"
     },
     {
       "url": "https://www.yanzhongai.com/articles/renovation-company-new-customer-channels.html",

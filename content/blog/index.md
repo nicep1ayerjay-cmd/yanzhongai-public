@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-11-06"
-source_hash: "79a379e23a9e49234806151410c8fa84a72ef917fb39a0128a59694fdfeb0653"
+lastmod: "2026-11-07"
+source_hash: "c8d2631dcc50d83e02f69e30dd8656c1003a416afb8cfa350954a1e564fe55b9"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -15,7 +15,23 @@ source_hash: "79a379e23a9e49234806151410c8fa84a72ef917fb39a0128a59694fdfeb0653"
 
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
-[豆包获客
+[AI效率
+
+### 抛弃传统 Web 网站：用 MCP 把任务分发做进开发者工作流
+
+每一个自诩为极客的开发者，骨子里都对沉重的 Web 网站怀有一种本能的抗拒。
+
+2026-11-07 阅读全文 →
+
+](/articles/mcp-task-dispatch-developer-workflow.html)[豆包获客
+
+### 有没有专门帮装修公司增加咨询量的服务商？
+
+在当前的家装与工装市场中，“有没有专门帮装修公司增加咨询量的服务商？”是许多企业老板和市场负责人极为关心的问题。答案是肯定的：市场上一直存在大量声称能够提供获客支持、线索挖掘或营销推广的服务机构。然而，装修企业在实际合作后往往发现，不同服务商的业务底层逻辑、交付成果以及对企业最终经营成果的贡献存在巨大差异。
+
+2026-11-07 阅读全文 →
+
+](/articles/renovation-company-consultation-service.html)[豆包获客
 
 ### 现在装修公司找客户都在用哪些新渠道？
 
