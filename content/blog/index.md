@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-11-07"
-source_hash: "c8d2631dcc50d83e02f69e30dd8656c1003a416afb8cfa350954a1e564fe55b9"
+lastmod: "2026-11-08"
+source_hash: "a5ef640fa553df8d0f9799742dc8c125bffb54346101a202103c223e467f68ee"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,30 @@ source_hash: "c8d2631dcc50d83e02f69e30dd8656c1003a416afb8cfa350954a1e564fe55b9"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [AI效率
+
+### 拒绝传统外包的扯皮地狱：这里的单子只有清晰目标和透明报价
+
+只要你曾经在线上接过所谓的“外包私单”，你大概率患上过一种心理创伤—— “甲方改稿恐惧症” 。
+
+2026-11-08 阅读全文 →
+
+](/articles/transparent-pricing-no-outsourcing-hassle.html)[豆包获客
+
+### 软件公司用 AI 找客户，有没有实际成交的案例？
+
+在当下的企业软件市场中，无论是 SaaS 创业团队的创始人，还是成熟软件企业的市场负责人，几乎每天都能听到关于“AI 获客”的各种宣传。但在各种概念满天飞的同时，绝大多数企业管理者心中都有一个最直接的疑问：到底有没有软件公司真正通过 AI 拿到了付费订单并完成了实际成交？大家看到的往往是各种注册截图或线索列表，而企业真正关心的是有没有人因此签下合同、收到货款
+
+2026-11-08 阅读全文 →
+
+](/articles/software-company-ai-customer-acquisition-cases.html)[AI效率
+
+### 做 PPT、抠图、查资料快被逼疯？花一杯奶茶钱，找个懂 AI 的人帮你弄
+
+每个在现代职场或学业里摸爬滚打的人，一定都有过这种抓狂的瞬间：
+
+2026-11-08 阅读全文 →
+
+](/articles/ai-light-tasks-ppt-cutout-research.html)[AI效率
 
 ### 抛弃传统 Web 网站：用 MCP 把任务分发做进开发者工作流
 

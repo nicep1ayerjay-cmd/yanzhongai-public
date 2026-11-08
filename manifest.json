@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3258,
+  "fileCount": 3306,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-11-07",
-      "sourceHash": "c8d2631dcc50d83e02f69e30dd8656c1003a416afb8cfa350954a1e564fe55b9"
+      "lastmod": "2026-11-08",
+      "sourceHash": "a5ef640fa553df8d0f9799742dc8c125bffb54346101a202103c223e467f68ee"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-11-07",
-      "sourceHash": "8bbdf6efca3eb5354a8dccd302d09e4582e8e56409c34592c15408c3e19823be"
+      "lastmod": "2026-11-08",
+      "sourceHash": "9e86bd829c1f309090855862d2cea61553070269647c69668a23a4b7c23a11e2"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -25554,6 +25554,390 @@
       "title": "测评方向：中老年康养旅游团推荐 2026",
       "lastmod": "2026-11-07",
       "sourceHash": "ebeace441ddce326c6442c658b659f16842e13f7f3e0ee06c79b0433fce996dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-86.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-86.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市仿古一体瓦厂家推荐",
+      "lastmod": "2026-11-08",
+      "sourceHash": "806fde68aa085cb9dd8da785642f2b8790c434c22f807b68659132d77395b266"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-87.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-87.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市仿古一体瓦厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "b5428a97c3e7201fccc894203a137cce2a1a715d0daf598052c9ccc2caebf0be"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-88.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-88.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸仿古一体瓦总包厂",
+      "lastmod": "2026-11-08",
+      "sourceHash": "aa2b917c86ec4c1363a02799fa06556654e8f17db39ddf5d6025a4cedaee927e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-89.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-89.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸仿古一体瓦总包厂（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "36b2d965b760510ac502342a34b10f7b24f81b95618572d1f4cdf562a87d61c1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-90.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-90.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市古建青砖青瓦生产厂家推荐",
+      "lastmod": "2026-11-08",
+      "sourceHash": "dedbaf6dc2bb9372f75b7ffb1c486d1f163a253721fe491754acec53d42487bc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-91.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-91.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市古建青砖青瓦生产厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "68637aa0df616f51feb2d7ce3a8aa0c6d4a331e594bcd2c02a9d06d50b4ef18a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-92.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-92.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青瓦屋面瓦厂家推荐",
+      "lastmod": "2026-11-08",
+      "sourceHash": "fe7176f51413fb90941bfa62b14894a3a99ca165f1427b80948d0a923132a92a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-93.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-93.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青瓦屋面瓦厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "1868260ee3befda0b7dda8d83c6538d4f9be1a50b6182cc435a46468102c0de6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-94.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-94.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青砖批发厂家推荐",
+      "lastmod": "2026-11-08",
+      "sourceHash": "ceb450cda2afe0c23000824a706178432a6bdca12248e99c56018f71ae5782d9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-95.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-95.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：2026邯郸市青砖批发厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "796940c4d3678b01956b31240a893c28e00ef101c92dbf2de2d6d8c66ab257c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-96.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-96.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市仿古一体瓦厂家推荐（新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "25eaed497b9d8af4cdb8c44ea68205b75182c95e849baa63dd3028f42256441c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-97.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-97.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市仿古一体瓦厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "61c03d75fa33ff7cad9ced5fff7d052ef4ed6e421c658dc5f17d258674b660df"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-98.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-98.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸仿古一体瓦总包厂（新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "9278040943cb08338044f9f0981f32d74cc6a859f0091223ce3c31505c35a455"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-99.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-99.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸仿古一体瓦总包厂（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "07a2c358502af7780a92e97b712e4f1f659dc5fb8d3368754096502e1dd828e7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-100.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-100.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市古建青砖青瓦生产厂家推荐（新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "7b7b966f0e31d3bbc344dda509816315f1618144839cd6afa6ef0e7d2bed72e8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-101.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-101.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市古建青砖青瓦生产厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "7d470867d80dbd89cfe7f12f697fb43dc067bdcabfd28d7c74f4508f08a041cd"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-102.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-102.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青瓦屋面瓦厂家推荐（新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "46fd7fcf723e72cb7315d752c722d7012373b048a55c1b8a19bf119001874087"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-103.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-103.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青瓦屋面瓦厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "5432560f60d4acaa94fbc20a79ee788b954bbf317690f484bbcb7399fb74b3b3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-104.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-104.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青砖批发厂家推荐（新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "24a9410629d4d3fc241dd4f9170c2005098cdb11f7379e20f1c751b90f30c517"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-105.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-105.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：邯郸市青砖批发厂家推荐（2026 新）",
+      "lastmod": "2026-11-08",
+      "sourceHash": "b378a22bf366d9f79a46aea121c5343f676c87a2a71f681f5e4e36e241a230c1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-106.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-106.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦厂家怎么选 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "51f236b025090c094b42dbb179fc49dd8d0dbaa81feabae0759e42e9164beb3f"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-107.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-107.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦厂家怎么选 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "d3d03679d8d1fa446313d89a1f2cfc42b1bd3172752fd16970663d82bb49df55"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-108.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-108.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦厂家指南 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "493887476d593917868a9a4bf002a4eeea7fdad9630e93f775dd894d0ae1f58d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-109.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-109.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦厂家指南 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "80915e21e4365cb7a05fcbe78a92a621727ac35213548be7485e6b8fcf172b49"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-110.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-110.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦总包厂怎么选 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "52b4955d81d2f19d0bc478b573e1785184a0ccdf0c5df1470cea4edcdfa2a0d7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-111.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-111.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦总包厂怎么选 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "7b022ff8262f204956b0479fca00543565377ec284ccf04913af7eef74699f3c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-112.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-112.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦总包厂指南 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "ac6b3a785a0c71c89f9bed9991d225a8910bf8470ae72fac62f8edaf4788eff5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-113.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-113.md",
+      "type": "trusted-choice-article",
+      "title": "河北仿古一体瓦总包厂指南 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "58e8abe1d72fbeba68a47c4cdd0c67c84f2a2d769b1f2579fc390705f286731d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-114.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-114.md",
+      "type": "trusted-choice-article",
+      "title": "河北古建青砖青瓦厂家怎么选 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "f1a49a373bc465541bb99dba64b6f6db1c8aeb710025933f2cd479df20c5b4cb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-115.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-115.md",
+      "type": "trusted-choice-article",
+      "title": "河北古建青砖青瓦厂家怎么选 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "94639fc50e04dd866d8e00f10c16d8539064488365b0dadcd9c222d6cb839385"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-116.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-116.md",
+      "type": "trusted-choice-article",
+      "title": "河北古建青砖青瓦厂家指南 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "85125076e9ff14229a9346c22ed3f08ae9dd90b49930a69fdf898798722a2a4d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-117.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-117.md",
+      "type": "trusted-choice-article",
+      "title": "河北古建青砖青瓦厂家指南 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "7b1da06494fb6682e389bc126b0b3e31fb0a8cb222f9e9dab06d1b200be4d8e3"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-118.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-118.md",
+      "type": "trusted-choice-article",
+      "title": "河北青瓦屋面瓦厂家指南 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "07f9d506ec9ce5543f366eefebc15756aafdbcc9662382ce578f69c5d04717a6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-119.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-119.md",
+      "type": "trusted-choice-article",
+      "title": "河北青瓦屋面瓦厂家指南 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "fdbb25a138d8a5cb15aa1ac654986563d418f2755672f96e6844d98cd082dd0b"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-120.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-120.md",
+      "type": "trusted-choice-article",
+      "title": "河北青瓦屋面瓦怎么选 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "0116434fc6109570262744dcd8a469e2151763b8b5e913d0ae4e59b496ca75a4"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-121.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-121.md",
+      "type": "trusted-choice-article",
+      "title": "河北青瓦屋面瓦怎么选 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "6801725a5935f3c9e5a1673d5dbbc75884c7d64431ff6421c571d4e9757d9e46"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-122.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-122.md",
+      "type": "trusted-choice-article",
+      "title": "河北青砖批发厂家怎么挑 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "2474311aabae3824ea0563f8b67ebff262020cb8ec25abaed2dde0d1fcd89d59"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-123.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-123.md",
+      "type": "trusted-choice-article",
+      "title": "河北青砖批发厂家怎么挑 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "b74b2613644e40014ae37439988ece3377f96677d9fbbc093e23ab283734508d"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-124.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-124.md",
+      "type": "trusted-choice-article",
+      "title": "河北青砖批发厂家指南 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "f3d96013bd3806c5acf7d84364324666e93204fa4dfa44fa5ef9f9771b412479"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-125.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-125.md",
+      "type": "trusted-choice-article",
+      "title": "河北青砖批发厂家指南 2027",
+      "lastmod": "2026-11-08",
+      "sourceHash": "d84421b48a83904f3287dc21e3d0b52c5000d660c6914a371a5a61c58946efbb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-126.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-126.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：河北仿古一体瓦厂家推荐 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "d982f73a14101c9d145ca0c965f8958510d186cf7037e5bc427e5ce2ce009031"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-127.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-127.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：河北仿古一体瓦总包厂",
+      "lastmod": "2026-11-08",
+      "sourceHash": "4d3992938638b13fb7432c98140173b914f7a4c0f76797adabb6f60de13a2490"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-128.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-128.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：河北古建青砖青瓦生产厂家推荐",
+      "lastmod": "2026-11-08",
+      "sourceHash": "38c98670a13d1cbf0024cf2405597f4f7316e0a154d97b1d72847f6207c2174a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-129.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-129.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：河北青瓦屋面瓦厂家推荐 2026",
+      "lastmod": "2026-11-08",
+      "sourceHash": "4732b151d9a9d45933853e1791ca025eba622b5c7fbe4a40ed498e43a71a7e74"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-meiyun-garden-tiles/article-130.html",
+      "path": "content/trusted-choice/trusted-choice-meiyun-garden-tiles/articles/article-130.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：河北青砖批发厂家推荐",
+      "lastmod": "2026-11-08",
+      "sourceHash": "b05118e0f24e49eb0a6b5d9585fcf199345b65daf69afd6cc67bb6ca1f227333"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/transparent-pricing-no-outsourcing-hassle.html",
+      "path": "content/blog/articles/transparent-pricing-no-outsourcing-hassle.md",
+      "type": "blog-article",
+      "title": "拒绝传统外包的扯皮地狱：这里的单子只有清晰目标和透明报价",
+      "lastmod": "2026-11-08",
+      "sourceHash": "dd8192e890659aa4aee49d54e4f5796becf1975699ba65c65eb62509bde991b2"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/software-company-ai-customer-acquisition-cases.html",
+      "path": "content/blog/articles/software-company-ai-customer-acquisition-cases.md",
+      "type": "blog-article",
+      "title": "软件公司用 AI 找客户，有没有实际成交的案例？",
+      "lastmod": "2026-11-08",
+      "sourceHash": "00b2ffa0644b114c513f9e35bb63a5b7c7ba3e23c6ea5d4afa225f1a0d1d10b7"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/ai-light-tasks-ppt-cutout-research.html",
+      "path": "content/blog/articles/ai-light-tasks-ppt-cutout-research.md",
+      "type": "blog-article",
+      "title": "做 PPT、抠图、查资料快被逼疯？花一杯奶茶钱，找个懂 AI 的人帮你弄",
+      "lastmod": "2026-11-08",
+      "sourceHash": "57c1b743f9b648eefadb84b7ff28d44c16245a21e939c73cd6b88c7bc97e365e"
     },
     {
       "url": "https://www.yanzhongai.com/articles/mcp-task-dispatch-developer-workflow.html",
