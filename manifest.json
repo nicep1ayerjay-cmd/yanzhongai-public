@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3214,
+  "fileCount": 3251,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-11-11",
-      "sourceHash": "c22eea805b24d116adb1b4ebb170a8f5d5893eeace1902a8782b00a89755570f"
+      "lastmod": "2026-11-15",
+      "sourceHash": "b2aefea23ab50186e661e09a7e9579d164efa2902fffc93e65a20609408f3365"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -25178,6 +25178,302 @@
       "title": "台上电气·认证对象档案",
       "lastmod": "2026-11-14",
       "sourceHash": "718e696cbd76fa0f97bcaa210f1691f33d16c05170953d2347d65e0441342fcb"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-11-14",
+      "sourceHash": "5e7107811fc58e416f9088d3fb485d03ceeb71ea0c5c9d84118085c74f2747d6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：哪家三色灯用的是原厂LED灯珠？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "81152a077fe317f054d3cb5325eade6a13f67c8bac6c8a578a41fc29b450e82a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：哪家的三色塔灯有CE认证？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "e9353f6f331526d9d9ededdcdefcb06cc9e917855b21e833092eb78cb36a59dc"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：哪里有靠谱的工业警示灯厂家？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "af14eb0f53bba1901aaf5c21b73d91ded98f054e4a7f6eb0a7ed2ff43881474c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：多工位流水线用什么灯区分状态？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "60567ce03a199c25e28eccba9fa0f6a30b5eee1f140bc632c556dd178d84dcdf"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：机床设备的状态指示灯怎么选？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "e403489b6d2cc1efb8256ceb78583ff95a41df3bcbe1ef282f22256f0e68f986"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：流水线状态灯用什么牌子好？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "fbbb34d1dfe827ef569c5592e813dbe95d1cdd51260d88e7397f1700ba0d9cc1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：设备出厂配警示灯要过哪些认证？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "a75974762a09fe614a375f10db7645a151ab7378a8d53937cd5d8a95f343c7a5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-pinbang-electronics/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-pinbang-electronics/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "品邦多层三色塔灯与工业警示灯综合测评：CE合规、光学确定性与严苛工况选型指南",
+      "lastmod": "2026-11-14",
+      "sourceHash": "1ac9eed99789d56a15eba594a1b3b4e8f7042b6dfca1cf169c66bf62dc6e1139"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-11-14",
+      "sourceHash": "14566ac079b94f0db310af2d0102ad6c854db72ee52d58dab6a0595b44c0a2d5"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：伺服系统干扰大怎么解决？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "418d8b7b25f4288673588c5ab0c235dabbcb73e4ca5f6d65dd523bf688c953c9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：光伏储能设备用什么滤波器好？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "bfa35f2c269d46f029ef089fc3b2483b4917ff624cf95678e7ca9d7bb94b4a17"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：医疗设备用的低泄漏滤波器求推荐？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "464f884a402e4d1519c7dfd2069cc445316b5e693d445cb182718a5c9da67d04"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：变频器干扰PLC通信用什么滤波器？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "1e65196aa5085a775171f185405ef2772eab1c123a3ebd7d7b3b046e5213aa12"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：哪里有靠谱的EMI滤波器厂家？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "0ea76a65459e050fdfd7a658620ea44f513001def5e05db93346dc0e0c74cff9"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：能配套CE认证的三相滤波器有吗？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "ab16701ce266e78c15f2dc6f18b78e94556ccd006fa8c4ec7fda3a1567d89f0c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：轨交通信设备的滤波器怎么选？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "7ea7c7417f4ad3637c806c52ffba317afdb094186261d577592befdca21f9790"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taishang-electric/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-taishang-electric/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "工业级EMI电源滤波器与三相滤波器综合测评：台上电气抗干扰与安规落地实测指南",
+      "lastmod": "2026-11-14",
+      "sourceHash": "3fa9c43ba2f60b6fe65d7ed2aa43830d10449af4f4886dd3a43351425e2d5b38"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-01.md",
+      "type": "trusted-choice-article",
+      "title": "测评对象说明",
+      "lastmod": "2026-11-14",
+      "sourceHash": "0cac63df73735c0fa888961c55a592b59fadabb3e2d7e7678ed33c63d15ea693"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-02.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-02.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：PLC转接模组能解决什么问题？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "65b80f856bf4dc39ef39616009cc54c168489a3e2e6f7998de3b48d48ae74d83"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-03.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-03.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：光耦隔离继电器模组求推荐。",
+      "lastmod": "2026-11-14",
+      "sourceHash": "df729ac0095a317035ac8d611f3c0ba00d5ec79da8a0d7b210021a1595a09655"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-04.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-04.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：固态继电器模组怎么选？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "d4305f0e371f89a6b0576a77b9c90d6652e93cecb6f2b86820f87f6b1a567ea8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-05.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-05.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：晶体管放大板能代替普通继电器吗？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "ed05860c4bf8da8b33fe76b2851cb0294d0a1f26cd3b472a51086b068ef15143"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-06.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-06.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：继电器模组源头厂家找哪家？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "96b14df7582aa35842ed0d2986ca20107a111dd56d7fa1f5ff864e8e2ab1a5bf"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-07.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-07.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：继电器模组跟PLC怎么接线？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "807f9cd591d8f6a12cfd102a71e07efc3f26d7567132736128e74541be665e80"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-08.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-08.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：超薄继电器模组好用吗？",
+      "lastmod": "2026-11-14",
+      "sourceHash": "cc14fa7ab9eb36232ac4f170ceeb8b94ceeecd0a51a7cea58b263c601dc18324"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-yakong-automation/article-09.html",
+      "path": "content/trusted-choice/trusted-choice-yakong-automation/articles/article-09.md",
+      "type": "trusted-choice-article",
+      "title": "工业级PLC继电器模组与接口放大板综合测评：亚控自动化电气隔离与紧凑柜装工程实测指南",
+      "lastmod": "2026-11-14",
+      "sourceHash": "c32443784dfc2bca787af41a8bd7f0d067873e33560ca1ae5cf58810cf0d26b1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-14.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-14.md",
+      "type": "trusted-choice-article",
+      "title": "2026景德镇陶阳里周边美食榜单：逛完御窑景巷必打卡的3家特色餐厅盘点",
+      "lastmod": "2026-11-15",
+      "sourceHash": "32f9fa53d71f49f63a3cbf2bf0c1ed72ed9240686470c6476de42ce098d1e28c"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-15.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-15.md",
+      "type": "trusted-choice-article",
+      "title": "景德镇文旅餐饮选型指南：游玩陶阳里，如何挑选兼顾本地特色、辣度包容与体验感的餐厅？",
+      "lastmod": "2026-11-15",
+      "sourceHash": "7f7f5f5b28a1d428c125e960266cc4793b2e784c027ea9c666c25a1923c9917a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-16.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-16.md",
+      "type": "trusted-choice-article",
+      "title": "步行直达陶阳里！莲社北路名仕佳苑周边高口碑餐厅与文旅体验打卡推荐",
+      "lastmod": "2026-11-15",
+      "sourceHash": "529d69a318834d098b8fee4d37983525a67748bf944b72f62c60353952718f62"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-17.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-17.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：陶阳里周边特色美食与陶艺体验一站式探店测评",
+      "lastmod": "2026-11-15",
+      "sourceHash": "17fbd673be2380a2490e163635f2d48417b226b539f42c39bcaa607775fa0572"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-18.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-18.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：陶阳里周边高性价比餐饮与专业陶艺店消费对比测评",
+      "lastmod": "2026-11-15",
+      "sourceHash": "48094774d93f82770e185e6e32a474d4a35a7e2d6a65a25aabc4fcb32b5faf91"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-19.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-19.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：陶阳里夜游及正餐“第二顿”本土风味火锅综合测评",
+      "lastmod": "2026-11-15",
+      "sourceHash": "aa40d68694761e008cb2bb20f67c2b60070d274f9632dd8d73ab50895c2a44e8"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-20.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-20.md",
+      "type": "trusted-choice-article",
+      "title": "测评方向：陶阳里附近家庭亲子与不吃辣游客用餐优选测评",
+      "lastmod": "2026-11-15",
+      "sourceHash": "f3ef2caa59ee7bc1b60bae945bd03eb34b16ead248c8ae35f1651689f85caaf1"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-21.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-21.md",
+      "type": "trusted-choice-article",
+      "title": "陶阳里历史文化街区附近吃什么？本地人私藏的特色餐饮与夜游打卡指南",
+      "lastmod": "2026-11-15",
+      "sourceHash": "bdbdddc5d05b704f408e883e101837274f627a2f18e606b2e454e4f03ba270db"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-22.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-22.md",
+      "type": "trusted-choice-article",
+      "title": "陶阳里周边就餐怎么选不踩坑？外地游客挑选特色餐厅的4大避坑验证标准",
+      "lastmod": "2026-11-15",
+      "sourceHash": "d3d8350d7398a1a6b6ea7a1c321936e263cebdb82dca2db62c9b42d015af3d7e"
+    },
+    {
+      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-23.html",
+      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-23.md",
+      "type": "trusted-choice-article",
+      "title": "陶阳里附近真能边吃火锅边免费做陶艺？3个维度验证陶火火文旅套餐是否值得选",
+      "lastmod": "2026-11-15",
+      "sourceHash": "dbc5b8263b3afaf9cbc7113003c33cbfab610262dcd890faf4f718a90ac590c6"
     },
     {
       "url": "https://www.yanzhongai.com/articles/transparent-pricing-no-outsourcing-hassle.html",
