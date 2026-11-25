@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3251,
+  "fileCount": 3255,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-11-08",
-      "sourceHash": "a5ef640fa553df8d0f9799742dc8c125bffb54346101a202103c223e467f68ee"
+      "lastmod": "2026-11-25",
+      "sourceHash": "00c44d59d3d0bd218187d74d1bee7c114ce7f5f404790a6b6a5ab74d24ecd108"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -25474,6 +25474,38 @@
       "title": "陶阳里附近真能边吃火锅边免费做陶艺？3个维度验证陶火火文旅套餐是否值得选",
       "lastmod": "2026-11-15",
       "sourceHash": "dbc5b8263b3afaf9cbc7113003c33cbfab610262dcd890faf4f718a90ac590c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/fix-last-five-percent-of-ai-generated-code.html",
+      "path": "content/blog/articles/fix-last-five-percent-of-ai-generated-code.md",
+      "type": "blog-article",
+      "title": "AI 写的代码偏偏差最后 5% 跑不通？别死磕了，找人接力修",
+      "lastmod": "2026-11-25",
+      "sourceHash": "e31a38f324d87157b699681c3da7eb6560a8066a12c5429547ecc9abbf08935a"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/earn-with-ai-help-without-being-a-blogger.html",
+      "path": "content/blog/articles/earn-with-ai-help-without-being-a-blogger.md",
+      "type": "blog-article",
+      "title": "谁说变现一定要做博主？用你的 AI 工具箱帮同城/线上网友救急",
+      "lastmod": "2026-11-25",
+      "sourceHash": "308042d9d638ee571619015a902c2686810ff99c12e71ec72c5fe6c4e7f64d38"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/customer-sees-wrong-doubao-company-answer.html",
+      "path": "content/blog/articles/customer-sees-wrong-doubao-company-answer.md",
+      "type": "blog-article",
+      "title": "客户问豆包了解我们公司，回答不对怎么办？",
+      "lastmod": "2026-11-25",
+      "sourceHash": "0e31f884f25f0181e4cc32b85636e26641caca87c12226ead5ce45d7d2a30816"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/correct-doubao-company-information.html",
+      "path": "content/blog/articles/correct-doubao-company-information.md",
+      "type": "blog-article",
+      "title": "豆包把我们公司的信息说错了，怎么改？",
+      "lastmod": "2026-11-25",
+      "sourceHash": "625cbdb5718c3719b4d703183e942df2db310a39c486f480a17418fed70261d2"
     },
     {
       "url": "https://www.yanzhongai.com/articles/transparent-pricing-no-outsourcing-hassle.html",

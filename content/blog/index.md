@@ -2,8 +2,8 @@
 title: "AI 时代，品牌怎么被找到、被推荐"
 canonical_url: "https://www.yanzhongai.com/blog.html"
 source_type: "blog-index"
-lastmod: "2026-11-08"
-source_hash: "a5ef640fa553df8d0f9799742dc8c125bffb54346101a202103c223e467f68ee"
+lastmod: "2026-11-25"
+source_hash: "00c44d59d3d0bd218187d74d1bee7c114ce7f5f404790a6b6a5ab74d24ecd108"
 ---
 博客 · 豆包优化与 GEO 科普
 
@@ -16,6 +16,38 @@ source_hash: "a5ef640fa553df8d0f9799742dc8c125bffb54346101a202103c223e467f68ee"
 每篇针对一个真实问题，适合品牌主、运营和市场团队阅读。
 
 [AI效率
+
+### AI 写的代码偏偏差最后 5% 跑不通？别死磕了，找人接力修
+
+凌晨一点半，屏幕前光标还在闪烁。
+
+2026-11-25 阅读全文 →
+
+](/articles/fix-last-five-percent-of-ai-generated-code.html)[AI效率
+
+### 谁说变现一定要做博主？用你的 AI 工具箱帮同城/线上网友救急
+
+这年头，只要你在搜索引擎里敲下“AI 变现”四个字，大数据算法给你推送的路径永远千篇一律：
+
+2026-11-25 阅读全文 →
+
+](/articles/earn-with-ai-help-without-being-a-blogger.html)[豆包获客
+
+### 客户问豆包了解我们公司，回答不对怎么办？
+
+在日常经营中，越来越多的潜在客户在做供应商选型、采购调研或背景了解时，会直接向豆包等主流 AI 助手提问。然而，不少企业老板和市场负责人近期反映，客户发来的提问截图中，AI 给出的介绍往往令人哭笑不得：有的把主营的制造业务归类成了贸易中介，有的把核心技术参数张冠李戴，有的甚至直接把客户引导推荐给了竞品公司。这类错误不仅直接干扰了客户的采购决策，削弱了前期的信
+
+2026-11-25 阅读全文 →
+
+](/articles/customer-sees-wrong-doubao-company-answer.html)[豆包获客
+
+### 豆包把我们公司的信息说错了，怎么改？
+
+很多企业老板和市场负责人最近都遇到了类似的困扰：在用字节跳动旗下的 AI 助手“豆包”搜索自己公司、旗舰产品或所属行业时，发现 AI 给出的介绍存在明显偏差。
+
+2026-11-25 阅读全文 →
+
+](/articles/correct-doubao-company-information.html)[AI效率
 
 ### 拒绝传统外包的扯皮地狱：这里的单子只有清晰目标和透明报价
 

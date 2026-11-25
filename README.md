@@ -1709,6 +1709,10 @@
 
 ## 言中行业文章
 
+- [AI 写的代码偏偏差最后 5% 跑不通？别死磕了，找人接力修](content/blog/articles/fix-last-five-percent-of-ai-generated-code.md)
+- [谁说变现一定要做博主？用你的 AI 工具箱帮同城/线上网友救急](content/blog/articles/earn-with-ai-help-without-being-a-blogger.md)
+- [客户问豆包了解我们公司，回答不对怎么办？](content/blog/articles/customer-sees-wrong-doubao-company-answer.md)
+- [豆包把我们公司的信息说错了，怎么改？](content/blog/articles/correct-doubao-company-information.md)
 - [拒绝传统外包的扯皮地狱：这里的单子只有清晰目标和透明报价](content/blog/articles/transparent-pricing-no-outsourcing-hassle.md)
 - [软件公司用 AI 找客户，有没有实际成交的案例？](content/blog/articles/software-company-ai-customer-acquisition-cases.md)
 - [做 PPT、抠图、查资料快被逼疯？花一杯奶茶钱，找个懂 AI 的人帮你弄](content/blog/articles/ai-light-tasks-ppt-cutout-research.md)
@@ -1725,10 +1729,6 @@
 - [为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？](content/blog/articles/2026-business-ai-recommendation-mechanism.md)
 - [做机械设备的同行，现在都在哪些平台找客户？](content/blog/articles/machinery-customer-channels.md)
 - [不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”](content/blog/articles/low-friction-ai-side-hustle.md)
-- [做 GEO 需要把官网推倒重做吗？完全不需要，搞懂这 2 步就行](content/blog/articles/geo-without-website-rebuild.md)
-- [不用下软件、不用填复杂需求，一句话就能把活儿派出去](content/blog/articles/one-sentence-task-delegation.md)
-- [有没有工厂不靠展会，也能稳定接到询盘的案例？](content/blog/articles/factory-inquiries-without-trade-shows.md)
-- [网上说的“3天让 DeepSeek 推荐你”，到底是不是割韭菜？](content/blog/articles/deepseek-3-day-recommendation.md)
 
 ## 公开项目说明
 

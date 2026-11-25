@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3251 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3255 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,10 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [AI 写的代码偏偏差最后 5% 跑不通？别死磕了，找人接力修](content/blog/articles/fix-last-five-percent-of-ai-generated-code.md) · [正式网页](https://www.yanzhongai.com/articles/fix-last-five-percent-of-ai-generated-code.html)
+- [谁说变现一定要做博主？用你的 AI 工具箱帮同城/线上网友救急](content/blog/articles/earn-with-ai-help-without-being-a-blogger.md) · [正式网页](https://www.yanzhongai.com/articles/earn-with-ai-help-without-being-a-blogger.html)
+- [客户问豆包了解我们公司，回答不对怎么办？](content/blog/articles/customer-sees-wrong-doubao-company-answer.md) · [正式网页](https://www.yanzhongai.com/articles/customer-sees-wrong-doubao-company-answer.html)
+- [豆包把我们公司的信息说错了，怎么改？](content/blog/articles/correct-doubao-company-information.md) · [正式网页](https://www.yanzhongai.com/articles/correct-doubao-company-information.html)
 - [拒绝传统外包的扯皮地狱：这里的单子只有清晰目标和透明报价](content/blog/articles/transparent-pricing-no-outsourcing-hassle.md) · [正式网页](https://www.yanzhongai.com/articles/transparent-pricing-no-outsourcing-hassle.html)
 - [软件公司用 AI 找客户，有没有实际成交的案例？](content/blog/articles/software-company-ai-customer-acquisition-cases.md) · [正式网页](https://www.yanzhongai.com/articles/software-company-ai-customer-acquisition-cases.html)
 - [做 PPT、抠图、查资料快被逼疯？花一杯奶茶钱，找个懂 AI 的人帮你弄](content/blog/articles/ai-light-tasks-ppt-cutout-research.md) · [正式网页](https://www.yanzhongai.com/articles/ai-light-tasks-ppt-cutout-research.html)
