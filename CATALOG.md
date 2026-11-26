@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3255 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3259 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -23,6 +23,10 @@
 - [国内外大模型的 GEO 内容要怎么布局？](content/blog/articles/ai-models-geo-layout.md) · [正式网页](https://www.yanzhongai.com/articles/ai-models-geo-layout.html)
 - [言中的 GEO 优化工作台有哪些功能？](content/blog/articles/yanzhong-geo-workbench-features.md) · [正式网页](https://www.yanzhongai.com/articles/yanzhong-geo-workbench-features.html)
 - [怎样写 GEO 文案才能被 AI 引用？](content/blog/articles/how-to-write-geo-copy.md) · [正式网页](https://www.yanzhongai.com/articles/how-to-write-geo-copy.html)
+- [豆包介绍我们公司的资料是从哪里来的？](content/blog/articles/where-doubao-company-information-comes-from.md) · [正式网页](https://www.yanzhongai.com/articles/where-doubao-company-information-comes-from.html)
+- [豆包上关于我们公司的错误信息，应该找谁处理？](content/blog/articles/who-fixes-wrong-doubao-company-info.md) · [正式网页](https://www.yanzhongai.com/articles/who-fixes-wrong-doubao-company-info.html)
+- [“让 AI 整理 20 份访谈，结果给我编造数据”——怎么破？](content/blog/articles/ai-interview-summary-fabricated-data.md) · [正式网页](https://www.yanzhongai.com/articles/ai-interview-summary-fabricated-data.html)
+- [一天到晚听人吹 AI 效率高，自己用却卡壳？直接找个人机搭档](content/blog/articles/ai-work-stuck-human-ai-partner.md) · [正式网页](https://www.yanzhongai.com/articles/ai-work-stuck-human-ai-partner.html)
 - [AI 写的代码偏偏差最后 5% 跑不通？别死磕了，找人接力修](content/blog/articles/fix-last-five-percent-of-ai-generated-code.md) · [正式网页](https://www.yanzhongai.com/articles/fix-last-five-percent-of-ai-generated-code.html)
 - [谁说变现一定要做博主？用你的 AI 工具箱帮同城/线上网友救急](content/blog/articles/earn-with-ai-help-without-being-a-blogger.md) · [正式网页](https://www.yanzhongai.com/articles/earn-with-ai-help-without-being-a-blogger.html)
 - [客户问豆包了解我们公司，回答不对怎么办？](content/blog/articles/customer-sees-wrong-doubao-company-answer.md) · [正式网页](https://www.yanzhongai.com/articles/customer-sees-wrong-doubao-company-answer.html)

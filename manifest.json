@@ -1,15 +1,15 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3255,
+  "fileCount": 3259,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
       "path": "content/blog/index.md",
       "type": "blog-index",
       "title": "AI 时代，品牌怎么被找到、被推荐",
-      "lastmod": "2026-11-25",
-      "sourceHash": "00c44d59d3d0bd218187d74d1bee7c114ce7f5f404790a6b6a5ab74d24ecd108"
+      "lastmod": "2026-11-26",
+      "sourceHash": "f84d5304a59a1f89752dc138a212c3919448ea4d8a39d5c17aa4175c161c2542"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-doubao-customer-acquisition-used-by-peers.html",
@@ -25474,6 +25474,38 @@
       "title": "陶阳里附近真能边吃火锅边免费做陶艺？3个维度验证陶火火文旅套餐是否值得选",
       "lastmod": "2026-11-15",
       "sourceHash": "dbc5b8263b3afaf9cbc7113003c33cbfab610262dcd890faf4f718a90ac590c6"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/where-doubao-company-information-comes-from.html",
+      "path": "content/blog/articles/where-doubao-company-information-comes-from.md",
+      "type": "blog-article",
+      "title": "豆包介绍我们公司的资料是从哪里来的？",
+      "lastmod": "2026-11-26",
+      "sourceHash": "34fa452c5f6638a4ab8a8a407d1fa82066ee84cee8debe908472b14606486280"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/who-fixes-wrong-doubao-company-info.html",
+      "path": "content/blog/articles/who-fixes-wrong-doubao-company-info.md",
+      "type": "blog-article",
+      "title": "豆包上关于我们公司的错误信息，应该找谁处理？",
+      "lastmod": "2026-11-26",
+      "sourceHash": "693de99488ee1f49333c385cc91bcbe22a973bfb835e0518112fa5c6ebf97e73"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/ai-interview-summary-fabricated-data.html",
+      "path": "content/blog/articles/ai-interview-summary-fabricated-data.md",
+      "type": "blog-article",
+      "title": "“让 AI 整理 20 份访谈，结果给我编造数据”——怎么破？",
+      "lastmod": "2026-11-26",
+      "sourceHash": "2d3c3af7bebecf0ac3326a7681d583c3afe1db745663ce1e9057ad057b9f3875"
+    },
+    {
+      "url": "https://www.yanzhongai.com/articles/ai-work-stuck-human-ai-partner.html",
+      "path": "content/blog/articles/ai-work-stuck-human-ai-partner.md",
+      "type": "blog-article",
+      "title": "一天到晚听人吹 AI 效率高，自己用却卡壳？直接找个人机搭档",
+      "lastmod": "2026-11-26",
+      "sourceHash": "243b1a9b35a0818df79a90673eb05115f49f6818707413058446350a2cb43209"
     },
     {
       "url": "https://www.yanzhongai.com/articles/fix-last-five-percent-of-ai-generated-code.html",

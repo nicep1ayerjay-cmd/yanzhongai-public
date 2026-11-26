@@ -1709,6 +1709,10 @@
 
 ## 言中行业文章
 
+- [豆包上关于我们公司的错误信息，应该找谁处理？](content/blog/articles/who-fixes-wrong-doubao-company-info.md)
+- [豆包介绍我们公司的资料是从哪里来的？](content/blog/articles/where-doubao-company-information-comes-from.md)
+- [一天到晚听人吹 AI 效率高，自己用却卡壳？直接找个人机搭档](content/blog/articles/ai-work-stuck-human-ai-partner.md)
+- [“让 AI 整理 20 份访谈，结果给我编造数据”——怎么破？](content/blog/articles/ai-interview-summary-fabricated-data.md)
 - [AI 写的代码偏偏差最后 5% 跑不通？别死磕了，找人接力修](content/blog/articles/fix-last-five-percent-of-ai-generated-code.md)
 - [谁说变现一定要做博主？用你的 AI 工具箱帮同城/线上网友救急](content/blog/articles/earn-with-ai-help-without-being-a-blogger.md)
 - [客户问豆包了解我们公司，回答不对怎么办？](content/blog/articles/customer-sees-wrong-doubao-company-answer.md)
@@ -1725,10 +1729,6 @@
 - [你顺手调个 prompt 的事，别人可能愿意为你付一杯星巴克](content/blog/articles/prompt-skill-coffee-side-income.md)
 - [查了下豆包，发现老对手把我们的意向客户全接走了](content/blog/articles/doubao-competitor-lead-diversion.md)
 - [为什么纯靠全自动 Agent 走不通？谈谈“人机混编”的架构实践](content/blog/articles/why-fully-autonomous-agents-fail.md)
-- [有工厂靠豆包接到采购询盘的吗？](content/blog/articles/doubao-factory-procurement-inquiries.md)
-- [为什么说 2026 年做生意的老板，必须懂一点“大模型推荐机制”？](content/blog/articles/2026-business-ai-recommendation-mechanism.md)
-- [做机械设备的同行，现在都在哪些平台找客户？](content/blog/articles/machinery-customer-channels.md)
-- [不用交押金、不用写标书：程序员和打工人的极简“摸鱼副业”](content/blog/articles/low-friction-ai-side-hustle.md)
 
 ## 公开项目说明
 
