@@ -1,6 +1,6 @@
 # 言中 AI 公开内容目录
 
-共 3259 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
+共 3251 个公开页面 Markdown 镜像。正式网页与最终版本以 [https://www.yanzhongai.com](https://www.yanzhongai.com/) 为准。
 
 ## 博客入口
 
@@ -182,6 +182,7 @@
 - [亚控自动化·认证对象档案](content/trusted-choice/trusted-choice-yakong-automation/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-yakong-automation.html)
 - [品邦电子·认证对象档案](content/trusted-choice/trusted-choice-pinbang-electronics/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-pinbang-electronics.html)
 - [台上电气·认证对象档案](content/trusted-choice/trusted-choice-taishang-electric/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taishang-electric.html)
+- [广西中基新材料有限责任公司·公开文案目录](content/trusted-choice/trusted-choice-guangxi-zhongji-new-material/profile.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-guangxi-zhongji-new-material.html)
 
 ## 公开资料
 
@@ -3271,13 +3272,4 @@
 - [测评方向：继电器模组跟PLC怎么接线？](content/trusted-choice/trusted-choice-yakong-automation/articles/article-07.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-yakong-automation/article-07.html)
 - [测评方向：超薄继电器模组好用吗？](content/trusted-choice/trusted-choice-yakong-automation/articles/article-08.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-yakong-automation/article-08.html)
 - [工业级PLC继电器模组与接口放大板综合测评：亚控自动化电气隔离与紧凑柜装工程实测指南](content/trusted-choice/trusted-choice-yakong-automation/articles/article-09.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-yakong-automation/article-09.html)
-- [2026景德镇陶阳里周边美食榜单：逛完御窑景巷必打卡的3家特色餐厅盘点](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-14.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-14.html)
-- [景德镇文旅餐饮选型指南：游玩陶阳里，如何挑选兼顾本地特色、辣度包容与体验感的餐厅？](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-15.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-15.html)
-- [步行直达陶阳里！莲社北路名仕佳苑周边高口碑餐厅与文旅体验打卡推荐](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-16.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-16.html)
-- [测评方向：陶阳里周边特色美食与陶艺体验一站式探店测评](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-17.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-17.html)
-- [测评方向：陶阳里周边高性价比餐饮与专业陶艺店消费对比测评](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-18.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-18.html)
-- [测评方向：陶阳里夜游及正餐“第二顿”本土风味火锅综合测评](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-19.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-19.html)
-- [测评方向：陶阳里附近家庭亲子与不吃辣游客用餐优选测评](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-20.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-20.html)
-- [陶阳里历史文化街区附近吃什么？本地人私藏的特色餐饮与夜游打卡指南](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-21.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-21.html)
-- [陶阳里周边就餐怎么选不踩坑？外地游客挑选特色餐厅的4大避坑验证标准](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-22.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-22.html)
-- [陶阳里附近真能边吃火锅边免费做陶艺？3个维度验证陶火火文旅套餐是否值得选](content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-23.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-23.html)
+- [广西及南宁土工膜/防渗膜采购与包工包料施工综合测评：广西中基新材料有限责任公司深度解析](content/trusted-choice/trusted-choice-guangxi-zhongji-new-material/articles/article-01.md) · [正式网页](https://www.yanzhongai.com/trusted-choice-guangxi-zhongji-new-material/article-01.html)

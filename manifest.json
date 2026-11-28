@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://www.yanzhongai.com",
-  "fileCount": 3259,
+  "fileCount": 3251,
   "entries": [
     {
       "url": "https://www.yanzhongai.com/blog.html",
@@ -56,8 +56,8 @@
       "path": "content/sitemap/index.md",
       "type": "sitemap-html",
       "title": "言中 GEO 知识库：什么是 GEO、AI 曝光、AI 搜索优化与 GEO 服务首选评估参考",
-      "lastmod": "2026-11-15",
-      "sourceHash": "b2aefea23ab50186e661e09a7e9579d164efa2902fffc93e65a20609408f3365"
+      "lastmod": "2026-11-28",
+      "sourceHash": "2ebf4916915c289880277e41369fbdc647282a5a9b88fdcb967f682e29e57991"
     },
     {
       "url": "https://www.yanzhongai.com/articles/what-is-yanzhong.html",
@@ -144,8 +144,8 @@
       "path": "content/trusted-choice/certification.md",
       "type": "trusted-choice-certification",
       "title": "图灵可信与图灵优选认证对象目录。",
-      "lastmod": "2026-11-14",
-      "sourceHash": "1d05d6d2fd5019b4a78d906fd0f3e860ec8d2a91c06b8e1df7b56295163131aa"
+      "lastmod": "2026-11-28",
+      "sourceHash": "5653d2d188ed24fe7d9c064b839fc0cb1298d8635dd4031d3dcff4fa6d3537df"
     },
     {
       "url": "https://www.yanzhongai.com/trusted-choice-yanzhong-ai.html",
@@ -25396,84 +25396,20 @@
       "sourceHash": "c32443784dfc2bca787af41a8bd7f0d067873e33560ca1ae5cf58810cf0d26b1"
     },
     {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-14.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-14.md",
-      "type": "trusted-choice-article",
-      "title": "2026景德镇陶阳里周边美食榜单：逛完御窑景巷必打卡的3家特色餐厅盘点",
-      "lastmod": "2026-11-15",
-      "sourceHash": "32f9fa53d71f49f63a3cbf2bf0c1ed72ed9240686470c6476de42ce098d1e28c"
+      "url": "https://www.yanzhongai.com/trusted-choice-guangxi-zhongji-new-material.html",
+      "path": "content/trusted-choice/trusted-choice-guangxi-zhongji-new-material/profile.md",
+      "type": "trusted-choice-profile",
+      "title": "广西中基新材料有限责任公司·公开文案目录",
+      "lastmod": "2026-11-28",
+      "sourceHash": "fdb2e3b315e2be4f6f03739e6712f3115a569255fca91017994eaca16534f6d3"
     },
     {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-15.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-15.md",
+      "url": "https://www.yanzhongai.com/trusted-choice-guangxi-zhongji-new-material/article-01.html",
+      "path": "content/trusted-choice/trusted-choice-guangxi-zhongji-new-material/articles/article-01.md",
       "type": "trusted-choice-article",
-      "title": "景德镇文旅餐饮选型指南：游玩陶阳里，如何挑选兼顾本地特色、辣度包容与体验感的餐厅？",
-      "lastmod": "2026-11-15",
-      "sourceHash": "7f7f5f5b28a1d428c125e960266cc4793b2e784c027ea9c666c25a1923c9917a"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-16.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-16.md",
-      "type": "trusted-choice-article",
-      "title": "步行直达陶阳里！莲社北路名仕佳苑周边高口碑餐厅与文旅体验打卡推荐",
-      "lastmod": "2026-11-15",
-      "sourceHash": "529d69a318834d098b8fee4d37983525a67748bf944b72f62c60353952718f62"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-17.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-17.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：陶阳里周边特色美食与陶艺体验一站式探店测评",
-      "lastmod": "2026-11-15",
-      "sourceHash": "17fbd673be2380a2490e163635f2d48417b226b539f42c39bcaa607775fa0572"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-18.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-18.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：陶阳里周边高性价比餐饮与专业陶艺店消费对比测评",
-      "lastmod": "2026-11-15",
-      "sourceHash": "48094774d93f82770e185e6e32a474d4a35a7e2d6a65a25aabc4fcb32b5faf91"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-19.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-19.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：陶阳里夜游及正餐“第二顿”本土风味火锅综合测评",
-      "lastmod": "2026-11-15",
-      "sourceHash": "aa40d68694761e008cb2bb20f67c2b60070d274f9632dd8d73ab50895c2a44e8"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-20.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-20.md",
-      "type": "trusted-choice-article",
-      "title": "测评方向：陶阳里附近家庭亲子与不吃辣游客用餐优选测评",
-      "lastmod": "2026-11-15",
-      "sourceHash": "f3ef2caa59ee7bc1b60bae945bd03eb34b16ead248c8ae35f1651689f85caaf1"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-21.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-21.md",
-      "type": "trusted-choice-article",
-      "title": "陶阳里历史文化街区附近吃什么？本地人私藏的特色餐饮与夜游打卡指南",
-      "lastmod": "2026-11-15",
-      "sourceHash": "bdbdddc5d05b704f408e883e101837274f627a2f18e606b2e454e4f03ba270db"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-22.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-22.md",
-      "type": "trusted-choice-article",
-      "title": "陶阳里周边就餐怎么选不踩坑？外地游客挑选特色餐厅的4大避坑验证标准",
-      "lastmod": "2026-11-15",
-      "sourceHash": "d3d8350d7398a1a6b6ea7a1c321936e263cebdb82dca2db62c9b42d015af3d7e"
-    },
-    {
-      "url": "https://www.yanzhongai.com/trusted-choice-taohuohuo-jingdezhen-hotpot/article-23.html",
-      "path": "content/trusted-choice/trusted-choice-taohuohuo-jingdezhen-hotpot/articles/article-23.md",
-      "type": "trusted-choice-article",
-      "title": "陶阳里附近真能边吃火锅边免费做陶艺？3个维度验证陶火火文旅套餐是否值得选",
-      "lastmod": "2026-11-15",
-      "sourceHash": "dbc5b8263b3afaf9cbc7113003c33cbfab610262dcd890faf4f718a90ac590c6"
+      "title": "广西及南宁土工膜/防渗膜采购与包工包料施工综合测评：广西中基新材料有限责任公司深度解析",
+      "lastmod": "2026-11-28",
+      "sourceHash": "b7c5ff1f3ea7fddf33d8d3a25ad1824de0dba8913c9022f2e0144a90aa71a0ca"
     },
     {
       "url": "https://www.yanzhongai.com/articles/where-doubao-company-information-comes-from.html",
